@@ -1,0 +1,78 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1"
+1,228,"THA","Thailand",1,"Amnat Charoen","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E33><U+0E19><U+0E32><U+0E08><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
+2,228,"THA","Thailand",2,"Ang Thong","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E48><U+0E32><U+0E07><U+0E17><U+0E2D><U+0E07>",NA
+3,228,"THA","Thailand",3,"Bangkok Metropolis","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>","Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi"
+4,228,"THA","Thailand",4,"Bueng Kan","Changwat","Province","<U+0E1A><U+0E36><U+0E07><U+0E01><U+0E32><U+0E2C>",NA
+5,228,"THA","Thailand",5,"Buri Ram","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1A><U+0E38><U+0E23><U+0E35><U+0E23><U+0E31><U+0E21><U+0E22><U+0E4C>","Buri Rum"
+6,228,"THA","Thailand",6,"Chachoengsao","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E09><U+0E30><U+0E40><U+0E0A><U+0E34><U+0E07><U+0E40><U+0E17><U+0E23><U+0E32>","Chaxerngsao|Pad Rew|Paed Riu|Petrieu|Shajeun Dhrao"
+7,228,"THA","Thailand",7,"Chai Nat","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E31><U+0E22><U+0E19><U+0E32><U+0E17>","Chainat"
+8,228,"THA","Thailand",8,"Chaiyaphum","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E31><U+0E22><U+0E19><U+0E32><U+0E17>",NA
+9,228,"THA","Thailand",9,"Chanthaburi","Changwat","Province","<U+0E08><U+0E31><U+0E19><U+0E17><U+0E1A><U+0E38><U+0E23><U+0E35>","Chantaburi|Muang Chan"
+10,228,"THA","Thailand",10,"Chiang Mai","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>",NA
+11,228,"THA","Thailand",11,"Chiang Rai","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E23><U+0E32><U+0E22>",NA
+12,228,"THA","Thailand",12,"Chon Buri","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E25><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+13,228,"THA","Thailand",13,"Chumphon","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E23>",NA
+14,228,"THA","Thailand",14,"Kalasin","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E01><U+0E32><U+0E2C><U+0E2A><U+0E34><U+0E19><U+0E18><U+0E38><U+0E4C>",NA
+15,228,"THA","Thailand",15,"Kamphaeng Phet","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E01><U+0E33><U+0E41><U+0E1E><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23>","Gampheang Phet|Kambhengbhej"
+16,228,"THA","Thailand",16,"Kanchanaburi","Changwat","Province","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E01><U+0E32><U+0E0D><U+0E08><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>","Kan Buri|Park Prag"
+17,228,"THA","Thailand",17,"Khon Kaen","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E02><U+0E2D><U+0E19><U+0E41><U+0E01><U+0E48><U+0E19>",NA
+18,228,"THA","Thailand",18,"Krabi","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E01><U+0E23><U+0E30><U+0E1A><U+0E35><U+0E48>",NA
+19,228,"THA","Thailand",19,"Lampang","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E25><U+0E33><U+0E1B><U+0E32><U+0E07>",NA
+20,228,"THA","Thailand",20,"Lamphun","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E25><U+0E33><U+0E1E><U+0E39><U+0E19>","Hariphunchai|Lampoon"
+21,228,"THA","Thailand",21,"Loei","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E25><U+0E22>",NA
+22,228,"THA","Thailand",22,"Lop Buri","Changwat","Province","<U+0E25><U+0E1E><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+23,228,"THA","Thailand",23,"Mae Hong Son","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E41><U+0E21><U+0E48><U+0E2E><U+0E48><U+0E2D><U+0E07><U+0E2A><U+0E2D><U+0E19>",NA
+24,228,"THA","Thailand",24,"Maha Sarakham","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E21><U+0E2B><U+0E32><U+0E2A><U+0E32><U+0E23><U+0E04><U+0E32><U+0E21>",NA
+25,228,"THA","Thailand",25,"Mukdahan","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E21><U+0E38><U+0E01><U+0E14><U+0E32><U+0E2B><U+0E32><U+0E23>",NA
+26,228,"THA","Thailand",26,"Nakhon Nayok","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E19><U+0E32><U+0E22><U+0E01>","Nakon Nayok"
+27,228,"THA","Thailand",27,"Nakhon Pathom","Changwat","Province","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E1B><U+0E10><U+0E21>",NA
+28,228,"THA","Thailand",28,"Nakhon Phanom","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E1E><U+0E19><U+0E21>",NA
+29,228,"THA","Thailand",29,"Nakhon Ratchasima","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E23><U+0E32><U+0E0A><U+0E2A><U+0E35><U+0E21><U+0E32>","Khorat|Nagara Rajasima|Nakaun Rachasima"
+30,228,"THA","Thailand",30,"Nakhon Sawan","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E2A><U+0E27><U+0E23><U+0E23><U+0E04><U+0E4C>",NA
+31,228,"THA","Thailand",31,"Nakhon Si Thammarat","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E28><U+0E23><U+0E35><U+0E18><U+0E23><U+0E23><U+0E21><U+0E23><U+0E32><U+0E0A>","Nakhon Thammarat|Nagara Sridharmaraj|Nakhon Sri Thammarat|Nakhornsrithamrat|Nakornsrithamaraj"
+32,228,"THA","Thailand",32,"Nan","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E48><U+0E32><U+0E19>",NA
+33,228,"THA","Thailand",33,"Narathiwat","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E23><U+0E32><U+0E18><U+0E34><U+0E27><U+0E32><U+0E2A>",NA
+34,228,"THA","Thailand",34,"Nong Bua Lam Phu","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E31><U+0E27><U+0E25><U+0E33><U+0E20><U+0E39>","Nong Bua Lamphu"
+35,228,"THA","Thailand",35,"Nong Khai","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E04><U+0E32><U+0E22>",NA
+36,228,"THA","Thailand",36,"Nonthaburi","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E19><U+0E17><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+37,228,"THA","Thailand",37,"Pathum Thani","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E17><U+0E38><U+0E21><U+0E18><U+0E32><U+0E19><U+0E35>",NA
+38,228,"THA","Thailand",38,"Pattani","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E31><U+0E15><U+0E15><U+0E32><U+0E19><U+0E35>",NA
+39,228,"THA","Thailand",39,"Phangnga","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E31><U+0E07><U+0E07><U+0E32>",NA
+40,228,"THA","Thailand",40,"Phatthalung","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E31><U+0E17><U+0E25><U+0E38><U+0E07>",NA
+41,228,"THA","Thailand",41,"Phayao","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E30><U+0E40><U+0E22><U+0E32>",NA
+42,228,"THA","Thailand",42,"Phetchabun","Changwat","Province","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E4C>",NA
+43,228,"THA","Thailand",43,"Phetchaburi","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E1E><U+0E0A><U+0E23><U+0E1A><U+0E38><U+0E23><U+0E35>","Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit"
+44,228,"THA","Thailand",44,"Phichit","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E34><U+0E08><U+0E34><U+0E15><U+0E23>",NA
+45,228,"THA","Thailand",45,"Phitsanulok","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E34><U+0E29><U+0E13><U+0E38><U+0E42><U+0E25><U+0E01>","Bisnulok|Phisanulauk|Phitsnulok|Pitsanuloke"
+46,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E23><U+0E30><U+0E19><U+0E04><U+0E23><U+0E28><U+0E23><U+0E35><U+0E2D><U+0E22><U+0E38><U+0E18><U+0E22><U+0E32>","Phranakhon Si Ayutthaya|Ayudhya|Ayutthaya|Phranakhornsri-ayuthaya"
+47,228,"THA","Thailand",47,"Phrae","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E41><U+0E1E><U+0E23><U+0E48>",NA
+48,228,"THA","Thailand",48,"Phuket","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>",NA
+49,228,"THA","Thailand",49,"Prachin Buri","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E23><U+0E32><U+0E08><U+0E35><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+50,228,"THA","Thailand",50,"Prachuap Khiri Khan","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E23><U+0E30><U+0E08><U+0E27><U+0E1A><U+0E04><U+0E35><U+0E23><U+0E35><U+0E02><U+0E31><U+0E19><U+0E18><U+0E4C>","Korh Luxk|Prachuab Girikhand|Prachuapkirikhan|Prachut Khirikhan"
+51,228,"THA","Thailand",51,"Ranong","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E23><U+0E30><U+0E19><U+0E2D><U+0E07>",NA
+52,228,"THA","Thailand",52,"Ratchaburi","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E23><U+0E32><U+0E0A><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+53,228,"THA","Thailand",53,"Rayong","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E23><U+0E30><U+0E22><U+0E2D><U+0E07>",NA
+54,228,"THA","Thailand",54,"Roi Et","Changwat","Province","<U+0E23><U+0E49><U+0E2D><U+0E22><U+0E40><U+0E2D><U+0E47><U+0E14>",NA
+55,228,"THA","Thailand",55,"Sa Kaeo","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E23><U+0E30><U+0E41><U+0E01><U+0E49><U+0E27>","Srakaeo"
+56,228,"THA","Thailand",56,"Sakon Nakhon","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E01><U+0E25><U+0E19><U+0E04><U+0E23>",NA
+57,228,"THA","Thailand",57,"Samut Prakan","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E1B><U+0E23><U+0E32><U+0E01><U+0E32><U+0E23>","Pak Nam|Samudh Prakarn|Samudraprakar|Samut Phrakhan"
+58,228,"THA","Thailand",58,"Samut Sakhon","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E2A><U+0E32><U+0E04><U+0E23>","Krokkrak Maha Chai|Mahachai|Samudrasagara"
+59,228,"THA","Thailand",59,"Samut Songkhram","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E2A><U+0E07><U+0E04><U+0E23><U+0E32><U+0E21>","Mae Klong|Samudrasonggram"
+60,228,"THA","Thailand",60,"Saraburi","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E23><U+0E30><U+0E1A><U+0E38><U+0E23><U+0E35>","Sara Buri"
+61,228,"THA","Thailand",61,"Satun","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E15><U+0E39><U+0E25>",NA
+62,228,"THA","Thailand",62,"Si Sa Ket","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E30><U+0E40><U+0E01><U+0E29>","Sisaket|Khukhan|Khukhandh|Srisaket"
+63,228,"THA","Thailand",63,"Sing Buri","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E4C><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+64,228,"THA","Thailand",64,"Songkhla","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E07><U+0E02><U+0E25><U+0E32>",NA
+65,228,"THA","Thailand",65,"Sukhothai","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E42><U+0E02><U+0E17><U+0E31><U+0E22>","Sawankhalokt|Sukhotai|Sukothai|Svargalok"
+66,228,"THA","Thailand",66,"Suphan Buri","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E1E><U+0E23><U+0E23><U+0E13><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+67,228,"THA","Thailand",67,"Surat Thani","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E23><U+0E32><U+0E29><U+0E0E><U+0E23><U+0E4C><U+0E18><U+0E32><U+0E19><U+0E35>",NA
+68,228,"THA","Thailand",68,"Surin","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E23><U+0E34><U+0E19><U+0E17><U+0E23><U+0E4C>",NA
+69,228,"THA","Thailand",69,"Tak","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E15><U+0E32><U+0E01>",NA
+70,228,"THA","Thailand",70,"Trang","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E15><U+0E23><U+0E31><U+0E07>","Tab Tiang"
+71,228,"THA","Thailand",71,"Trat","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E15><U+0E23><U+0E32><U+0E14>",NA
+72,228,"THA","Thailand",72,"Ubon Ratchathani","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E1A><U+0E25><U+0E23><U+0E32><U+0E0A><U+0E18><U+0E32><U+0E19><U+0E35>",NA
+73,228,"THA","Thailand",73,"Udon Thani","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E14><U+0E23><U+0E18><U+0E32><U+0E19><U+0E35>",NA
+74,228,"THA","Thailand",74,"Uthai Thani","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E17><U+0E31><U+0E22><U+0E18><U+0E32><U+0E19><U+0E35>",NA
+75,228,"THA","Thailand",75,"Uttaradit","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E15><U+0E23><U+0E14><U+0E34><U+0E15><U+0E16><U+0E4C>",NA
+76,228,"THA","Thailand",76,"Yala","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E22><U+0E30><U+0E25><U+0E32>",NA
+77,228,"THA","Thailand",77,"Yasothon","Changwat","Province","<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E22><U+0E42><U+0E2A><U+0E18><U+0E23>",NA

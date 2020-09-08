@@ -1,0 +1,929 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,228,"THA","Thailand",1,"Amnat Charoen",1,"Chanuman","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E32><U+0E19><U+0E38><U+0E21><U+0E32><U+0E19>",NA
+2,228,"THA","Thailand",1,"Amnat Charoen",2,"Hua Taphan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E31><U+0E27><U+0E15><U+0E30><U+0E1E><U+0E32><U+0E19>",NA
+3,228,"THA","Thailand",1,"Amnat Charoen",3,"Lu Amnat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E37><U+0E2D><U+0E2D><U+0E33><U+0E19><U+0E32><U+0E08>",NA
+4,228,"THA","Thailand",1,"Amnat Charoen",4,"Muang Amnat Charoen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2D><U+0E33><U+0E19><U+0E32><U+0E08><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
+5,228,"THA","Thailand",1,"Amnat Charoen",5,"Pathum Ratwongsa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E17><U+0E38><U+0E21><U+0E23><U+0E32><U+0E0A><U+0E27><U+0E07><U+0E28><U+0E32>",NA
+6,228,"THA","Thailand",1,"Amnat Charoen",6,"Phana","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E32>",NA
+7,228,"THA","Thailand",1,"Amnat Charoen",7,"Senangkhanikhom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2A><U+0E19><U+0E32><U+0E07><U+0E04><U+0E19><U+0E34><U+0E04><U+0E21>",NA
+8,228,"THA","Thailand",2,"Ang Thong",8,"Chaiyo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E0A><U+0E42><U+0E22>",NA
+9,228,"THA","Thailand",2,"Ang Thong",9,"Muang Ang Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2D><U+0E48><U+0E32><U+0E07><U+0E17><U+0E2D><U+0E07>",NA
+10,228,"THA","Thailand",2,"Ang Thong",10,"Pa Mok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E48><U+0E32><U+0E42><U+0E21><U+0E01>",NA
+11,228,"THA","Thailand",2,"Ang Thong",11,"Pho Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E17><U+0E2D><U+0E07>",NA
+12,228,"THA","Thailand",2,"Ang Thong",12,"Samko","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E42><U+0E01><U+0E49>",NA
+13,228,"THA","Thailand",2,"Ang Thong",13,"Sawaengha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E2A><U+0E27><U+0E07><U+0E2B><U+0E32>",NA
+14,228,"THA","Thailand",2,"Ang Thong",14,"Wiset Chai Chan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E34><U+0E40><U+0E28><U+0E29><U+0E0A><U+0E31><U+0E22><U+0E0A><U+0E32><U+0E0D>",NA
+15,228,"THA","Thailand",3,"Bangkok Metropolis",15,"Bang Bon","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E1A><U+0E2D><U+0E19>",NA
+16,228,"THA","Thailand",3,"Bangkok Metropolis",16,"Bang Kapi","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E01><U+0E30><U+0E1B>",NA
+17,228,"THA","Thailand",3,"Bangkok Metropolis",17,"Bang Khae","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E41><U+0E04>",NA
+18,228,"THA","Thailand",3,"Bangkok Metropolis",18,"Bang Khen","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E40><U+0E02><U+0E19>",NA
+19,228,"THA","Thailand",3,"Bangkok Metropolis",19,"Bang Kho Laem","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E04><U+0E2D><U+0E41><U+0E2B><U+0E25><U+0E21>",NA
+20,228,"THA","Thailand",3,"Bangkok Metropolis",20,"Bang Na","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E19><U+0E32>",NA
+21,228,"THA","Thailand",3,"Bangkok Metropolis",21,"Bang Plad","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E1E><U+0E25><U+0E31><U+0E14>","Bang Phlat"
+22,228,"THA","Thailand",3,"Bangkok Metropolis",22,"Bang Rak","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E23><U+0E31><U+0E01>",NA
+23,228,"THA","Thailand",3,"Bangkok Metropolis",23,"Bang Su","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E0B><U+0E37><U+0E48><U+0E2D>","Bang Sue"
+24,228,"THA","Thailand",3,"Bangkok Metropolis",24,"Bangkhuntien","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E02><U+0E38><U+0E19><U+0E40><U+0E17><U+0E35><U+0E22><U+0E19>","Bang Khun Thian"
+25,228,"THA","Thailand",3,"Bangkok Metropolis",25,"Bangkok Noi","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E01><U+0E2D><U+0E01><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+26,228,"THA","Thailand",3,"Bangkok Metropolis",26,"Bangkok Yai","Khet","District","<U+0E1A><U+0E32><U+0E07><U+0E01><U+0E2D><U+0E01><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+27,228,"THA","Thailand",3,"Bangkok Metropolis",27,"Bung Kum","Khet","District","<U+0E1A><U+0E36><U+0E07><U+0E01><U+0E38><U+0E48><U+0E21>","Bueng Kum"
+28,228,"THA","Thailand",3,"Bangkok Metropolis",28,"Chatuchak","Khet","District","<U+0E08><U+0E15><U+0E38><U+0E08><U+0E31><U+0E01><U+0E23>",NA
+29,228,"THA","Thailand",3,"Bangkok Metropolis",29,"Chom Thong","Khet","District","<U+0E08><U+0E2D><U+0E21><U+0E17><U+0E2D><U+0E07>",NA
+30,228,"THA","Thailand",3,"Bangkok Metropolis",30,"Din Dang","Khet","District","<U+0E14><U+0E34><U+0E19><U+0E41><U+0E14><U+0E07>","Din Daeng"
+31,228,"THA","Thailand",3,"Bangkok Metropolis",31,"Don Muang","Khet","District","<U+0E14><U+0E2D><U+0E19><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07>","Don Mueang"
+32,228,"THA","Thailand",3,"Bangkok Metropolis",32,"Dusit","Khet","District","<U+0E14><U+0E38><U+0E2A><U+0E34><U+0E15>",NA
+33,228,"THA","Thailand",3,"Bangkok Metropolis",33,"Huai Kwang","Khet","District","<U+0E2B><U+0E49><U+0E27><U+0E22><U+0E02><U+0E27><U+0E32><U+0E07>",NA
+34,228,"THA","Thailand",3,"Bangkok Metropolis",34,"Khan Na Yao","Khet","District","<U+0E04><U+0E31><U+0E19><U+0E19><U+0E32><U+0E22><U+0E32><U+0E27>",NA
+35,228,"THA","Thailand",3,"Bangkok Metropolis",35,"Khlong Sam Wa","Khet","District","<U+0E04><U+0E25><U+0E2D><U+0E07><U+0E2A><U+0E32><U+0E21><U+0E27><U+0E32>",NA
+36,228,"THA","Thailand",3,"Bangkok Metropolis",36,"Khlong San","Khet","District","<U+0E04><U+0E25><U+0E2D><U+0E07><U+0E2A><U+0E32><U+0E19>",NA
+37,228,"THA","Thailand",3,"Bangkok Metropolis",37,"Khlong Toey","Khet","District","<U+0E04><U+0E25><U+0E2D><U+0E07><U+0E40><U+0E15><U+0E22>","Khlong Toei"
+38,228,"THA","Thailand",3,"Bangkok Metropolis",38,"Lak Si","Khet","District","<U+0E2B><U+0E25><U+0E31><U+0E01><U+0E2A>",NA
+39,228,"THA","Thailand",3,"Bangkok Metropolis",39,"Lat Krabang","Khet","District","<U+0E25><U+0E32><U+0E14><U+0E01><U+0E23><U+0E30><U+0E1A><U+0E31><U+0E07>",NA
+40,228,"THA","Thailand",3,"Bangkok Metropolis",40,"Lat Phrao","Khet","District","<U+0E25><U+0E32><U+0E14><U+0E1E><U+0E23><U+0E49><U+0E32><U+0E27>",NA
+41,228,"THA","Thailand",3,"Bangkok Metropolis",41,"Min Buri","Khet","District","<U+0E21><U+0E35><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+42,228,"THA","Thailand",3,"Bangkok Metropolis",42,"Nong Chok","Khet","District","<U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E08><U+0E2D><U+0E01>",NA
+43,228,"THA","Thailand",3,"Bangkok Metropolis",43,"Nongkheam","Khet","District","<U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E41><U+0E02><U+0E21>","Nong Khaem"
+44,228,"THA","Thailand",3,"Bangkok Metropolis",44,"Pathum Wan","Khet","District","<U+0E1B><U+0E17><U+0E38><U+0E21><U+0E27><U+0E31><U+0E19>",NA
+45,228,"THA","Thailand",3,"Bangkok Metropolis",45,"Phasi Charoen","Khet","District","<U+0E20><U+0E32><U+0E29><U+0E35><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
+46,228,"THA","Thailand",3,"Bangkok Metropolis",46,"Phaya Thai","Khet","District","<U+0E1E><U+0E0D><U+0E32><U+0E44><U+0E17>",NA
+47,228,"THA","Thailand",3,"Bangkok Metropolis",47,"Phra Nakhon","Khet","District","<U+0E1E><U+0E23><U+0E30><U+0E19><U+0E04><U+0E23>",NA
+48,228,"THA","Thailand",3,"Bangkok Metropolis",48,"Pom Pram Sattru","Khet","District","<U+0E1B><U+0E49><U+0E2D><U+0E21><U+0E1B><U+0E23><U+0E32><U+0E1A><U+0E28><U+0E31><U+0E15><U+0E23><U+0E39><U+0E1E><U+0E48><U+0E32><U+0E22>","Pom Pram Sattru Phai"
+49,228,"THA","Thailand",3,"Bangkok Metropolis",49,"Prakanong","Khet","District","<U+0E1E><U+0E23><U+0E30><U+0E42><U+0E02><U+0E19><U+0E07>",NA
+50,228,"THA","Thailand",3,"Bangkok Metropolis",50,"Prawet","Khet","District","<U+0E1B><U+0E23><U+0E30><U+0E40><U+0E27><U+0E28>",NA
+51,228,"THA","Thailand",3,"Bangkok Metropolis",51,"Rat Burana","Khet","District","<U+0E23><U+0E32><U+0E29><U+0E0E><U+0E23><U+0E4C><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E30>",NA
+52,228,"THA","Thailand",3,"Bangkok Metropolis",52,"Ratchathewi","Khet","District","<U+0E23><U+0E32><U+0E0A><U+0E40><U+0E17><U+0E27><U+0E35>","Rat Thewi"
+53,228,"THA","Thailand",3,"Bangkok Metropolis",53,"Sai Mai","Khet","District","<U+0E2A><U+0E32><U+0E22><U+0E44><U+0E2B><U+0E21>",NA
+54,228,"THA","Thailand",3,"Bangkok Metropolis",54,"Samphantawong","Khet","District","<U+0E2A><U+0E31><U+0E21><U+0E1E><U+0E31><U+0E19><U+0E18><U+0E27><U+0E07><U+0E28><U+0E4C>",NA
+55,228,"THA","Thailand",3,"Bangkok Metropolis",55,"Saphan Sung","Khet","District","<U+0E2A><U+0E30><U+0E1E><U+0E32><U+0E19><U+0E2A><U+0E39><U+0E07>",NA
+56,228,"THA","Thailand",3,"Bangkok Metropolis",56,"Sathorn","Khet","District","<U+0E2A><U+0E32><U+0E17><U+0E23>","Saton"
+57,228,"THA","Thailand",3,"Bangkok Metropolis",57,"Suan Luang","Khet","District","<U+0E2A><U+0E27><U+0E19><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+58,228,"THA","Thailand",3,"Bangkok Metropolis",58,"Taling Chan","Khet","District","<U+0E15><U+0E25><U+0E34><U+0E48><U+0E07><U+0E0A><U+0E31><U+0E19>",NA
+59,228,"THA","Thailand",3,"Bangkok Metropolis",59,"Thawi Wattana","Khet","District","<U+0E17><U+0E27><U+0E35><U+0E27><U+0E31><U+0E12><U+0E19><U+0E32>)",NA
+60,228,"THA","Thailand",3,"Bangkok Metropolis",60,"Thon Buri","Khet","District","<U+0E18><U+0E19><U+0E1A><U+0E38><U+0E23>",NA
+61,228,"THA","Thailand",3,"Bangkok Metropolis",61,"Thungkru","Khet","District","<U+0E17><U+0E38><U+0E48><U+0E07><U+0E04><U+0E23><U+0E38>",NA
+62,228,"THA","Thailand",3,"Bangkok Metropolis",62,"Wang Thonglang","Khet","District","<U+0E27><U+0E31><U+0E07><U+0E17><U+0E2D><U+0E07><U+0E2B><U+0E25><U+0E32><U+0E07>",NA
+63,228,"THA","Thailand",3,"Bangkok Metropolis",63,"Wattana","Khet","District","<U+0E27><U+0E31><U+0E12><U+0E19><U+0E32>","Vadhana"
+64,228,"THA","Thailand",3,"Bangkok Metropolis",64,"Yannawa","Khet","District","<U+0E22><U+0E32><U+0E19><U+0E19><U+0E32><U+0E27><U+0E32>",NA
+65,228,"THA","Thailand",4,"Bueng Kan",65,"Bung Kan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E36><U+0E07><U+0E01><U+0E32><U+0E2C>","Bueng Kan"
+66,228,"THA","Thailand",4,"Bueng Kan",66,"Bung Khong Long","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E36><U+0E07><U+0E42><U+0E02><U+0E07><U+0E2B><U+0E25><U+0E07>",NA
+67,228,"THA","Thailand",4,"Bueng Kan",67,"K. Bung Khla","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E38><U+0E48><U+0E07><U+0E04><U+0E25><U+0E49><U+0E32>",NA
+68,228,"THA","Thailand",4,"Bueng Kan",68,"Pak Khat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E04><U+0E32><U+0E14>",NA
+69,228,"THA","Thailand",4,"Bueng Kan",69,"Phon Charoen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
+70,228,"THA","Thailand",4,"Bueng Kan",70,"Seka","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0B><U+0E01><U+0E32>",NA
+71,228,"THA","Thailand",4,"Bueng Kan",71,"Si Wilai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E27><U+0E34><U+0E44><U+0E25>",NA
+72,228,"THA","Thailand",4,"Bueng Kan",72,"So Phisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E0B><U+0E48><U+0E1E><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+73,228,"THA","Thailand",5,"Buri Ram",73,"Ban Kruat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E01><U+0E23><U+0E27><U+0E14>",NA
+74,228,"THA","Thailand",5,"Buri Ram",74,"Ban Mai Chai Pho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E43><U+0E2B><U+0E21><U+0E48><U+0E44><U+0E0A><U+0E22><U+0E1E><U+0E08><U+0E19><U+0E4C>","Ban Mai Chai Phot"
+75,228,"THA","Thailand",5,"Buri Ram",75,"Chalermphrakiet","Amphoe","District","<U+0E40><U+0E09><U+0E25><U+0E34><U+0E21><U+0E1E><U+0E23><U+0E30><U+0E40><U+0E01><U+0E35><U+0E22><U+0E23><U+0E15>","Chaloem Phra Kiat"
+76,228,"THA","Thailand",5,"Buri Ram",76,"Cham Ni","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E33><U+0E19><U+0E34>",NA
+77,228,"THA","Thailand",5,"Buri Ram",77,"Huai Rat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E23><U+0E32><U+0E0A>",NA
+78,228,"THA","Thailand",5,"Buri Ram",78,"K. Ban Dan","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E14><U+0E48><U+0E32><U+0E19>",NA
+79,228,"THA","Thailand",5,"Buri Ram",79,"K. Daen Kong","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E04><U+0E19><U+0E14><U+0E07>","Daen Kong"
+80,228,"THA","Thailand",5,"Buri Ram",80,"Khu Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E39><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07>",NA
+81,228,"THA","Thailand",5,"Buri Ram",81,"Krasang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E23><U+0E30><U+0E2A><U+0E31><U+0E07>",NA
+82,228,"THA","Thailand",5,"Buri Ram",82,"Lahan Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E30><U+0E2B><U+0E32><U+0E19><U+0E17><U+0E23><U+0E32><U+0E22>",NA
+83,228,"THA","Thailand",5,"Buri Ram",83,"Lam Plai Mat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E33><U+0E1B><U+0E25><U+0E32><U+0E22><U+0E21><U+0E32><U+0E28>",NA
+84,228,"THA","Thailand",5,"Buri Ram",84,"Muang Buri Ram","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1A><U+0E38><U+0E23><U+0E35><U+0E23><U+0E31><U+0E21><U+0E22><U+0E4C>",NA
+85,228,"THA","Thailand",5,"Buri Ram",85,"Na Pho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C>",NA
+86,228,"THA","Thailand",5,"Buri Ram",86,"Nang Rong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E07><U+0E23><U+0E2D><U+0E07>",NA
+87,228,"THA","Thailand",5,"Buri Ram",87,"Non Din Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E14><U+0E34><U+0E19><U+0E41><U+0E14><U+0E07>",NA
+88,228,"THA","Thailand",5,"Buri Ram",88,"Non Suwan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E2A><U+0E38><U+0E27><U+0E23><U+0E23><U+0E13>",NA
+89,228,"THA","Thailand",5,"Buri Ram",89,"Nong Hong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2B><U+0E07><U+0E2A><U+0E4C>",NA
+90,228,"THA","Thailand",5,"Buri Ram",90,"Nong Ki","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E01><U+0E35><U+0E48>",NA
+91,228,"THA","Thailand",5,"Buri Ram",91,"Pa Kham","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E30><U+0E04><U+0E33>",NA
+92,228,"THA","Thailand",5,"Buri Ram",92,"Phlapphlachai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E25><U+0E31><U+0E1A><U+0E1E><U+0E25><U+0E32><U+0E0A><U+0E31><U+0E22>",NA
+93,228,"THA","Thailand",5,"Buri Ram",93,"Phutthaisong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E38><U+0E17><U+0E44><U+0E18><U+0E2A><U+0E07>",NA
+94,228,"THA","Thailand",5,"Buri Ram",94,"Prakhon Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E30><U+0E42><U+0E04><U+0E19><U+0E0A><U+0E31><U+0E22>",NA
+95,228,"THA","Thailand",5,"Buri Ram",95,"Satuk","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E15><U+0E36><U+0E01>",NA
+96,228,"THA","Thailand",6,"Chachoengsao",96,"Ban Pho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C>",NA
+97,228,"THA","Thailand",6,"Chachoengsao",97,"Bang Khla","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E04><U+0E25><U+0E49><U+0E32>",NA
+98,228,"THA","Thailand",6,"Chachoengsao",98,"Bang Nam Prieo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E19><U+0E49><U+0E33><U+0E40><U+0E1B><U+0E23><U+0E35><U+0E49><U+0E22><U+0E27>",NA
+99,228,"THA","Thailand",6,"Chachoengsao",99,"Bang Pakong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1B><U+0E30><U+0E01><U+0E07>",NA
+100,228,"THA","Thailand",6,"Chachoengsao",100,"K. Khlong Khuan","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E40><U+0E02><U+0E37><U+0E48><U+0E2D><U+0E19>","Khlong Khuan"
+101,228,"THA","Thailand",6,"Chachoengsao",101,"Muang Chachoengsao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E09><U+0E30><U+0E40><U+0E0A><U+0E34><U+0E07><U+0E40><U+0E17><U+0E23><U+0E32>",NA
+102,228,"THA","Thailand",6,"Chachoengsao",102,"Phanom Sarakham","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E21><U+0E2A><U+0E32><U+0E23><U+0E04><U+0E32><U+0E21>",NA
+103,228,"THA","Thailand",6,"Chachoengsao",103,"Plaeng Yao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E1B><U+0E25><U+0E07><U+0E22><U+0E32><U+0E27>",NA
+104,228,"THA","Thailand",6,"Chachoengsao",104,"Ratchasan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E32><U+0E0A><U+0E2A><U+0E32><U+0E2A><U+0E19><U+0E4C>",NA
+105,228,"THA","Thailand",6,"Chachoengsao",105,"Sanam Chaikhet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E19><U+0E32><U+0E21><U+0E0A><U+0E31><U+0E22><U+0E40><U+0E02><U+0E15>",NA
+106,228,"THA","Thailand",6,"Chachoengsao",106,"Tha Ta Kieb","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E15><U+0E30><U+0E40><U+0E01><U+0E35><U+0E22><U+0E1A>",NA
+107,228,"THA","Thailand",7,"Chai Nat",107,"Han Kha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E31><U+0E19><U+0E04><U+0E32>",NA
+108,228,"THA","Thailand",7,"Chai Nat",108,"K. Noen Kham","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E19><U+0E34><U+0E19><U+0E02><U+0E32><U+0E21>",NA
+109,228,"THA","Thailand",7,"Chai Nat",109,"K. Nong Ma Mong","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E21><U+0E30><U+0E42><U+0E21><U+0E07>","Nong Ma Mong"
+110,228,"THA","Thailand",7,"Chai Nat",110,"Manorom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E42><U+0E19><U+0E23><U+0E21><U+0E22><U+0E4C>",NA
+111,228,"THA","Thailand",7,"Chai Nat",111,"Muang Chai Nat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E0A><U+0E31><U+0E22><U+0E19><U+0E32><U+0E17>",NA
+112,228,"THA","Thailand",7,"Chai Nat",112,"Sankha Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E23><U+0E23><U+0E04><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+113,228,"THA","Thailand",7,"Chai Nat",113,"Sanphaya","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E23><U+0E23><U+0E1E><U+0E22><U+0E32>",NA
+114,228,"THA","Thailand",7,"Chai Nat",114,"Wat Sing","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E4C>",NA
+115,228,"THA","Thailand",8,"Chaiyaphum",115,"Bamnet Narong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E33><U+0E40><U+0E2B><U+0E19><U+0E47><U+0E08><U+0E13><U+0E23><U+0E07><U+0E04><U+0E4C>","Amhpoe Bamnet Narong"
+116,228,"THA","Thailand",8,"Chaiyaphum",116,"Ban Khwao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E40><U+0E02><U+0E27><U+0E49><U+0E32>",NA
+117,228,"THA","Thailand",8,"Chaiyaphum",117,"Ban Thaen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E41><U+0E17><U+0E48><U+0E19>",NA
+118,228,"THA","Thailand",8,"Chaiyaphum",118,"Chatturat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E31><U+0E15><U+0E38><U+0E23><U+0E31><U+0E2A>",NA
+119,228,"THA","Thailand",8,"Chaiyaphum",119,"K. Sap Yai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0B><U+0E31><U+0E1A><U+0E43><U+0E2B><U+0E0D><U+0E48>","Sap Yai"
+120,228,"THA","Thailand",8,"Chaiyaphum",120,"Kaeng Khlo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E01><U+0E49><U+0E07><U+0E04><U+0E23><U+0E49><U+0E2D>","Kaeng Khro"
+121,228,"THA","Thailand",8,"Chaiyaphum",121,"Kaset Sombon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E29><U+0E15><U+0E23><U+0E2A><U+0E21><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E4C>",NA
+122,228,"THA","Thailand",8,"Chaiyaphum",122,"Khon San","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E2D><U+0E19><U+0E2A><U+0E32><U+0E23>",NA
+123,228,"THA","Thailand",8,"Chaiyaphum",123,"Khon Sawan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E2D><U+0E19><U+0E2A><U+0E27><U+0E23><U+0E23><U+0E04><U+0E4C>",NA
+124,228,"THA","Thailand",8,"Chaiyaphum",124,"Muang Chaiyaphum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E0A><U+0E31><U+0E22><U+0E20><U+0E39><U+0E21><U+0E34>","Mueang Chaiyaphum"
+125,228,"THA","Thailand",8,"Chaiyaphum",125,"Noen Sa-Nga","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E19><U+0E34><U+0E19><U+0E2A><U+0E07><U+0E48><U+0E32>",NA
+126,228,"THA","Thailand",8,"Chaiyaphum",126,"Nong Bua Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E31><U+0E27><U+0E41><U+0E14><U+0E07>",NA
+127,228,"THA","Thailand",8,"Chaiyaphum",127,"Nong Bua Rawae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E31><U+0E27><U+0E23><U+0E30><U+0E40><U+0E2B><U+0E27>",NA
+128,228,"THA","Thailand",8,"Chaiyaphum",128,"Phakdi Chumphol","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E31><U+0E01><U+0E14><U+0E35><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E25>","Phakdi Chumphon"
+129,228,"THA","Thailand",8,"Chaiyaphum",129,"Phu Khieo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E40><U+0E02><U+0E35><U+0E22><U+0E27>","Phu Khiao"
+130,228,"THA","Thailand",8,"Chaiyaphum",130,"Thep Sathit","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E17><U+0E1E><U+0E2A><U+0E16><U+0E34><U+0E15>",NA
+131,228,"THA","Thailand",9,"Chanthaburi",131,"K. Kao Kichakut","King Amphoe","Minor district","<U+0E40><U+0E02><U+0E32><U+0E04><U+0E34><U+0E0A><U+0E0C><U+0E01><U+0E39><U+0E0F>","Kao Kichakut"
+132,228,"THA","Thailand",9,"Chanthaburi",132,"K. Na Yai Am","Amphoe","District","<U+0E19><U+0E32><U+0E22><U+0E32><U+0E22><U+0E2D><U+0E32><U+0E21>",NA
+133,228,"THA","Thailand",9,"Chanthaburi",133,"Kang Hang Maeo","Amphoe","District","<U+0E41><U+0E01><U+0E48><U+0E07><U+0E2B><U+0E32><U+0E07><U+0E41><U+0E21><U+0E27>",NA
+134,228,"THA","Thailand",9,"Chanthaburi",134,"Khlung","Amphoe","District","<U+0E02><U+0E25><U+0E38><U+0E07>",NA
+135,228,"THA","Thailand",9,"Chanthaburi",135,"Laem Sing","Amphoe","District","<U+0E41><U+0E2B><U+0E25><U+0E21><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E4C>",NA
+136,228,"THA","Thailand",9,"Chanthaburi",136,"Makham","Amphoe","District","<U+0E21><U+0E30><U+0E02><U+0E32><U+0E21>",NA
+137,228,"THA","Thailand",9,"Chanthaburi",137,"Muang Chanthaburi","Amphoe","District","<U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E08><U+0E31><U+0E19><U+0E17><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+138,228,"THA","Thailand",9,"Chanthaburi",138,"Pong Nam Ron","Amphoe","District","<U+0E42><U+0E1B><U+0E48><U+0E07><U+0E19><U+0E49><U+0E33><U+0E23><U+0E49><U+0E2D><U+0E19>",NA
+139,228,"THA","Thailand",9,"Chanthaburi",139,"Soydow","Amphoe","District","<U+0E2A><U+0E2D><U+0E22><U+0E14><U+0E32><U+0E27>",NA
+140,228,"THA","Thailand",9,"Chanthaburi",140,"Tha Mai","Amphoe","District","<U+0E17><U+0E48><U+0E32><U+0E43><U+0E2B><U+0E21><U+0E48>",NA
+141,228,"THA","Thailand",10,"Chiang Mai",141,"Chai Prakarn","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E0A><U+0E22><U+0E1B><U+0E23><U+0E32><U+0E01><U+0E32><U+0E23>",NA
+142,228,"THA","Thailand",10,"Chiang Mai",142,"Chiang Dao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E14><U+0E32><U+0E27>",NA
+143,228,"THA","Thailand",10,"Chiang Mai",143,"Chom Thong","Amphoe","District","<U+0E08><U+0E2D><U+0E21><U+0E17><U+0E2D><U+0E07>",NA
+144,228,"THA","Thailand",10,"Chiang Mai",144,"Doi Saket","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E22><U+0E2A><U+0E30><U+0E40><U+0E01><U+0E47><U+0E14>",NA
+145,228,"THA","Thailand",10,"Chiang Mai",145,"Doi Tao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E22><U+0E40><U+0E15><U+0E48><U+0E32>",NA
+146,228,"THA","Thailand",10,"Chiang Mai",146,"Fang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1D><U+0E32><U+0E07>",NA
+147,228,"THA","Thailand",10,"Chiang Mai",147,"Hang Dong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E32><U+0E07><U+0E14><U+0E07>",NA
+148,228,"THA","Thailand",10,"Chiang Mai",148,"Hot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2E><U+0E2D><U+0E14>",NA
+149,228,"THA","Thailand",10,"Chiang Mai",149,"K. Doi Lo","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E22><U+0E2B><U+0E25><U+0E48><U+0E2D>",NA
+150,228,"THA","Thailand",10,"Chiang Mai",150,"K. Mae On","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E2D><U+0E2D><U+0E19>",NA
+151,228,"THA","Thailand",10,"Chiang Mai",151,"Mae Ai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E2D><U+0E32><U+0E22>",NA
+152,228,"THA","Thailand",10,"Chiang Mai",152,"Mae Chaem","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E41><U+0E08><U+0E48><U+0E21>",NA
+153,228,"THA","Thailand",10,"Chiang Mai",153,"Mae Rim","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E23><U+0E34><U+0E21>",NA
+154,228,"THA","Thailand",10,"Chiang Mai",154,"Mae Taeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E41><U+0E15><U+0E07>",NA
+155,228,"THA","Thailand",10,"Chiang Mai",155,"Mae Wang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E27><U+0E32><U+0E07>",NA
+156,228,"THA","Thailand",10,"Chiang Mai",156,"Muang Chiang Mai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>",NA
+157,228,"THA","Thailand",10,"Chiang Mai",157,"Omkoi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E21><U+0E01><U+0E4B><U+0E2D><U+0E22>",NA
+158,228,"THA","Thailand",10,"Chiang Mai",158,"Phrao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E49><U+0E32><U+0E27>",NA
+159,228,"THA","Thailand",10,"Chiang Mai",159,"Samoeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E30><U+0E40><U+0E21><U+0E34><U+0E07>",NA
+160,228,"THA","Thailand",10,"Chiang Mai",160,"San Kamphaeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E19><U+0E01><U+0E33><U+0E41><U+0E1E><U+0E07>",NA
+161,228,"THA","Thailand",10,"Chiang Mai",161,"San Pa Tong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E19><U+0E1B><U+0E48><U+0E32><U+0E15><U+0E2D><U+0E07>",NA
+162,228,"THA","Thailand",10,"Chiang Mai",162,"San Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E19><U+0E17><U+0E23><U+0E32><U+0E22>",NA
+163,228,"THA","Thailand",10,"Chiang Mai",163,"Saraphi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E23><U+0E20><U+0E35>",NA
+164,228,"THA","Thailand",10,"Chiang Mai",164,"Wiang Haeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E41><U+0E2B><U+0E07>",NA
+165,228,"THA","Thailand",11,"Chiang Rai",165,"Chiang Khong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E02><U+0E2D><U+0E07>",NA
+166,228,"THA","Thailand",11,"Chiang Rai",166,"Chiang Saen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E41><U+0E2A><U+0E19>",NA
+167,228,"THA","Thailand",11,"Chiang Rai",167,"K. Doi Luang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E22><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+168,228,"THA","Thailand",11,"Chiang Rai",168,"K. Wieng Chiang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E23><U+0E38><U+0E49><U+0E07>","Wieng Chiang"
+169,228,"THA","Thailand",11,"Chiang Rai",169,"Khun Tan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E38><U+0E19><U+0E15><U+0E32><U+0E25>",NA
+170,228,"THA","Thailand",11,"Chiang Rai",170,"Mae Chan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E08><U+0E31><U+0E19>",NA
+171,228,"THA","Thailand",11,"Chiang Rai",171,"Mae Fa Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E1F><U+0E49><U+0E32><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+172,228,"THA","Thailand",11,"Chiang Rai",172,"Mae Lao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E25><U+0E32><U+0E27>",NA
+173,228,"THA","Thailand",11,"Chiang Rai",173,"Mae Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E2A><U+0E32><U+0E22>",NA
+174,228,"THA","Thailand",11,"Chiang Rai",174,"Mae Suai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E2A><U+0E23><U+0E27><U+0E22>",NA
+175,228,"THA","Thailand",11,"Chiang Rai",175,"Muang Chiang Rai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E23><U+0E32><U+0E22>",NA
+176,228,"THA","Thailand",11,"Chiang Rai",176,"Pa Daet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E48><U+0E32><U+0E41><U+0E14><U+0E14>",NA
+177,228,"THA","Thailand",11,"Chiang Rai",177,"Phan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E32><U+0E19>",NA
+178,228,"THA","Thailand",11,"Chiang Rai",178,"Phaya Mengrai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E0D><U+0E32><U+0E40><U+0E21><U+0E47><U+0E07><U+0E23><U+0E32><U+0E22>",NA
+179,228,"THA","Thailand",11,"Chiang Rai",179,"Thoeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E17><U+0E34><U+0E07>",NA
+180,228,"THA","Thailand",11,"Chiang Rai",180,"Wiang Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E0A><U+0E31><U+0E22>",NA
+181,228,"THA","Thailand",11,"Chiang Rai",181,"Wiang Pa Pao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E1B><U+0E48><U+0E32><U+0E40><U+0E1B><U+0E49><U+0E32>",NA
+182,228,"THA","Thailand",11,"Chiang Rai",182,"Wieng Kaen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E41><U+0E01><U+0E48><U+0E19>",NA
+183,228,"THA","Thailand",12,"Chon Buri",183,"Ban Bung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E1A><U+0E36><U+0E07>",NA
+184,228,"THA","Thailand",12,"Chon Buri",184,"Bang Lamung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E25><U+0E30><U+0E21><U+0E38><U+0E07>",NA
+185,228,"THA","Thailand",12,"Chon Buri",185,"Bo Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E48><U+0E2D><U+0E17><U+0E2D><U+0E07>",NA
+186,228,"THA","Thailand",12,"Chon Buri",186,"K. Ko Chan","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E08><U+0E31><U+0E19><U+0E17><U+0E23><U+0E4C>",NA
+187,228,"THA","Thailand",12,"Chon Buri",187,"Ko Sichang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E2A><U+0E35><U+0E0A><U+0E31><U+0E07>",NA
+188,228,"THA","Thailand",12,"Chon Buri",188,"Muang Chon Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E0A><U+0E25><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+189,228,"THA","Thailand",12,"Chon Buri",189,"Nong Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+190,228,"THA","Thailand",12,"Chon Buri",190,"Phan Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E32><U+0E19><U+0E17><U+0E2D><U+0E07>",NA
+191,228,"THA","Thailand",12,"Chon Buri",191,"Phanat Nikhom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E31><U+0E2A><U+0E19><U+0E34><U+0E04><U+0E21>",NA
+192,228,"THA","Thailand",12,"Chon Buri",192,"Sattahip","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E15><U+0E2B><U+0E35><U+0E1A>",NA
+193,228,"THA","Thailand",12,"Chon Buri",193,"Si Racha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E23><U+0E32><U+0E0A><U+0E32>",NA
+194,228,"THA","Thailand",13,"Chumphon",194,"Lamae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E30><U+0E41><U+0E21>",NA
+195,228,"THA","Thailand",13,"Chumphon",195,"Lang Suan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E25><U+0E31><U+0E07><U+0E2A><U+0E27><U+0E19>",NA
+196,228,"THA","Thailand",13,"Chumphon",196,"Muang Chumphon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E23>",NA
+197,228,"THA","Thailand",13,"Chumphon",197,"Pathiu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E30><U+0E17><U+0E34><U+0E27>",NA
+198,228,"THA","Thailand",13,"Chumphon",198,"Phato","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E30><U+0E42><U+0E15><U+0E4A><U+0E30>",NA
+199,228,"THA","Thailand",13,"Chumphon",199,"Sawi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E27><U+0E35>",NA
+200,228,"THA","Thailand",13,"Chumphon",200,"Tha Sae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E41><U+0E0B><U+0E30>",NA
+201,228,"THA","Thailand",13,"Chumphon",201,"Thung Tako","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E15><U+0E30><U+0E42><U+0E01>",NA
+202,228,"THA","Thailand",14,"Kalasin",202,"Huai Mek","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E40><U+0E21><U+0E47><U+0E01>",NA
+203,228,"THA","Thailand",14,"Kalasin",203,"Huai Phung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E1C><U+0E36><U+0E49><U+0E07>",NA
+204,228,"THA","Thailand",14,"Kalasin",204,"K. Don Chan","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E08><U+0E32><U+0E19>",NA
+205,228,"THA","Thailand",14,"Kalasin",205,"K. Kong Chai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E06><U+0E49><U+0E2D><U+0E07><U+0E0A><U+0E31><U+0E22>","Kong Chai"
+206,228,"THA","Thailand",14,"Kalasin",206,"K. Na Du","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E04><U+0E39>","Na Du;Na Khu"
+207,228,"THA","Thailand",14,"Kalasin",207,"K. Sam Chai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E0A><U+0E31><U+0E22>","Sam Chai"
+208,228,"THA","Thailand",14,"Kalasin",208,"Kamalasai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E21><U+0E25><U+0E32><U+0E44><U+0E2A><U+0E22>",NA
+209,228,"THA","Thailand",14,"Kalasin",209,"Kham Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E33><U+0E21><U+0E48><U+0E27><U+0E07>",NA
+210,228,"THA","Thailand",14,"Kalasin",210,"Khao Wong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E27><U+0E07>",NA
+211,228,"THA","Thailand",14,"Kalasin",211,"Kuchinarai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E09><U+0E34><U+0E19><U+0E32><U+0E23><U+0E32><U+0E22><U+0E19><U+0E4C>",NA
+212,228,"THA","Thailand",14,"Kalasin",212,"Muang Kalasin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E01><U+0E32><U+0E2C><U+0E2A><U+0E34><U+0E19><U+0E18><U+0E38><U+0E4C>","Mueang Kalasin"
+213,228,"THA","Thailand",14,"Kalasin",213,"Na Mon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E21><U+0E19>",NA
+214,228,"THA","Thailand",14,"Kalasin",214,"Nong Kung Si","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E01><U+0E38><U+0E07><U+0E28><U+0E23><U+0E35>",NA
+215,228,"THA","Thailand",14,"Kalasin",215,"Rong Kham","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E48><U+0E2D><U+0E07><U+0E04><U+0E33>",NA
+216,228,"THA","Thailand",14,"Kalasin",216,"Sahatsakhan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E2B><U+0E31><U+0E2A><U+0E02><U+0E31><U+0E19><U+0E18><U+0E4C>",NA
+217,228,"THA","Thailand",14,"Kalasin",217,"Somdet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E21><U+0E40><U+0E14><U+0E47><U+0E08>",NA
+218,228,"THA","Thailand",14,"Kalasin",218,"Tha Khantho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E04><U+0E31><U+0E19><U+0E42><U+0E17>",NA
+219,228,"THA","Thailand",14,"Kalasin",219,"Yang Talat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E32><U+0E07><U+0E15><U+0E25><U+0E32><U+0E14>",NA
+220,228,"THA","Thailand",15,"Kamphaeng Phet",220,"K. Bung Samakki","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E36><U+0E07><U+0E2A><U+0E32><U+0E21><U+0E31><U+0E04><U+0E04><U+0E35>","Bung Samakki"
+221,228,"THA","Thailand",15,"Kamphaeng Phet",221,"K. Ko Sam Pi Nakhon","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E01><U+0E2A><U+0E31><U+0E21><U+0E1E><U+0E35><U+0E19><U+0E04><U+0E23>",NA
+222,228,"THA","Thailand",15,"Kamphaeng Phet",222,"Khanu Woralaksaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E32><U+0E13><U+0E38><U+0E27><U+0E23><U+0E25><U+0E31><U+0E01><U+0E29><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+223,228,"THA","Thailand",15,"Kamphaeng Phet",223,"Klong Khlung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E02><U+0E25><U+0E38><U+0E07>",NA
+224,228,"THA","Thailand",15,"Kamphaeng Phet",224,"Klong Lan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E25><U+0E32><U+0E19>",NA
+225,228,"THA","Thailand",15,"Kamphaeng Phet",225,"Lan Krabu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E32><U+0E19><U+0E01><U+0E23><U+0E30><U+0E1A><U+0E37><U+0E2D>",NA
+226,228,"THA","Thailand",15,"Kamphaeng Phet",226,"Mueang Kamphaeng Phet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E01><U+0E33><U+0E41><U+0E1E><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23>","Kamphaeng"
+227,228,"THA","Thailand",15,"Kamphaeng Phet",227,"Pang Sila Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E07><U+0E28><U+0E34><U+0E25><U+0E32><U+0E17><U+0E2D><U+0E07>",NA
+228,228,"THA","Thailand",15,"Kamphaeng Phet",228,"Phran Kratai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E32><U+0E19><U+0E01><U+0E23><U+0E30><U+0E15><U+0E48><U+0E32><U+0E22>",NA
+229,228,"THA","Thailand",15,"Kamphaeng Phet",229,"Sai Ngam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E17><U+0E23><U+0E07><U+0E32><U+0E21>",NA
+230,228,"THA","Thailand",15,"Kamphaeng Phet",230,"Sai Thong Watthana","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E23><U+0E32><U+0E22><U+0E17><U+0E2D><U+0E07><U+0E27><U+0E31><U+0E12><U+0E19><U+0E32>","Sai Thong Pattana"
+231,228,"THA","Thailand",16,"Kanchanaburi",231,"Bo Phloi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E48><U+0E2D><U+0E1E><U+0E25><U+0E2D><U+0E22>",NA
+232,228,"THA","Thailand",16,"Kanchanaburi",232,"Dan Makham Tia","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E48><U+0E32><U+0E19><U+0E21><U+0E30><U+0E02><U+0E32><U+0E21><U+0E40><U+0E15><U+0E35><U+0E49><U+0E22>",NA
+233,228,"THA","Thailand",16,"Kanchanaburi",233,"Huai Kra Chao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E01><U+0E23><U+0E30><U+0E40><U+0E08><U+0E32>",NA
+234,228,"THA","Thailand",16,"Kanchanaburi",234,"Lao Khwan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E25><U+0E32><U+0E02><U+0E27><U+0E31><U+0E0D>",NA
+235,228,"THA","Thailand",16,"Kanchanaburi",235,"Muang Kanchanaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E01><U+0E32><U+0E0D><U+0E08><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>","Kanchanabu|Muang Kanchanabu"
+236,228,"THA","Thailand",16,"Kanchanaburi",236,"Nong Prue","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1B><U+0E23><U+0E37><U+0E2D>",NA
+237,228,"THA","Thailand",16,"Kanchanaburi",237,"Phanom Thuan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E21><U+0E17><U+0E27><U+0E19>",NA
+238,228,"THA","Thailand",16,"Kanchanaburi",238,"Sai Yok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E17><U+0E23><U+0E42><U+0E22><U+0E04>",NA
+239,228,"THA","Thailand",16,"Kanchanaburi",239,"Sangkhla Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E07><U+0E02><U+0E25><U+0E30><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+240,228,"THA","Thailand",16,"Kanchanaburi",240,"Si Sawat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E27><U+0E31><U+0E2A><U+0E14><U+0E34><U+0E4C>",NA
+241,228,"THA","Thailand",16,"Kanchanaburi",241,"Tha Maka","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E21><U+0E30><U+0E01><U+0E32>",NA
+242,228,"THA","Thailand",16,"Kanchanaburi",242,"Tha Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E21><U+0E48><U+0E27><U+0E07>",NA
+243,228,"THA","Thailand",16,"Kanchanaburi",243,"Thong Pha Phum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E2D><U+0E07><U+0E1C><U+0E32><U+0E20><U+0E39><U+0E21><U+0E34>",NA
+244,228,"THA","Thailand",17,"Khon Kaen",244,"Ban Fang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E1D><U+0E32><U+0E07>",NA
+245,228,"THA","Thailand",17,"Khon Kaen",245,"Ban Phai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E44><U+0E1C><U+0E48>",NA
+246,228,"THA","Thailand",17,"Khon Kaen",246,"Chonnabot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E19><U+0E1A><U+0E17>",NA
+247,228,"THA","Thailand",17,"Khon Kaen",247,"Chum Phae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E38><U+0E21><U+0E41><U+0E1E>",NA
+248,228,"THA","Thailand",17,"Khon Kaen",248,"K. Ban Haet","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E41><U+0E2E><U+0E14>",NA
+249,228,"THA","Thailand",17,"Khon Kaen",249,"K. Khok Pho Cha","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E04><U+0E01><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E0A><U+0E31><U+0E22>","Khok Pho Chai"
+250,228,"THA","Thailand",17,"Khon Kaen",250,"K. Non Sila","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E28><U+0E34><U+0E25><U+0E32>",NA
+251,228,"THA","Thailand",17,"Khon Kaen",251,"K. Nong Na Kham","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E19><U+0E32><U+0E04><U+0E33>",NA
+252,228,"THA","Thailand",17,"Khon Kaen",252,"K. Sam Sung","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0B><U+0E33><U+0E2A><U+0E39><U+0E07>",NA
+253,228,"THA","Thailand",17,"Khon Kaen",253,"Khao Suan Kwang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E2A><U+0E27><U+0E19><U+0E01><U+0E27><U+0E32><U+0E07>",NA
+254,228,"THA","Thailand",17,"Khon Kaen",254,"Kranuan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E23><U+0E30><U+0E19><U+0E27><U+0E19>",NA
+255,228,"THA","Thailand",17,"Khon Kaen",255,"Mancha Khiri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E31><U+0E0D><U+0E08><U+0E32><U+0E04><U+0E35><U+0E23><U+0E35>",NA
+256,228,"THA","Thailand",17,"Khon Kaen",256,"Muang Khon Kaen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E02><U+0E2D><U+0E19><U+0E41><U+0E01><U+0E48><U+0E19>",NA
+257,228,"THA","Thailand",17,"Khon Kaen",257,"Nam Phong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E1E><U+0E2D><U+0E07>",NA
+258,228,"THA","Thailand",17,"Khon Kaen",258,"Nong Rua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E40><U+0E23><U+0E37><U+0E2D>","Nong Ruea"
+259,228,"THA","Thailand",17,"Khon Kaen",259,"Nong Song Hong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2A><U+0E2D><U+0E07><U+0E2B><U+0E49><U+0E2D><U+0E07>",NA
+260,228,"THA","Thailand",17,"Khon Kaen",260,"Phon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E25>",NA
+261,228,"THA","Thailand",17,"Khon Kaen",261,"Phra Yun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E22><U+0E37><U+0E19>","Phra Yuen"
+262,228,"THA","Thailand",17,"Khon Kaen",262,"Phu Wiang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07>",NA
+263,228,"THA","Thailand",17,"Khon Kaen",263,"Phupa Man","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E1C><U+0E32><U+0E21><U+0E48><U+0E32><U+0E19>",NA
+264,228,"THA","Thailand",17,"Khon Kaen",264,"Puai Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E1B><U+0E37><U+0E2D><U+0E22><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+265,228,"THA","Thailand",17,"Khon Kaen",265,"Si Chomphu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E35><U+0E0A><U+0E21><U+0E1E><U+0E39>",NA
+266,228,"THA","Thailand",17,"Khon Kaen",266,"Ubol Ratana","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E38><U+0E1A><U+0E25><U+0E23><U+0E31><U+0E15><U+0E19><U+0E4C>",NA
+267,228,"THA","Thailand",17,"Khon Kaen",267,"Waeng Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E27><U+0E07><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+268,228,"THA","Thailand",17,"Khon Kaen",268,"Waeng Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E27><U+0E07><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+269,228,"THA","Thailand",17,"Khon Kaen",269,"Wiang Kao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07>",NA
+270,228,"THA","Thailand",18,"Krabi",270,"Ao Luk","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E48><U+0E32><U+0E27><U+0E25><U+0E36><U+0E01>","Ao Luek"
+271,228,"THA","Thailand",18,"Krabi",271,"Khao Phanom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E1E><U+0E19><U+0E21>",NA
+272,228,"THA","Thailand",18,"Krabi",272,"Khlong Thom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E17><U+0E48><U+0E2D><U+0E21>",NA
+273,228,"THA","Thailand",18,"Krabi",273,"Ko Lanta","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E25><U+0E31><U+0E19><U+0E15><U+0E32>",NA
+274,228,"THA","Thailand",18,"Krabi",274,"Lam Thap","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E33><U+0E17><U+0E31><U+0E1A>",NA
+275,228,"THA","Thailand",18,"Krabi",275,"Muang Krabi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E01><U+0E23><U+0E30><U+0E1A><U+0E35><U+0E48>",NA
+276,228,"THA","Thailand",18,"Krabi",276,"Nua Khlong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2B><U+0E19><U+0E37><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07>",NA
+277,228,"THA","Thailand",18,"Krabi",277,"Plai Phraya","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E25><U+0E32><U+0E22><U+0E1E><U+0E23><U+0E30><U+0E22><U+0E32>",NA
+278,228,"THA","Thailand",19,"Lampang",278,"Chae Hom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E08><U+0E49><U+0E2B><U+0E48><U+0E21>",NA
+279,228,"THA","Thailand",19,"Lampang",279,"Hang Chat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E32><U+0E07><U+0E09><U+0E31><U+0E15><U+0E23>",NA
+280,228,"THA","Thailand",19,"Lampang",280,"Ko Kha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E04><U+0E32>",NA
+281,228,"THA","Thailand",19,"Lampang",281,"Mae Mo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E40><U+0E21><U+0E32><U+0E30>",NA
+282,228,"THA","Thailand",19,"Lampang",282,"Mae Phrik","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E1E><U+0E23><U+0E34><U+0E01>",NA
+283,228,"THA","Thailand",19,"Lampang",283,"Mae Tha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E17><U+0E30>",NA
+284,228,"THA","Thailand",19,"Lampang",284,"Muang Lampang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E25><U+0E33><U+0E1B><U+0E32><U+0E07>",NA
+285,228,"THA","Thailand",19,"Lampang",285,"Mueang Pan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1B><U+0E32><U+0E19>","Muang Pan"
+286,228,"THA","Thailand",19,"Lampang",286,"Ngao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E07><U+0E32><U+0E27>",NA
+287,228,"THA","Thailand",19,"Lampang",287,"Soem Ngam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2A><U+0E23><U+0E34><U+0E21><U+0E07><U+0E32><U+0E21>",NA
+288,228,"THA","Thailand",19,"Lampang",288,"Sop Prap","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E1A><U+0E1B><U+0E23><U+0E32><U+0E1A>",NA
+289,228,"THA","Thailand",19,"Lampang",289,"Thoen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E16><U+0E34><U+0E19>",NA
+290,228,"THA","Thailand",19,"Lampang",290,"Wang Nua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E40><U+0E2B><U+0E19><U+0E37><U+0E2D>",NA
+291,228,"THA","Thailand",20,"Lamphun",291,"Ban Hong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E42><U+0E2E><U+0E48><U+0E07>",NA
+292,228,"THA","Thailand",20,"Lamphun",292,"Ban Thi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E18><U+0E34>",NA
+293,228,"THA","Thailand",20,"Lamphun",293,"K. Wiang Nong Long","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E25><U+0E48><U+0E2D><U+0E07>","Wieng Nong lo"
+294,228,"THA","Thailand",20,"Lamphun",294,"Li","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E35><U+0E49>",NA
+295,228,"THA","Thailand",20,"Lamphun",295,"Mae Tha","Amphoe","District","<U+0E41><U+0E21><U+0E48><U+0E17><U+0E32>",NA
+296,228,"THA","Thailand",20,"Lamphun",296,"Muang Lamphun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E25><U+0E33><U+0E1E><U+0E39><U+0E19>",NA
+297,228,"THA","Thailand",20,"Lamphun",297,"Pa Sang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E48><U+0E32><U+0E0B><U+0E32><U+0E07>",NA
+298,228,"THA","Thailand",20,"Lamphun",298,"Thung Hua Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E2B><U+0E31><U+0E27><U+0E0A><U+0E49><U+0E32><U+0E07>",NA
+299,228,"THA","Thailand",21,"Loei",299,"Chiang Khan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E04><U+0E32><U+0E19>",NA
+300,228,"THA","Thailand",21,"Loei",300,"Dan Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E48><U+0E32><U+0E19><U+0E0B><U+0E49><U+0E32><U+0E22>",NA
+301,228,"THA","Thailand",21,"Loei",301,"K. Erawan","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2D><U+0E23><U+0E32><U+0E27><U+0E31><U+0E13>",NA
+302,228,"THA","Thailand",21,"Loei",302,"K. Nong Hin","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2B><U+0E34><U+0E19>",NA
+303,228,"THA","Thailand",21,"Loei",303,"Muang Loei","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E25><U+0E22>",NA
+304,228,"THA","Thailand",21,"Loei",304,"Na Duang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E14><U+0E49><U+0E27><U+0E07>",NA
+305,228,"THA","Thailand",21,"Loei",305,"Na Haeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E41><U+0E2B><U+0E49><U+0E27>",NA
+306,228,"THA","Thailand",21,"Loei",306,"Pak Chom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E0A><U+0E21>",NA
+307,228,"THA","Thailand",21,"Loei",307,"Pha Khao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1C><U+0E32><U+0E02><U+0E32><U+0E27>",NA
+308,228,"THA","Thailand",21,"Loei",308,"Phu Kradung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E01><U+0E23><U+0E30><U+0E14><U+0E36><U+0E07>","Phu Kradueng"
+309,228,"THA","Thailand",21,"Loei",309,"Phu Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+310,228,"THA","Thailand",21,"Loei",310,"Phu Rua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E40><U+0E23><U+0E37><U+0E2D>","Phu Ruea"
+311,228,"THA","Thailand",21,"Loei",311,"Tha Li","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E25><U+0E35><U+0E48>",NA
+312,228,"THA","Thailand",21,"Loei",312,"Wang Saphung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E2A><U+0E30><U+0E1E><U+0E38><U+0E07>",NA
+313,228,"THA","Thailand",22,"Lop Buri",313,"Ban Mi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E2B><U+0E21><U+0E35><U+0E48>",NA
+314,228,"THA","Thailand",22,"Lop Buri",314,"Chai Badan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E31><U+0E22><U+0E1A><U+0E32><U+0E14><U+0E32><U+0E25>",NA
+315,228,"THA","Thailand",22,"Lop Buri",315,"Khok Charoen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E04><U+0E01><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
+316,228,"THA","Thailand",22,"Lop Buri",316,"Khok Samrong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E04><U+0E01><U+0E2A><U+0E33><U+0E42><U+0E23><U+0E07>",NA
+317,228,"THA","Thailand",22,"Lop Buri",317,"Lam Son Thi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E33><U+0E2A><U+0E19><U+0E18><U+0E34>",NA
+318,228,"THA","Thailand",22,"Lop Buri",318,"Muang Lop Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E25><U+0E1E><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+319,228,"THA","Thailand",22,"Lop Buri",319,"Nong Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E21><U+0E48><U+0E27><U+0E07>",NA
+320,228,"THA","Thailand",22,"Lop Buri",320,"Phatthana Nikhom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E31><U+0E12><U+0E19><U+0E32><U+0E19><U+0E34><U+0E04><U+0E21>",NA
+321,228,"THA","Thailand",22,"Lop Buri",321,"Sra Both","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E23><U+0E30><U+0E42><U+0E1A><U+0E2A><U+0E16><U+0E4C>",NA
+322,228,"THA","Thailand",22,"Lop Buri",322,"Tha Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+323,228,"THA","Thailand",22,"Lop Buri",323,"Tha Wung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E27><U+0E38><U+0E49><U+0E07>",NA
+324,228,"THA","Thailand",23,"Mae Hong Son",324,"Khun Yuam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E38><U+0E19><U+0E22><U+0E27><U+0E21>",NA
+325,228,"THA","Thailand",23,"Mae Hong Son",325,"Mae La Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E25><U+0E32><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+326,228,"THA","Thailand",23,"Mae Hong Son",326,"Mae Sariang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E2A><U+0E30><U+0E40><U+0E23><U+0E35><U+0E22><U+0E07>",NA
+327,228,"THA","Thailand",23,"Mae Hong Son",327,"Muang Mae Hong Son","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E41><U+0E21><U+0E48><U+0E2E><U+0E48><U+0E2D><U+0E07><U+0E2A><U+0E2D><U+0E19>","Mae Hong S|Muang Mae Hong S"
+328,228,"THA","Thailand",23,"Mae Hong Son",328,"Pai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E22>",NA
+329,228,"THA","Thailand",23,"Mae Hong Son",329,"Pang Ma Pha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E07><U+0E21><U+0E30><U+0E1C><U+0E49><U+0E32>",NA
+330,228,"THA","Thailand",23,"Mae Hong Son",330,"Sop Moei","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E1A><U+0E40><U+0E21><U+0E22>",NA
+331,228,"THA","Thailand",24,"Maha Sarakham",331,"Borabu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E23><U+0E1A><U+0E37><U+0E2D>","Borabue"
+332,228,"THA","Thailand",24,"Maha Sarakham",332,"Chiang Yun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E22><U+0E37><U+0E19>","Chiang Yuen"
+333,228,"THA","Thailand",24,"Maha Sarakham",333,"K. Chun Chom","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E37><U+0E48><U+0E19><U+0E0A><U+0E21>","Chuen Chom"
+334,228,"THA","Thailand",24,"Maha Sarakham",334,"K. Kut Rang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E14><U+0E23><U+0E31><U+0E07>",NA
+335,228,"THA","Thailand",24,"Maha Sarakham",335,"Kae Dam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E01><U+0E14><U+0E33>",NA
+336,228,"THA","Thailand",24,"Maha Sarakham",336,"Kantharawichai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E31><U+0E19><U+0E17><U+0E23><U+0E27><U+0E34><U+0E0A><U+0E31><U+0E22>",NA
+337,228,"THA","Thailand",24,"Maha Sarakham",337,"Kosum Phisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E01><U+0E2A><U+0E38><U+0E21><U+0E1E><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+338,228,"THA","Thailand",24,"Maha Sarakham",338,"Muang Maha Sarakam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E21><U+0E2B><U+0E32><U+0E2A><U+0E32><U+0E23><U+0E04><U+0E32><U+0E21>","Maha Sarak|Muang Maha Sarak"
+339,228,"THA","Thailand",24,"Maha Sarakham",339,"Na Chuak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E40><U+0E0A><U+0E37><U+0E2D><U+0E01>",NA
+340,228,"THA","Thailand",24,"Maha Sarakham",340,"Na Dun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E14><U+0E39><U+0E19>",NA
+341,228,"THA","Thailand",24,"Maha Sarakham",341,"Phayakkhaphum Phisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E22><U+0E31><U+0E04><U+0E06><U+0E20><U+0E39><U+0E21><U+0E34><U+0E1E><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+342,228,"THA","Thailand",24,"Maha Sarakham",342,"Wapi Pathum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E32><U+0E1B><U+0E35><U+0E1B><U+0E17><U+0E38><U+0E21>",NA
+343,228,"THA","Thailand",24,"Maha Sarakham",343,"Yang Si Surat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E32><U+0E07><U+0E2A><U+0E35><U+0E2A><U+0E38><U+0E23><U+0E32><U+0E0A>",NA
+344,228,"THA","Thailand",25,"Mukdahan",344,"Don Tan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E15><U+0E32><U+0E25>",NA
+345,228,"THA","Thailand",25,"Mukdahan",345,"Dong Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E07><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+346,228,"THA","Thailand",25,"Mukdahan",346,"Khamcha-i","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E33><U+0E0A><U+0E30><U+0E2D><U+0E35>",NA
+347,228,"THA","Thailand",25,"Mukdahan",347,"Muang Mukdahan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E21><U+0E38><U+0E01><U+0E14><U+0E32><U+0E2B><U+0E32><U+0E23>",NA
+348,228,"THA","Thailand",25,"Mukdahan",348,"Nikhom Kham Soi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E34><U+0E04><U+0E21><U+0E04><U+0E33><U+0E2A><U+0E23><U+0E49><U+0E2D><U+0E22>",NA
+349,228,"THA","Thailand",25,"Mukdahan",349,"Nong Sung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2A><U+0E39><U+0E07>",NA
+350,228,"THA","Thailand",25,"Mukdahan",350,"Wan Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E27><U+0E49><U+0E32><U+0E19><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+351,228,"THA","Thailand",26,"Nakhon Nayok",351,"Ban Na","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E19><U+0E32>",NA
+352,228,"THA","Thailand",26,"Nakhon Nayok",352,"Muang Nakhon Nayok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E19><U+0E32><U+0E22><U+0E01>",NA
+353,228,"THA","Thailand",26,"Nakhon Nayok",353,"Ongkharak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E07><U+0E04><U+0E23><U+0E31><U+0E01><U+0E29><U+0E4C>",NA
+354,228,"THA","Thailand",26,"Nakhon Nayok",354,"Pak Phli","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E1E><U+0E25><U+0E35>",NA
+355,228,"THA","Thailand",27,"Nakhon Pathom",355,"Bang Len","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E40><U+0E25><U+0E19>",NA
+356,228,"THA","Thailand",27,"Nakhon Pathom",356,"Don Tum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E15><U+0E39><U+0E21>",NA
+357,228,"THA","Thailand",27,"Nakhon Pathom",357,"Kamphaeng Saen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E33><U+0E41><U+0E1E><U+0E07><U+0E41><U+0E2A><U+0E19>",NA
+358,228,"THA","Thailand",27,"Nakhon Pathom",358,"Muang Nakhon Pathom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E1B><U+0E10><U+0E21>",NA
+359,228,"THA","Thailand",27,"Nakhon Pathom",359,"Nakhon Chaisi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E04><U+0E23><U+0E0A><U+0E31><U+0E22><U+0E28><U+0E23><U+0E35>",NA
+360,228,"THA","Thailand",27,"Nakhon Pathom",360,"Phuttha Mon Thon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E38><U+0E17><U+0E18><U+0E21><U+0E13><U+0E11><U+0E25>",NA
+361,228,"THA","Thailand",27,"Nakhon Pathom",361,"Sam Phran","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E1E><U+0E23><U+0E32><U+0E19>",NA
+362,228,"THA","Thailand",28,"Nakhon Phanom",362,"Ban Phaeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E41><U+0E1E><U+0E07>",NA
+363,228,"THA","Thailand",28,"Nakhon Phanom",363,"K. Wang Yang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E22><U+0E32><U+0E07>",NA
+364,228,"THA","Thailand",28,"Nakhon Phanom",364,"Muang Nakhon Phanom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E1E><U+0E19><U+0E21>",NA
+365,228,"THA","Thailand",28,"Nakhon Phanom",365,"Na Kae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E41><U+0E01>",NA
+366,228,"THA","Thailand",28,"Nakhon Phanom",366,"Na Thom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E17><U+0E21>",NA
+367,228,"THA","Thailand",28,"Nakhon Phanom",367,"Na Wa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E2B><U+0E27><U+0E49><U+0E32>",NA
+368,228,"THA","Thailand",28,"Nakhon Phanom",368,"Phon Sawan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E19><U+0E2A><U+0E27><U+0E23><U+0E23><U+0E04><U+0E4C>",NA
+369,228,"THA","Thailand",28,"Nakhon Phanom",369,"Pla Pak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E25><U+0E32><U+0E1B><U+0E32><U+0E01>",NA
+370,228,"THA","Thailand",28,"Nakhon Phanom",370,"Renu Nakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E23><U+0E13><U+0E39><U+0E19><U+0E04><U+0E23>",NA
+371,228,"THA","Thailand",28,"Nakhon Phanom",371,"Si Songkhram","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E07><U+0E04><U+0E23><U+0E32><U+0E21>",NA
+372,228,"THA","Thailand",28,"Nakhon Phanom",372,"Tha Uthen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E2D><U+0E38><U+0E40><U+0E17><U+0E19>",NA
+373,228,"THA","Thailand",28,"Nakhon Phanom",373,"That Phanom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E18><U+0E32><U+0E15><U+0E38><U+0E1E><U+0E19><U+0E21>",NA
+374,228,"THA","Thailand",29,"Nakhon Ratchasima",374,"Ban Luam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E40><U+0E2B><U+0E25><U+0E37><U+0E48><U+0E2D><U+0E21>","Ban Lueam"
+375,228,"THA","Thailand",29,"Nakhon Ratchasima",375,"Bua Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E31><U+0E27><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+376,228,"THA","Thailand",29,"Nakhon Ratchasima",376,"Chakkarat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E31><U+0E01><U+0E23><U+0E32><U+0E0A>",NA
+377,228,"THA","Thailand",29,"Nakhon Ratchasima",377,"Chalermphrakiet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E27><U+0E07>","Chaloem Phra Kiat"
+378,228,"THA","Thailand",29,"Nakhon Ratchasima",378,"Chok Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E0A><U+0E04><U+0E0A><U+0E31><U+0E22>",NA
+379,228,"THA","Thailand",29,"Nakhon Ratchasima",379,"Chum Phuang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E27><U+0E07>",NA
+380,228,"THA","Thailand",29,"Nakhon Ratchasima",380,"Dan Khun Thot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E48><U+0E32><U+0E19><U+0E02><U+0E38><U+0E19><U+0E17><U+0E14>",NA
+381,228,"THA","Thailand",29,"Nakhon Ratchasima",381,"Huai Thalang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E41><U+0E16><U+0E25><U+0E07>","Huai Thalaeng"
+382,228,"THA","Thailand",29,"Nakhon Ratchasima",382,"K. Bua Lai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E31><U+0E27><U+0E25><U+0E32><U+0E22>","Bua Lai"
+383,228,"THA","Thailand",29,"Nakhon Ratchasima",383,"K. Lam Tha Men Chai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E33><U+0E17><U+0E30><U+0E40><U+0E21><U+0E19><U+0E0A><U+0E31><U+0E22>","Lam Thamenchai"
+384,228,"THA","Thailand",29,"Nakhon Ratchasima",384,"K. Muang Yang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E22><U+0E32><U+0E07>","Muang Yang|Mueang Yang"
+385,228,"THA","Thailand",29,"Nakhon Ratchasima",385,"K. Phra Thong Kham","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E17><U+0E2D><U+0E07><U+0E04><U+0E33>","Phra Thong Kham"
+386,228,"THA","Thailand",29,"Nakhon Ratchasima",386,"K. Sida","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E35><U+0E14><U+0E32>",NA
+387,228,"THA","Thailand",29,"Nakhon Ratchasima",387,"K. The Pha Rak","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E17><U+0E1E><U+0E32><U+0E23><U+0E31><U+0E01><U+0E29><U+0E4C>","The Pha Rak|Thepharak"
+388,228,"THA","Thailand",29,"Nakhon Ratchasima",388,"Kaeng Sanam Nang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E01><U+0E49><U+0E07><U+0E2A><U+0E19><U+0E32><U+0E21><U+0E19><U+0E32><U+0E07>",NA
+389,228,"THA","Thailand",29,"Nakhon Ratchasima",389,"Kham Sakae Saeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E32><U+0E21><U+0E2A><U+0E30><U+0E41><U+0E01><U+0E41><U+0E2A><U+0E07>",NA
+390,228,"THA","Thailand",29,"Nakhon Ratchasima",390,"Kham Thala So","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E32><U+0E21><U+0E17><U+0E30><U+0E40><U+0E25><U+0E2A><U+0E2D>","Kham Thale So"
+391,228,"THA","Thailand",29,"Nakhon Ratchasima",391,"Khon Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E23><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+392,228,"THA","Thailand",29,"Nakhon Ratchasima",392,"Khong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E07>",NA
+393,228,"THA","Thailand",29,"Nakhon Ratchasima",393,"Muang Nakhon Ratchasima","Amphoe","District","<U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E23><U+0E32><U+0E0A><U+0E2A><U+0E35><U+0E21><U+0E32>",NA
+394,228,"THA","Thailand",29,"Nakhon Ratchasima",394,"Non Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E41><U+0E14><U+0E07>",NA
+395,228,"THA","Thailand",29,"Nakhon Ratchasima",395,"Non Sung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E2A><U+0E39><U+0E07>",NA
+396,228,"THA","Thailand",29,"Nakhon Ratchasima",396,"Non Thai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E44><U+0E17><U+0E22>",NA
+397,228,"THA","Thailand",29,"Nakhon Ratchasima",397,"Nong Bunnak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E38><U+0E0D><U+0E19><U+0E32><U+0E01>","Nong Bun Mak"
+398,228,"THA","Thailand",29,"Nakhon Ratchasima",398,"Pak Chong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E0A><U+0E48><U+0E2D><U+0E07>",NA
+399,228,"THA","Thailand",29,"Nakhon Ratchasima",399,"Pak Thong Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E31><U+0E01><U+0E18><U+0E07><U+0E0A><U+0E31><U+0E22>",NA
+400,228,"THA","Thailand",29,"Nakhon Ratchasima",400,"Phimai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E34><U+0E21><U+0E32><U+0E22>",NA
+401,228,"THA","Thailand",29,"Nakhon Ratchasima",401,"Pra Thai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E30><U+0E17><U+0E32><U+0E22>",NA
+402,228,"THA","Thailand",29,"Nakhon Ratchasima",402,"Sikhiu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E35><U+0E04><U+0E34><U+0E49><U+0E27>",NA
+403,228,"THA","Thailand",29,"Nakhon Ratchasima",403,"Soeng Sang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2A><U+0E34><U+0E07><U+0E2A><U+0E32><U+0E07>",NA
+404,228,"THA","Thailand",29,"Nakhon Ratchasima",404,"Sung Noen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E39><U+0E07><U+0E40><U+0E19><U+0E34><U+0E19>",NA
+405,228,"THA","Thailand",29,"Nakhon Ratchasima",405,"Wang Num Khiaw","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E19><U+0E49><U+0E33><U+0E40><U+0E02><U+0E35><U+0E22><U+0E27>","Wang Nam Khiao"
+406,228,"THA","Thailand",30,"Nakhon Sawan",406,"Banphot Phisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E23><U+0E23><U+0E1E><U+0E15><U+0E1E><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+407,228,"THA","Thailand",30,"Nakhon Sawan",407,"Chumsaeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E38><U+0E21><U+0E41><U+0E2A><U+0E07>",NA
+408,228,"THA","Thailand",30,"Nakhon Sawan",408,"K. Chum Ta Bong","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E38><U+0E21><U+0E15><U+0E32><U+0E1A><U+0E07>",NA
+409,228,"THA","Thailand",30,"Nakhon Sawan",409,"K. Mae Poen","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E40><U+0E1B><U+0E34><U+0E19>",NA
+410,228,"THA","Thailand",30,"Nakhon Sawan",410,"Kao Lieo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E49><U+0E32><U+0E40><U+0E25><U+0E35><U+0E49><U+0E22><U+0E27>",NA
+411,228,"THA","Thailand",30,"Nakhon Sawan",411,"Krok Phra","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E01><U+0E23><U+0E01><U+0E1E><U+0E23><U+0E30>",NA
+412,228,"THA","Thailand",30,"Nakhon Sawan",412,"Lat Yao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E32><U+0E14><U+0E22><U+0E32><U+0E27>",NA
+413,228,"THA","Thailand",30,"Nakhon Sawan",413,"Mae Wong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E27><U+0E07><U+0E01><U+0E4C>",NA
+414,228,"THA","Thailand",30,"Nakhon Sawan",414,"Muang Nakhon Sawan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E2A><U+0E27><U+0E23><U+0E23><U+0E04><U+0E4C>",NA
+415,228,"THA","Thailand",30,"Nakhon Sawan",415,"Nong Bua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E31><U+0E27>",NA
+416,228,"THA","Thailand",30,"Nakhon Sawan",416,"Phaisali","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E1E><U+0E28><U+0E32><U+0E25><U+0E35>",NA
+417,228,"THA","Thailand",30,"Nakhon Sawan",417,"Phayuha Khiri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E22><U+0E38><U+0E2B><U+0E30><U+0E04><U+0E35><U+0E23><U+0E35>",NA
+418,228,"THA","Thailand",30,"Nakhon Sawan",418,"Tak Fa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E32><U+0E01><U+0E1F><U+0E49><U+0E32>",NA
+419,228,"THA","Thailand",30,"Nakhon Sawan",419,"Takhli","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E32><U+0E04><U+0E25><U+0E35>",NA
+420,228,"THA","Thailand",30,"Nakhon Sawan",420,"Tha Tako","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E15><U+0E30><U+0E42><U+0E01>",NA
+421,228,"THA","Thailand",31,"Nakhon Si Thammarat",421,"Bang Khan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E02><U+0E31><U+0E19>",NA
+422,228,"THA","Thailand",31,"Nakhon Si Thammarat",422,"Cha-uat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E30><U+0E2D><U+0E27><U+0E14>",NA
+423,228,"THA","Thailand",31,"Nakhon Si Thammarat",423,"Chalermphrakiet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E09><U+0E25><U+0E34><U+0E21><U+0E1E><U+0E23><U+0E30><U+0E40><U+0E01><U+0E35><U+0E22><U+0E23><U+0E15><U+0E34>","Chaloem Phra Kiat"
+424,228,"THA","Thailand",31,"Nakhon Si Thammarat",424,"Chawang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E09><U+0E27><U+0E32><U+0E07>",NA
+425,228,"THA","Thailand",31,"Nakhon Si Thammarat",425,"Chian Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E23><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+426,228,"THA","Thailand",31,"Nakhon Si Thammarat",426,"Chulaphon","Amphoe","District","<U+0E08><U+0E38><U+0E2C><U+0E32><U+0E20><U+0E23><U+0E13>","Chulabhorn"
+427,228,"THA","Thailand",31,"Nakhon Si Thammarat",427,"Hua Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E31><U+0E27><U+0E44><U+0E17><U+0E23>",NA
+428,228,"THA","Thailand",31,"Nakhon Si Thammarat",428,"K. Chang Klang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E49><U+0E32><U+0E07><U+0E01><U+0E25><U+0E32><U+0E07>",NA
+429,228,"THA","Thailand",31,"Nakhon Si Thammarat",429,"K. Nophi Tam","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E1A><U+0E1E><U+0E34><U+0E15><U+0E33>","Nophi Tam"
+430,228,"THA","Thailand",31,"Nakhon Si Thammarat",430,"Khanom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E19><U+0E2D><U+0E21>",NA
+431,228,"THA","Thailand",31,"Nakhon Si Thammarat",431,"Lan Saka","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E32><U+0E19><U+0E2A><U+0E01><U+0E32>",NA
+432,228,"THA","Thailand",31,"Nakhon Si Thammarat",432,"Muang Nakhon Si Thammarat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E28><U+0E23><U+0E35><U+0E18><U+0E23><U+0E23><U+0E21><U+0E23><U+0E32><U+0E0A>",NA
+433,228,"THA","Thailand",31,"Nakhon Si Thammarat",433,"Na Bon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E1A><U+0E2D><U+0E19>",NA
+434,228,"THA","Thailand",31,"Nakhon Si Thammarat",434,"Pak Phanang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E1E><U+0E19><U+0E31><U+0E07>",NA
+435,228,"THA","Thailand",31,"Nakhon Si Thammarat",435,"Phi Pun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E34><U+0E1B><U+0E39><U+0E19>",NA
+436,228,"THA","Thailand",31,"Nakhon Si Thammarat",436,"Phra Phrom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E1E><U+0E23><U+0E2B><U+0E21>",NA
+437,228,"THA","Thailand",31,"Nakhon Si Thammarat",437,"Phrommakhiri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E2B><U+0E21><U+0E04><U+0E35><U+0E23><U+0E35>",NA
+438,228,"THA","Thailand",31,"Nakhon Si Thammarat",438,"Ron Phi Pun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E48><U+0E2D><U+0E19><U+0E1E><U+0E34><U+0E1A><U+0E39><U+0E25><U+0E22><U+0E4C>",NA
+439,228,"THA","Thailand",31,"Nakhon Si Thammarat",439,"Sichon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E34><U+0E0A><U+0E25>",NA
+440,228,"THA","Thailand",31,"Nakhon Si Thammarat",440,"Tha Sala","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E28><U+0E32><U+0E25><U+0E32>",NA
+441,228,"THA","Thailand",31,"Nakhon Si Thammarat",441,"Tham Phannara","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E16><U+0E49><U+0E33><U+0E1E><U+0E23><U+0E23><U+0E13><U+0E23><U+0E32>",NA
+442,228,"THA","Thailand",31,"Nakhon Si Thammarat",442,"Thung Song","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E2A><U+0E07>",NA
+443,228,"THA","Thailand",31,"Nakhon Si Thammarat",443,"Thung Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+444,228,"THA","Thailand",32,"Nan",444,"Ban Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+445,228,"THA","Thailand",32,"Nan",445,"Bo Klue","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E48><U+0E2D><U+0E40><U+0E01><U+0E25><U+0E37><U+0E2D>",NA
+446,228,"THA","Thailand",32,"Nan",446,"Chalermphrakiet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E09><U+0E25><U+0E34><U+0E21><U+0E1E><U+0E23><U+0E30><U+0E40><U+0E01><U+0E35><U+0E22><U+0E23><U+0E15><U+0E34>",NA
+447,228,"THA","Thailand",32,"Nan",447,"Chiang Klang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E01><U+0E25><U+0E32><U+0E07>",NA
+448,228,"THA","Thailand",32,"Nan",448,"K. Phu Pieng","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E40><U+0E1E><U+0E35><U+0E22><U+0E07>","Phu Pieng"
+449,228,"THA","Thailand",32,"Nan",449,"Mae Charim","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E08><U+0E23><U+0E34><U+0E21>",NA
+450,228,"THA","Thailand",32,"Nan",450,"Muang Nan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E48><U+0E32><U+0E19>",NA
+451,228,"THA","Thailand",32,"Nan",451,"Na Mun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E2B><U+0E21><U+0E37><U+0E48><U+0E19>",NA
+452,228,"THA","Thailand",32,"Nan",452,"Na Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+453,228,"THA","Thailand",32,"Nan",453,"Pua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E31><U+0E27>","Bua"
+454,228,"THA","Thailand",32,"Nan",454,"Santi Suk","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E19><U+0E15><U+0E34><U+0E2A><U+0E38><U+0E02>",NA
+455,228,"THA","Thailand",32,"Nan",455,"Song Kwae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E2D><U+0E07><U+0E41><U+0E04><U+0E27>",NA
+456,228,"THA","Thailand",32,"Nan",456,"Tha Wang Pha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E27><U+0E31><U+0E07><U+0E1C><U+0E32>",NA
+457,228,"THA","Thailand",32,"Nan",457,"Thung Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E0A><U+0E49><U+0E32><U+0E07>",NA
+458,228,"THA","Thailand",32,"Nan",458,"Wiang Sa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E2A><U+0E32>",NA
+459,228,"THA","Thailand",33,"Narathiwat",459,"Bacho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E40><U+0E08><U+0E32><U+0E30>",NA
+460,228,"THA","Thailand",33,"Narathiwat",460,"Cho-I-rong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E08><U+0E32><U+0E30><U+0E44><U+0E2D><U+0E23><U+0E49><U+0E2D><U+0E07>","Cho-airong"
+461,228,"THA","Thailand",33,"Narathiwat",461,"Ja-Nae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E30><U+0E41><U+0E19><U+0E30>","Chanae"
+462,228,"THA","Thailand",33,"Narathiwat",462,"Muang Narathiwat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E23><U+0E32><U+0E18><U+0E34><U+0E27><U+0E32><U+0E2A>",NA
+463,228,"THA","Thailand",33,"Narathiwat",463,"Rangae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E30><U+0E41><U+0E07><U+0E30>",NA
+464,228,"THA","Thailand",33,"Narathiwat",464,"Ruso","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E37><U+0E2D><U+0E40><U+0E2A><U+0E32><U+0E30>","Rueso"
+465,228,"THA","Thailand",33,"Narathiwat",465,"Si Sakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E32><U+0E04><U+0E23>",NA
+466,228,"THA","Thailand",33,"Narathiwat",466,"Su-ngai Ko Lok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E38><U+0E44><U+0E2B><U+0E07><U+0E42><U+0E01>-<U+0E25><U+0E01>",NA
+467,228,"THA","Thailand",33,"Narathiwat",467,"Sukhirin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E38><U+0E04><U+0E34><U+0E23><U+0E34><U+0E19>",NA
+468,228,"THA","Thailand",33,"Narathiwat",468,"Sungai Padi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E38><U+0E44><U+0E2B><U+0E07><U+0E1B><U+0E32><U+0E14><U+0E35>",NA
+469,228,"THA","Thailand",33,"Narathiwat",469,"Tak Bai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E32><U+0E01><U+0E43><U+0E1A>",NA
+470,228,"THA","Thailand",33,"Narathiwat",470,"Waeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E27><U+0E49><U+0E07>",NA
+471,228,"THA","Thailand",33,"Narathiwat",471,"Yi-ngo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E35><U+0E48><U+0E07><U+0E2D>",NA
+472,228,"THA","Thailand",34,"Nong Bua Lam Phu",472,"Muang Nong Bua Lam Phu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E31><U+0E27><U+0E25><U+0E33><U+0E20><U+0E39>",NA
+473,228,"THA","Thailand",34,"Nong Bua Lam Phu",473,"Na Klang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E01><U+0E25><U+0E32><U+0E07>",NA
+474,228,"THA","Thailand",34,"Nong Bua Lam Phu",474,"Na Wang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E27><U+0E31><U+0E07>",NA
+475,228,"THA","Thailand",34,"Nong Bua Lam Phu",475,"Non Sang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E2A><U+0E31><U+0E07>",NA
+476,228,"THA","Thailand",34,"Nong Bua Lam Phu",476,"Si Bun Ruang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E1A><U+0E38><U+0E0D><U+0E40><U+0E23><U+0E37><U+0E2D><U+0E07>","Si Bun Rueang"
+477,228,"THA","Thailand",34,"Nong Bua Lam Phu",477,"Suwan Khuha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E38><U+0E27><U+0E23><U+0E23><U+0E13><U+0E04><U+0E39><U+0E2B><U+0E32>",NA
+478,228,"THA","Thailand",35,"Nong Khai",478,"K. Fao Rai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E1D><U+0E49><U+0E32><U+0E44><U+0E23><U+0E48>",NA
+479,228,"THA","Thailand",35,"Nong Khai",479,"K. Pho Tak","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E15><U+0E32><U+0E01>",NA
+480,228,"THA","Thailand",35,"Nong Khai",480,"K. Rattana Wapi","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E31><U+0E15><U+0E19><U+0E27><U+0E32><U+0E1B><U+0E35>","Rattana Wapi"
+481,228,"THA","Thailand",35,"Nong Khai",481,"K. Sa Khrai","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E23><U+0E30><U+0E43><U+0E04><U+0E23>","Sa Khrai"
+482,228,"THA","Thailand",35,"Nong Khai",482,"Muang Nong Khai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E04><U+0E32><U+0E22>",NA
+483,228,"THA","Thailand",35,"Nong Khai",483,"Phon Phisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E19><U+0E1E><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+484,228,"THA","Thailand",35,"Nong Khai",484,"Sang Khom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E07><U+0E04><U+0E21>",NA
+485,228,"THA","Thailand",35,"Nong Khai",485,"Si Chiang Mai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>",NA
+486,228,"THA","Thailand",35,"Nong Khai",486,"Tha Bo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E1A><U+0E48><U+0E2D>",NA
+487,228,"THA","Thailand",36,"Nonthaburi",487,"Bang Bua Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1A><U+0E31><U+0E27><U+0E17><U+0E2D><U+0E07>",NA
+488,228,"THA","Thailand",36,"Nonthaburi",488,"Bang Kruai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E01><U+0E23><U+0E27><U+0E22>",NA
+489,228,"THA","Thailand",36,"Nonthaburi",489,"Bang Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+490,228,"THA","Thailand",36,"Nonthaburi",490,"Muang Nonthaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E19><U+0E17><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+491,228,"THA","Thailand",36,"Nonthaburi",491,"Pak Kret","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E40><U+0E01><U+0E23><U+0E47><U+0E14>",NA
+492,228,"THA","Thailand",36,"Nonthaburi",492,"Sai Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E17><U+0E23><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+493,228,"THA","Thailand",37,"Pathum Thani",493,"Khlong Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+494,228,"THA","Thailand",37,"Pathum Thani",494,"Lam Luk Ka","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E33><U+0E25><U+0E39><U+0E01><U+0E01><U+0E32>",NA
+495,228,"THA","Thailand",37,"Pathum Thani",495,"Lat Lum Kaeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E32><U+0E14><U+0E2B><U+0E25><U+0E38><U+0E21><U+0E41><U+0E01><U+0E49><U+0E27>",NA
+496,228,"THA","Thailand",37,"Pathum Thani",496,"Muang Pathum Thani","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1B><U+0E17><U+0E38><U+0E21><U+0E18><U+0E32><U+0E19><U+0E35>","Pathum Tha|Muang Pathum Tha"
+497,228,"THA","Thailand",37,"Pathum Thani",497,"Nong Sua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E40><U+0E2A><U+0E37><U+0E2D>",NA
+498,228,"THA","Thailand",37,"Pathum Thani",498,"Sam Khok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E42><U+0E04><U+0E01>",NA
+499,228,"THA","Thailand",37,"Pathum Thani",499,"Thanyaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E18><U+0E31><U+0E0D><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+500,228,"THA","Thailand",38,"Pattani",500,"Ka Pho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E30><U+0E1E><U+0E49><U+0E2D>",NA
+501,228,"THA","Thailand",38,"Pattani",501,"Khok Pho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E04><U+0E01><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C>",NA
+502,228,"THA","Thailand",38,"Pattani",502,"Mae Lan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E25><U+0E32><U+0E19>",NA
+503,228,"THA","Thailand",38,"Pattani",503,"Mai Kaen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E21><U+0E49><U+0E41><U+0E01><U+0E48><U+0E19>",NA
+504,228,"THA","Thailand",38,"Pattani",504,"Mayo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E32><U+0E22><U+0E2D>",NA
+505,228,"THA","Thailand",38,"Pattani",505,"Muang Pattani","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1B><U+0E31><U+0E15><U+0E15><U+0E32><U+0E19><U+0E35>",NA
+506,228,"THA","Thailand",38,"Pattani",506,"Nong Chik","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E08><U+0E34><U+0E01>",NA
+507,228,"THA","Thailand",38,"Pattani",507,"Panare","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E30><U+0E19><U+0E32><U+0E40><U+0E23><U+0E30>",NA
+508,228,"THA","Thailand",38,"Pattani",508,"Sai Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E22><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+509,228,"THA","Thailand",38,"Pattani",509,"Thung Yang Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E22><U+0E32><U+0E07><U+0E41><U+0E14><U+0E07>",NA
+510,228,"THA","Thailand",38,"Pattani",510,"Yarang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E30><U+0E23><U+0E31><U+0E07>",NA
+511,228,"THA","Thailand",38,"Pattani",511,"Yaring","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E30><U+0E2B><U+0E23><U+0E34><U+0E48><U+0E07>",NA
+512,228,"THA","Thailand",39,"Phangnga",512,"Kapong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E30><U+0E1B><U+0E07>",NA
+513,228,"THA","Thailand",39,"Phangnga",513,"Khura Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E38><U+0E23><U+0E30><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+514,228,"THA","Thailand",39,"Phangnga",514,"Ko Yao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E22><U+0E32><U+0E27>",NA
+515,228,"THA","Thailand",39,"Phangnga",515,"Muang Phangnga","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1E><U+0E31><U+0E07><U+0E07><U+0E32>",NA
+516,228,"THA","Thailand",39,"Phangnga",516,"Takua Pa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E30><U+0E01><U+0E31><U+0E48><U+0E27><U+0E1B><U+0E48><U+0E32>",NA
+517,228,"THA","Thailand",39,"Phangnga",517,"Takua Thung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E30><U+0E01><U+0E31><U+0E48><U+0E27><U+0E17><U+0E38><U+0E48><U+0E07>",NA
+518,228,"THA","Thailand",39,"Phangnga",518,"Thai Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E49><U+0E32><U+0E22><U+0E40><U+0E2B><U+0E21><U+0E37><U+0E2D><U+0E07>","Thai Mueang"
+519,228,"THA","Thailand",39,"Phangnga",519,"Thap Put","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E31><U+0E1A><U+0E1B><U+0E38><U+0E14>",NA
+520,228,"THA","Thailand",40,"Phatthalung",520,"Bang Kaeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E41><U+0E01><U+0E49><U+0E27>",NA
+521,228,"THA","Thailand",40,"Phatthalung",521,"K. Sri Nakarin","King Amphoe","Minor district","<U+0E28><U+0E23><U+0E35><U+0E19><U+0E04><U+0E23><U+0E34><U+0E19><U+0E17><U+0E23>","Sri Nakarin|Srinagarindra"
+522,228,"THA","Thailand",40,"Phatthalung",522,"Khao Chaison","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E0A><U+0E31><U+0E22><U+0E2A><U+0E19>",NA
+523,228,"THA","Thailand",40,"Phatthalung",523,"Khuan Khanun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E27><U+0E19><U+0E02><U+0E19><U+0E38><U+0E19>",NA
+524,228,"THA","Thailand",40,"Phatthalung",524,"Kong Ra","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E07><U+0E2B><U+0E23><U+0E32>",NA
+525,228,"THA","Thailand",40,"Phatthalung",525,"Muang Phatthalung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1E><U+0E31><U+0E17><U+0E25><U+0E38><U+0E07>",NA
+526,228,"THA","Thailand",40,"Phatthalung",526,"Pa Bon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E48><U+0E32><U+0E1A><U+0E2D><U+0E19>",NA
+527,228,"THA","Thailand",40,"Phatthalung",527,"Pa Payom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E48><U+0E32><U+0E1E><U+0E30><U+0E22><U+0E2D><U+0E21>",NA
+528,228,"THA","Thailand",40,"Phatthalung",528,"Pak Phayun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E1E><U+0E22><U+0E39><U+0E19>",NA
+529,228,"THA","Thailand",40,"Phatthalung",529,"Si Banphot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E1A><U+0E23><U+0E23><U+0E1E><U+0E15>",NA
+530,228,"THA","Thailand",40,"Phatthalung",530,"Songkhla Lake","Water body","Water body",NA,NA
+531,228,"THA","Thailand",40,"Phatthalung",531,"Tamot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E30><U+0E42><U+0E2B><U+0E21><U+0E14>",NA
+532,228,"THA","Thailand",41,"Phayao",532,"Chiang Kham","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E04><U+0E33>",NA
+533,228,"THA","Thailand",41,"Phayao",533,"Chiang Muan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E21><U+0E48><U+0E27><U+0E19>",NA
+534,228,"THA","Thailand",41,"Phayao",534,"Chun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E38><U+0E19>",NA
+535,228,"THA","Thailand",41,"Phayao",535,"Dok Kham Tai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E01><U+0E04><U+0E33><U+0E43><U+0E15><U+0E49>",NA
+536,228,"THA","Thailand",41,"Phayao",536,"K. Phu Kam Yao","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E01><U+0E32><U+0E21><U+0E22><U+0E32><U+0E27>","Phu Kam Yao"
+537,228,"THA","Thailand",41,"Phayao",537,"K. Phu Sang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E0A><U+0E32><U+0E07>",NA
+538,228,"THA","Thailand",41,"Phayao",538,"Mae Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E43><U+0E08>",NA
+539,228,"THA","Thailand",41,"Phayao",539,"Muang Phayao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1E><U+0E30><U+0E40><U+0E22><U+0E32>",NA
+540,228,"THA","Thailand",41,"Phayao",540,"Pong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E07>",NA
+541,228,"THA","Thailand",42,"Phetchabun",541,"Buang Sam Phan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E36><U+0E07><U+0E2A><U+0E32><U+0E21><U+0E1E><U+0E31><U+0E19>",NA
+542,228,"THA","Thailand",42,"Phetchabun",542,"Chon Daen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E19><U+0E41><U+0E14><U+0E19>",NA
+543,228,"THA","Thailand",42,"Phetchabun",543,"Khao Kho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E04><U+0E49><U+0E2D>",NA
+544,228,"THA","Thailand",42,"Phetchabun",544,"Lom Kao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E25><U+0E48><U+0E21><U+0E40><U+0E01><U+0E48><U+0E32>",NA
+545,228,"THA","Thailand",42,"Phetchabun",545,"Lom Sak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E25><U+0E48><U+0E21><U+0E2A><U+0E31><U+0E01>",NA
+546,228,"THA","Thailand",42,"Phetchabun",546,"Muang Phetchabun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E4C>",NA
+547,228,"THA","Thailand",42,"Phetchabun",547,"Nam Nao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E2B><U+0E19><U+0E32><U+0E27>",NA
+548,228,"THA","Thailand",42,"Phetchabun",548,"Nong Phai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E44><U+0E1C><U+0E48>",NA
+549,228,"THA","Thailand",42,"Phetchabun",549,"Si Thep","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E40><U+0E17><U+0E1E>",NA
+550,228,"THA","Thailand",42,"Phetchabun",550,"Wang Pong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E42><U+0E1B><U+0E48><U+0E07>",NA
+551,228,"THA","Thailand",42,"Phetchabun",551,"Wichian Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E34><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E23><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+552,228,"THA","Thailand",43,"Phetchaburi",552,"Ban Laem","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E41><U+0E2B><U+0E25><U+0E21>",NA
+553,228,"THA","Thailand",43,"Phetchaburi",553,"Ban Lat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E25><U+0E32><U+0E14>",NA
+554,228,"THA","Thailand",43,"Phetchaburi",554,"Cha-Am","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E30><U+0E2D><U+0E33>",NA
+555,228,"THA","Thailand",43,"Phetchaburi",555,"Kaeng Krachan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E01><U+0E48><U+0E07><U+0E01><U+0E23><U+0E30><U+0E08><U+0E32><U+0E19>",NA
+556,228,"THA","Thailand",43,"Phetchaburi",556,"Khao Yoi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E22><U+0E49><U+0E2D><U+0E22>",NA
+557,228,"THA","Thailand",43,"Phetchaburi",557,"Muang Phetchaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23><U+0E1A><U+0E38><U+0E23><U+0E35>","Muang Phetchabur"
+558,228,"THA","Thailand",43,"Phetchaburi",558,"Nong Ya Plong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2B><U+0E0D><U+0E49><U+0E32><U+0E1B><U+0E25><U+0E49><U+0E2D><U+0E07>",NA
+559,228,"THA","Thailand",43,"Phetchaburi",559,"Tha Yang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E22><U+0E32><U+0E07>",NA
+560,228,"THA","Thailand",44,"Phichit",560,"Bang Mun Nak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E21><U+0E39><U+0E25><U+0E19><U+0E32><U+0E01>",NA
+561,228,"THA","Thailand",44,"Phichit",561,"K. Bung Narang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E36><U+0E07><U+0E19><U+0E32><U+0E23><U+0E32><U+0E07>","Bung Narang"
+562,228,"THA","Thailand",44,"Phichit",562,"K. Dong Charoen","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E07><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
+563,228,"THA","Thailand",44,"Phichit",563,"K. Sak Lek","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E01><U+0E40><U+0E2B><U+0E25><U+0E47><U+0E01>",NA
+564,228,"THA","Thailand",44,"Phichit",564,"Muang Phichit","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1E><U+0E34><U+0E08><U+0E34><U+0E15><U+0E23>",NA
+565,228,"THA","Thailand",44,"Phichit",565,"Pho Prathap Chan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E1B><U+0E23><U+0E30><U+0E17><U+0E31><U+0E1A><U+0E0A><U+0E49><U+0E32><U+0E07>","Pho Prathap Chang"
+566,228,"THA","Thailand",44,"Phichit",566,"Pho Thale","Amphoe","District","<U+0E42><U+0E1E><U+0E17><U+0E30><U+0E40><U+0E25>",NA
+567,228,"THA","Thailand",44,"Phichit",567,"Sam Ngam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E07><U+0E48><U+0E32><U+0E21>",NA
+568,228,"THA","Thailand",44,"Phichit",568,"Taphan Hin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E30><U+0E1E><U+0E32><U+0E19><U+0E2B><U+0E34><U+0E19>",NA
+569,228,"THA","Thailand",44,"Phichit",569,"Thap Khlo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E31><U+0E1A><U+0E04><U+0E25><U+0E49><U+0E2D>",NA
+570,228,"THA","Thailand",44,"Phichit",570,"Wachira Barami","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E0A><U+0E34><U+0E23><U+0E30><U+0E1A><U+0E32><U+0E23><U+0E21><U+0E35>",NA
+571,228,"THA","Thailand",44,"Phichit",571,"Wang Sai Phun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E17><U+0E23><U+0E32><U+0E22><U+0E1E><U+0E39><U+0E19>",NA
+572,228,"THA","Thailand",45,"Phitsanulok",572,"Bang Krathum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E01><U+0E23><U+0E30><U+0E17><U+0E38><U+0E48><U+0E21>",NA
+573,228,"THA","Thailand",45,"Phitsanulok",573,"Bang Rakam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E23><U+0E30><U+0E01><U+0E33>",NA
+574,228,"THA","Thailand",45,"Phitsanulok",574,"Chat Trakan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E32><U+0E15><U+0E34><U+0E15><U+0E23><U+0E30><U+0E01><U+0E32><U+0E23>",NA
+575,228,"THA","Thailand",45,"Phitsanulok",575,"Muang Phitsanulok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1E><U+0E34><U+0E29><U+0E13><U+0E38><U+0E42><U+0E25><U+0E01>",NA
+576,228,"THA","Thailand",45,"Phitsanulok",576,"Nakhon Thai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E04><U+0E23><U+0E44><U+0E17><U+0E22>",NA
+577,228,"THA","Thailand",45,"Phitsanulok",577,"Noen Maprang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E19><U+0E34><U+0E19><U+0E21><U+0E30><U+0E1B><U+0E23><U+0E32><U+0E07>",NA
+578,228,"THA","Thailand",45,"Phitsanulok",578,"Phrom Phiram","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E2B><U+0E21><U+0E1E><U+0E34><U+0E23><U+0E32><U+0E21>",NA
+579,228,"THA","Thailand",45,"Phitsanulok",579,"Wang Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E17><U+0E2D><U+0E07>",NA
+580,228,"THA","Thailand",45,"Phitsanulok",580,"Wat Bot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E14><U+0E42><U+0E1A><U+0E2A><U+0E16><U+0E4C>",NA
+581,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",581,"Ban Phraek","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E41><U+0E1E><U+0E23><U+0E01>",NA
+582,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",582,"Bang Ban","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1A><U+0E32><U+0E25>",NA
+583,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",583,"Bang Pa-In","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1B><U+0E30><U+0E2D><U+0E34><U+0E19>",NA
+584,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",584,"Bang Pahan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1B><U+0E30><U+0E2B><U+0E31><U+0E19>",NA
+585,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",585,"Bang Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E44><U+0E17><U+0E23>",NA
+586,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",586,"Lat Bua Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E32><U+0E14><U+0E1A><U+0E31><U+0E27><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+587,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",587,"Maha Rat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E2B><U+0E32><U+0E23><U+0E32><U+0E0A>",NA
+588,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",588,"Nakhon Luang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E04><U+0E23><U+0E2B><U+0E25><U+0E27><U+0E07>",NA
+589,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",589,"Phachi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E32><U+0E0A><U+0E35>",NA
+590,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",590,"Phak Hai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1C><U+0E31><U+0E01><U+0E44><U+0E2B><U+0E48>",NA
+591,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",591,"Phra Nakhon Si Ayutthaya","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E19><U+0E04><U+0E23><U+0E28><U+0E23><U+0E35><U+0E2D><U+0E22><U+0E38><U+0E18><U+0E22><U+0E32>",NA
+592,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",592,"Sena","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2A><U+0E19><U+0E32>",NA
+593,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",593,"Tha Rua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E40><U+0E23><U+0E37><U+0E2D>",NA
+594,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",594,"Uthai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E38><U+0E17><U+0E31><U+0E22>",NA
+595,228,"THA","Thailand",46,"Phra Nakhon Si Ayutthaya",595,"Wang Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+596,228,"THA","Thailand",47,"Phrae",596,"Den Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E14><U+0E48><U+0E19><U+0E0A><U+0E31><U+0E22>",NA
+597,228,"THA","Thailand",47,"Phrae",597,"Long","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E2D><U+0E07>",NA
+598,228,"THA","Thailand",47,"Phrae",598,"Muang Phrae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E41><U+0E1E><U+0E23><U+0E48>",NA
+599,228,"THA","Thailand",47,"Phrae",599,"Nong Muang Kai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E21><U+0E48><U+0E27><U+0E07><U+0E44><U+0E02><U+0E48>",NA
+600,228,"THA","Thailand",47,"Phrae",600,"Rong Kwang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E49><U+0E2D><U+0E07><U+0E01><U+0E27><U+0E32><U+0E07>",NA
+601,228,"THA","Thailand",47,"Phrae",601,"Song","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E2D><U+0E07>",NA
+602,228,"THA","Thailand",47,"Phrae",602,"Sung Men","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E39><U+0E07><U+0E40><U+0E21><U+0E48><U+0E19>",NA
+603,228,"THA","Thailand",47,"Phrae",603,"Wang Chin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E0A><U+0E34><U+0E49><U+0E19>",NA
+604,228,"THA","Thailand",48,"Phuket",604,"Kathu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E30><U+0E17><U+0E39><U+0E49>",NA
+605,228,"THA","Thailand",48,"Phuket",605,"Muang Phuket","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>",NA
+606,228,"THA","Thailand",48,"Phuket",606,"Thalang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E16><U+0E25><U+0E32><U+0E07>",NA
+607,228,"THA","Thailand",49,"Prachin Buri",607,"Ban Sang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E2A><U+0E23><U+0E49><U+0E32><U+0E07>",NA
+608,228,"THA","Thailand",49,"Prachin Buri",608,"Kabin Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E1A><U+0E34><U+0E19><U+0E17><U+0E23><U+0E4C><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+609,228,"THA","Thailand",49,"Prachin Buri",609,"Muang Prachin Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1B><U+0E23><U+0E32><U+0E08><U+0E35><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+610,228,"THA","Thailand",49,"Prachin Buri",610,"Na Di","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E14><U+0E35>",NA
+611,228,"THA","Thailand",49,"Prachin Buri",611,"Prachantakham","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E30><U+0E08><U+0E31><U+0E19><U+0E15><U+0E04><U+0E32><U+0E21>",NA
+612,228,"THA","Thailand",49,"Prachin Buri",612,"Si Mahosot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E21><U+0E42><U+0E2B><U+0E2A><U+0E16>",NA
+613,228,"THA","Thailand",49,"Prachin Buri",613,"Sri Mahar Pho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E21><U+0E2B><U+0E32><U+0E42><U+0E1E><U+0E18><U+0E34>",NA
+614,228,"THA","Thailand",50,"Prachuap Khiri Khan",614,"Bang Saphan Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E2A><U+0E30><U+0E1E><U+0E32><U+0E19><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+615,228,"THA","Thailand",50,"Prachuap Khiri Khan",615,"Bang Saphan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E2A><U+0E30><U+0E1E><U+0E32><U+0E19>",NA
+616,228,"THA","Thailand",50,"Prachuap Khiri Khan",616,"Hua Hin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E31><U+0E27><U+0E2B><U+0E34><U+0E19>",NA
+617,228,"THA","Thailand",50,"Prachuap Khiri Khan",617,"K. Sam Roi Yot","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E23><U+0E49><U+0E2D><U+0E22><U+0E22><U+0E2D><U+0E14>",NA
+618,228,"THA","Thailand",50,"Prachuap Khiri Khan",618,"Kui Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E22><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+619,228,"THA","Thailand",50,"Prachuap Khiri Khan",619,"Muang Prachuap Khiri Khan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E1B><U+0E23><U+0E30><U+0E08><U+0E27><U+0E1A><U+0E04><U+0E35><U+0E23><U+0E35><U+0E02><U+0E31><U+0E19><U+0E18><U+0E4C>",NA
+620,228,"THA","Thailand",50,"Prachuap Khiri Khan",620,"Pran Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E32><U+0E13><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+621,228,"THA","Thailand",50,"Prachuap Khiri Khan",621,"Thap Sakae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E31><U+0E1A><U+0E2A><U+0E30><U+0E41><U+0E01>",NA
+622,228,"THA","Thailand",51,"Ranong",622,"K. Suk Samran","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2A><U+0E38><U+0E02><U+0E2A><U+0E33><U+0E23><U+0E32><U+0E0D>",NA
+623,228,"THA","Thailand",51,"Ranong",623,"Kapoe","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E30><U+0E40><U+0E1B><U+0E2D><U+0E23><U+0E4C>",NA
+624,228,"THA","Thailand",51,"Ranong",624,"Kra Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E23><U+0E30><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+625,228,"THA","Thailand",51,"Ranong",625,"La-Un","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E30><U+0E2D><U+0E38><U+0E48><U+0E19>",NA
+626,228,"THA","Thailand",51,"Ranong",626,"Muang Ranong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E23><U+0E30><U+0E19><U+0E2D><U+0E07>",NA
+627,228,"THA","Thailand",52,"Ratchaburi",627,"Ban Pong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E42><U+0E1B><U+0E48><U+0E07>",NA
+628,228,"THA","Thailand",52,"Ratchaburi",628,"Bang Phae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E41><U+0E1E>",NA
+629,228,"THA","Thailand",52,"Ratchaburi",629,"Chom Bung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E2D><U+0E21><U+0E1A><U+0E36><U+0E07>",NA
+630,228,"THA","Thailand",52,"Ratchaburi",630,"Damnoen Saduak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E33><U+0E40><U+0E19><U+0E34><U+0E19><U+0E2A><U+0E30><U+0E14><U+0E27><U+0E01>",NA
+631,228,"THA","Thailand",52,"Ratchaburi",631,"K. Ban Kha","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E04><U+0E32>",NA
+632,228,"THA","Thailand",52,"Ratchaburi",632,"Muang Ratchaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E23><U+0E32><U+0E0A><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+633,228,"THA","Thailand",52,"Ratchaburi",633,"Pak Tho","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E32><U+0E01><U+0E17><U+0E48><U+0E2D>",NA
+634,228,"THA","Thailand",52,"Ratchaburi",634,"Photharam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E32><U+0E23><U+0E32><U+0E21>",NA
+635,228,"THA","Thailand",52,"Ratchaburi",635,"Suan Phung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E27><U+0E19><U+0E1C><U+0E36><U+0E49><U+0E07>",NA
+636,228,"THA","Thailand",52,"Ratchaburi",636,"Wat Phleng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E14><U+0E40><U+0E1E><U+0E25><U+0E07>",NA
+637,228,"THA","Thailand",53,"Rayong",637,"Ban Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E09><U+0E32><U+0E07>",NA
+638,228,"THA","Thailand",53,"Rayong",638,"Ban Khai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E04><U+0E48><U+0E32><U+0E22>",NA
+639,228,"THA","Thailand",53,"Rayong",639,"K. Khao Chamao","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E0A><U+0E30><U+0E40><U+0E21><U+0E32>",NA
+640,228,"THA","Thailand",53,"Rayong",640,"K. Nikhom Pattan","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E34><U+0E04><U+0E21><U+0E1E><U+0E31><U+0E12><U+0E19><U+0E32>","Nikhom Pattan"
+641,228,"THA","Thailand",53,"Rayong",641,"Klaeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E01><U+0E25><U+0E07>",NA
+642,228,"THA","Thailand",53,"Rayong",642,"Muang Rayong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E23><U+0E30><U+0E22><U+0E2D><U+0E07>",NA
+643,228,"THA","Thailand",53,"Rayong",643,"Pluak Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E25><U+0E27><U+0E01><U+0E41><U+0E14><U+0E07>",NA
+644,228,"THA","Thailand",53,"Rayong",644,"Wang Chan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E08><U+0E31><U+0E19><U+0E17><U+0E23><U+0E4C>",NA
+645,228,"THA","Thailand",54,"Roi Et",645,"At Samat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E32><U+0E08><U+0E2A><U+0E32><U+0E21><U+0E32><U+0E23><U+0E16>",NA
+646,228,"THA","Thailand",54,"Roi Et",646,"Changhan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E31><U+0E07><U+0E2B><U+0E32><U+0E23>",NA
+647,228,"THA","Thailand",54,"Roi Et",647,"Chaturaphak Phim","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E15><U+0E38><U+0E23><U+0E1E><U+0E31><U+0E01><U+0E15><U+0E23><U+0E1E><U+0E34><U+0E21><U+0E32><U+0E19>","Chaturaphak Phiman"
+648,228,"THA","Thailand",54,"Roi Et",648,"K. Chiang Kwan","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E02><U+0E27><U+0E31><U+0E0D>","Chiang Kwan"
+649,228,"THA","Thailand",54,"Roi Et",649,"K. Nong Hi","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2E><U+0E35>",NA
+650,228,"THA","Thailand",54,"Roi Et",650,"K. Thung Kao Lua","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E40><U+0E02><U+0E32><U+0E2B><U+0E25><U+0E27><U+0E07>","K. Thung Kao Luang"
+651,228,"THA","Thailand",54,"Roi Et",651,"Kaset Wisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E29><U+0E15><U+0E23><U+0E27><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+652,228,"THA","Thailand",54,"Roi Et",652,"Moei Wadi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E22><U+0E27><U+0E14><U+0E35>",NA
+653,228,"THA","Thailand",54,"Roi Et",653,"Muang Roi Et","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E23><U+0E49><U+0E2D><U+0E22><U+0E40><U+0E2D><U+0E47><U+0E14>",NA
+654,228,"THA","Thailand",54,"Roi Et",654,"Muang Suang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E23><U+0E27><U+0E07>","Mueang Suang"
+655,228,"THA","Thailand",54,"Roi Et",655,"Nong Phok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1E><U+0E2D><U+0E01>",NA
+656,228,"THA","Thailand",54,"Roi Et",656,"Panom Phrai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E21><U+0E44><U+0E1E><U+0E23>",NA
+657,228,"THA","Thailand",54,"Roi Et",657,"Pathum Rat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E17><U+0E38><U+0E21><U+0E23><U+0E31><U+0E15><U+0E15><U+0E4C>",NA
+658,228,"THA","Thailand",54,"Roi Et",658,"Pho Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E0A><U+0E31><U+0E22>",NA
+659,228,"THA","Thailand",54,"Roi Et",659,"Phon Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E19><U+0E17><U+0E23><U+0E32><U+0E22>",NA
+660,228,"THA","Thailand",54,"Roi Et",660,"Phon Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E19><U+0E17><U+0E2D><U+0E07>",NA
+661,228,"THA","Thailand",54,"Roi Et",661,"Selaphum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2A><U+0E25><U+0E20><U+0E39><U+0E21><U+0E34>",NA
+662,228,"THA","Thailand",54,"Roi Et",662,"Si Somdet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E21><U+0E40><U+0E14><U+0E47><U+0E08>",NA
+663,228,"THA","Thailand",54,"Roi Et",663,"Suwannaphum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E38><U+0E27><U+0E23><U+0E23><U+0E13><U+0E20><U+0E39><U+0E21><U+0E34>",NA
+664,228,"THA","Thailand",54,"Roi Et",664,"Thawatchaburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E18><U+0E27><U+0E31><U+0E0A><U+0E1A><U+0E38><U+0E23><U+0E35>","Thawat Buri"
+665,228,"THA","Thailand",55,"Sa Kaeo",665,"Aranyaprathet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E23><U+0E31><U+0E0D><U+0E1B><U+0E23><U+0E30><U+0E40><U+0E17><U+0E28>",NA
+666,228,"THA","Thailand",55,"Sa Kaeo",666,"K. Kok Sung","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E04><U+0E01><U+0E2A><U+0E39><U+0E07>","Kok Sung"
+667,228,"THA","Thailand",55,"Sa Kaeo",667,"K. Wang Sombun","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E2A><U+0E21><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E4C>",NA
+668,228,"THA","Thailand",55,"Sa Kaeo",668,"Kao Cha Kan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E09><U+0E01><U+0E23><U+0E23><U+0E08><U+0E4C>",NA
+669,228,"THA","Thailand",55,"Sa Kaeo",669,"Khlong Hat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E2B><U+0E32><U+0E14>",NA
+670,228,"THA","Thailand",55,"Sa Kaeo",670,"Muang Sa Kaeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E23><U+0E30><U+0E41><U+0E01><U+0E49><U+0E27>",NA
+671,228,"THA","Thailand",55,"Sa Kaeo",671,"Ta Phraya","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E32><U+0E1E><U+0E23><U+0E30><U+0E22><U+0E32>",NA
+672,228,"THA","Thailand",55,"Sa Kaeo",672,"Wang Nam Yen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E19><U+0E49><U+0E33><U+0E40><U+0E22><U+0E47><U+0E19>",NA
+673,228,"THA","Thailand",55,"Sa Kaeo",673,"Watthana Nakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E12><U+0E19><U+0E32><U+0E19><U+0E04><U+0E23>",NA
+674,228,"THA","Thailand",56,"Sakon Nakhon",674,"Akat Amnuai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E32><U+0E01><U+0E32><U+0E28><U+0E2D><U+0E33><U+0E19><U+0E27><U+0E22>",NA
+675,228,"THA","Thailand",56,"Sakon Nakhon",675,"Ban Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E21><U+0E48><U+0E27><U+0E07>",NA
+676,228,"THA","Thailand",56,"Sakon Nakhon",676,"Chareon Silp","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D><U+0E28><U+0E34><U+0E25><U+0E1B><U+0E4C>",NA
+677,228,"THA","Thailand",56,"Sakon Nakhon",677,"Kham Ta Kla","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E33><U+0E15><U+0E32><U+0E01><U+0E25><U+0E49><U+0E32>",NA
+678,228,"THA","Thailand",56,"Sakon Nakhon",678,"Khok Sri Supan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E04><U+0E01><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E38><U+0E1E><U+0E23><U+0E23><U+0E13>","Khok Si Suphan"
+679,228,"THA","Thailand",56,"Sakon Nakhon",679,"Kusuman","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E2A><U+0E38><U+0E21><U+0E32><U+0E25><U+0E22><U+0E4C>",NA
+680,228,"THA","Thailand",56,"Sakon Nakhon",680,"Kut Bak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E14><U+0E1A><U+0E32><U+0E01>",NA
+681,228,"THA","Thailand",56,"Sakon Nakhon",681,"Muang Sakon Nakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E01><U+0E25><U+0E19><U+0E04><U+0E23>",NA
+682,228,"THA","Thailand",56,"Sakon Nakhon",682,"Nikhom Nam Un","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E34><U+0E04><U+0E21><U+0E19><U+0E49><U+0E33><U+0E2D><U+0E39><U+0E19>",NA
+683,228,"THA","Thailand",56,"Sakon Nakhon",683,"Phang Khon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E31><U+0E07><U+0E42><U+0E04><U+0E19>",NA
+684,228,"THA","Thailand",56,"Sakon Nakhon",684,"Phanna Nikhom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E23><U+0E13><U+0E32><U+0E19><U+0E34><U+0E04><U+0E21>",NA
+685,228,"THA","Thailand",56,"Sakon Nakhon",685,"Phon Na Kaeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E19><U+0E19><U+0E32><U+0E41><U+0E01><U+0E49><U+0E27>",NA
+686,228,"THA","Thailand",56,"Sakon Nakhon",686,"Phu Phan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E1E><U+0E32><U+0E19>",NA
+687,228,"THA","Thailand",56,"Sakon Nakhon",687,"Sawang Daen Din","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E27><U+0E48><U+0E32><U+0E07><U+0E41><U+0E14><U+0E19><U+0E14><U+0E34><U+0E19>",NA
+688,228,"THA","Thailand",56,"Sakon Nakhon",688,"Song Dao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E48><U+0E2D><U+0E07><U+0E14><U+0E32><U+0E27>",NA
+689,228,"THA","Thailand",56,"Sakon Nakhon",689,"Tao Ngoi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E15><U+0E48><U+0E32><U+0E07><U+0E2D><U+0E22>",NA
+690,228,"THA","Thailand",56,"Sakon Nakhon",690,"Wanon Niwat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E32><U+0E19><U+0E23><U+0E19><U+0E34><U+0E27><U+0E32><U+0E2A>",NA
+691,228,"THA","Thailand",56,"Sakon Nakhon",691,"Waritchaphum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E32><U+0E23><U+0E34><U+0E0A><U+0E20><U+0E39><U+0E21><U+0E34>",NA
+692,228,"THA","Thailand",57,"Samut Prakan",692,"Bang Bo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1A><U+0E48><U+0E2D>",NA
+693,228,"THA","Thailand",57,"Samut Prakan",693,"Bang Plee","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1E><U+0E25><U+0E35>",NA
+694,228,"THA","Thailand",57,"Samut Prakan",694,"K. Bang Sao Thon","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E40><U+0E2A><U+0E32><U+0E18><U+0E07>",NA
+695,228,"THA","Thailand",57,"Samut Prakan",695,"Muang Samut Prakan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E1B><U+0E23><U+0E32><U+0E01><U+0E32><U+0E23>",NA
+696,228,"THA","Thailand",57,"Samut Prakan",696,"Phra Pra Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E1B><U+0E23><U+0E30><U+0E41><U+0E14><U+0E07>",NA
+697,228,"THA","Thailand",57,"Samut Prakan",697,"Phra Samut Jadee","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E40><U+0E08><U+0E14><U+0E35><U+0E22><U+0E4C>",NA
+698,228,"THA","Thailand",58,"Samut Sakhon",698,"Ban Phaeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E41><U+0E1E><U+0E49><U+0E27>",NA
+699,228,"THA","Thailand",58,"Samut Sakhon",699,"Krathum Baen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E23><U+0E30><U+0E17><U+0E38><U+0E48><U+0E21><U+0E41><U+0E1A><U+0E19>",NA
+700,228,"THA","Thailand",58,"Samut Sakhon",700,"Muang Samut Sakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E2A><U+0E32><U+0E04><U+0E23>",NA
+701,228,"THA","Thailand",59,"Samut Songkhram",701,"Amphawa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E31><U+0E21><U+0E1E><U+0E27><U+0E32>",NA
+702,228,"THA","Thailand",59,"Samut Songkhram",702,"Bang Khon Ti","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E04><U+0E19><U+0E17><U+0E35>",NA
+703,228,"THA","Thailand",59,"Samut Songkhram",703,"Muang Samut Songkhram","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E2A><U+0E07><U+0E04><U+0E23><U+0E32><U+0E21>","Muang Samut Songkram"
+704,228,"THA","Thailand",60,"Saraburi",704,"Ban Mo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E2B><U+0E21><U+0E2D>",NA
+705,228,"THA","Thailand",60,"Saraburi",705,"Chalermphrakiet","Amphoe","District","<U+0E40><U+0E09><U+0E25><U+0E34><U+0E21><U+0E1E><U+0E23><U+0E30><U+0E40><U+0E01><U+0E35><U+0E22><U+0E23><U+0E15>",NA
+706,228,"THA","Thailand",60,"Saraburi",706,"Don Phut","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E1E><U+0E38><U+0E14>",NA
+707,228,"THA","Thailand",60,"Saraburi",707,"Kaeng Khoi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E01><U+0E48><U+0E07><U+0E04><U+0E2D><U+0E22>",NA
+708,228,"THA","Thailand",60,"Saraburi",708,"Muak Lek","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E27><U+0E01><U+0E40><U+0E2B><U+0E25><U+0E47><U+0E01>",NA
+709,228,"THA","Thailand",60,"Saraburi",709,"Muang Saraburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E23><U+0E30><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+710,228,"THA","Thailand",60,"Saraburi",710,"Nong Don","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E42><U+0E14><U+0E19>",NA
+711,228,"THA","Thailand",60,"Saraburi",711,"Nong Khae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E41><U+0E04>",NA
+712,228,"THA","Thailand",60,"Saraburi",712,"Nong Saeng","Amphoe","District","<U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E41><U+0E0B><U+0E07>",NA
+713,228,"THA","Thailand",60,"Saraburi",713,"Phra Phutthabat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E1E><U+0E38><U+0E17><U+0E18><U+0E1A><U+0E32><U+0E17>",NA
+714,228,"THA","Thailand",60,"Saraburi",714,"Sao Hai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2A><U+0E32><U+0E44><U+0E2B><U+0E49>",NA
+715,228,"THA","Thailand",60,"Saraburi",715,"Wang Muang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E21><U+0E48><U+0E27><U+0E07>",NA
+716,228,"THA","Thailand",60,"Saraburi",716,"Wihan Daeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E34><U+0E2B><U+0E32><U+0E23><U+0E41><U+0E14><U+0E07>",NA
+717,228,"THA","Thailand",61,"Satun",717,"K. Ma Nang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E30><U+0E19><U+0E31><U+0E07>","Ma Nang"
+718,228,"THA","Thailand",61,"Satun",718,"Khuan Don","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E27><U+0E19><U+0E42><U+0E14><U+0E19>",NA
+719,228,"THA","Thailand",61,"Satun",719,"Khuan Ka Long","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E27><U+0E19><U+0E01><U+0E32><U+0E2B><U+0E25><U+0E07>",NA
+720,228,"THA","Thailand",61,"Satun",720,"Langu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E30><U+0E07><U+0E39>",NA
+721,228,"THA","Thailand",61,"Satun",721,"Muang Satun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E15><U+0E39><U+0E25>",NA
+722,228,"THA","Thailand",61,"Satun",722,"Tha Phae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E41><U+0E1E>",NA
+723,228,"THA","Thailand",61,"Satun",723,"Thung Wa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E2B><U+0E27><U+0E49><U+0E32>",NA
+724,228,"THA","Thailand",62,"Si Sa Ket",724,"Benchalak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E1A><U+0E0D><U+0E08><U+0E25><U+0E31><U+0E01><U+0E29><U+0E4C>",NA
+725,228,"THA","Thailand",62,"Si Sa Ket",725,"Bung Bun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E36><U+0E07><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E4C>",NA
+726,228,"THA","Thailand",62,"Si Sa Ket",726,"Huai Thap Than","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E17><U+0E31><U+0E1A><U+0E17><U+0E31><U+0E19>",NA
+727,228,"THA","Thailand",62,"Si Sa Ket",727,"K. Pho Si Suwan","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E38><U+0E27><U+0E23><U+0E23><U+0E13>",NA
+728,228,"THA","Thailand",62,"Si Sa Ket",728,"K. Sila Lat","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E34><U+0E25><U+0E32><U+0E25><U+0E32><U+0E14>",NA
+729,228,"THA","Thailand",62,"Si Sa Ket",729,"Kantharalak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E31><U+0E19><U+0E17><U+0E23><U+0E25><U+0E31><U+0E01><U+0E29><U+0E4C>",NA
+730,228,"THA","Thailand",62,"Si Sa Ket",730,"Kanthararom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E31><U+0E19><U+0E17><U+0E23><U+0E32><U+0E23><U+0E21><U+0E22><U+0E4C>",NA
+731,228,"THA","Thailand",62,"Si Sa Ket",731,"Khukhan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E38><U+0E02><U+0E31><U+0E19><U+0E18><U+0E4C>",NA
+732,228,"THA","Thailand",62,"Si Sa Ket",732,"Khun Han","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E02><U+0E38><U+0E19><U+0E2B><U+0E32><U+0E0D>",NA
+733,228,"THA","Thailand",62,"Si Sa Ket",733,"Muang Chan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E08><U+0E31><U+0E19><U+0E17><U+0E23><U+0E4C>",NA
+734,228,"THA","Thailand",62,"Si Sa Ket",734,"Muang Si Sa Ket","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E30><U+0E40><U+0E01><U+0E29>",NA
+735,228,"THA","Thailand",62,"Si Sa Ket",735,"Nam Kliang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E40><U+0E01><U+0E25><U+0E35><U+0E49><U+0E22><U+0E07>",NA
+736,228,"THA","Thailand",62,"Si Sa Ket",736,"Non Khun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E04><U+0E39><U+0E13>",NA
+737,228,"THA","Thailand",62,"Si Sa Ket",737,"Phayu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E22><U+0E38><U+0E2B><U+0E4C>",NA
+738,228,"THA","Thailand",62,"Si Sa Ket",738,"Phrai Bung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E1E><U+0E23><U+0E1A><U+0E36><U+0E07>",NA
+739,228,"THA","Thailand",62,"Si Sa Ket",739,"Phu Sing","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E20><U+0E39><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E4C>",NA
+740,228,"THA","Thailand",62,"Si Sa Ket",740,"Prang Ku","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E32><U+0E07><U+0E04><U+0E4C><U+0E01><U+0E39><U+0E48>",NA
+741,228,"THA","Thailand",62,"Si Sa Ket",741,"Rasi Salai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E32><U+0E29><U+0E35><U+0E44><U+0E28><U+0E25>",NA
+742,228,"THA","Thailand",62,"Si Sa Ket",742,"Sri Ratana","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E23><U+0E31><U+0E15><U+0E19><U+0E30>",NA
+743,228,"THA","Thailand",62,"Si Sa Ket",743,"Uthumphon Phisai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E38><U+0E17><U+0E38><U+0E21><U+0E1E><U+0E23><U+0E1E><U+0E34><U+0E2A><U+0E31><U+0E22>",NA
+744,228,"THA","Thailand",62,"Si Sa Ket",744,"Wang Hin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E2B><U+0E34><U+0E19>",NA
+745,228,"THA","Thailand",62,"Si Sa Ket",745,"Yang Chum Noi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E32><U+0E07><U+0E0A><U+0E38><U+0E21><U+0E19><U+0E49><U+0E2D><U+0E22>",NA
+746,228,"THA","Thailand",63,"Sing Buri",746,"Bang Rachan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E23><U+0E30><U+0E08><U+0E31><U+0E19>",NA
+747,228,"THA","Thailand",63,"Sing Buri",747,"In Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E34><U+0E19><U+0E17><U+0E23><U+0E4C><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+748,228,"THA","Thailand",63,"Sing Buri",748,"Khai Bang Rachan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E48><U+0E32><U+0E22><U+0E1A><U+0E32><U+0E07><U+0E23><U+0E30><U+0E08><U+0E31><U+0E19>",NA
+749,228,"THA","Thailand",63,"Sing Buri",749,"Muang Sing Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E4C><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+750,228,"THA","Thailand",63,"Sing Buri",750,"Phrom Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E2B><U+0E21><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+751,228,"THA","Thailand",63,"Sing Buri",751,"Tha Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E0A><U+0E49><U+0E32><U+0E07>",NA
+752,228,"THA","Thailand",64,"Songkhla",752,"Bang Klam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E01><U+0E25><U+0E48><U+0E33>",NA
+753,228,"THA","Thailand",64,"Songkhla",753,"Chana","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E30><U+0E19><U+0E30>",NA
+754,228,"THA","Thailand",64,"Songkhla",754,"Hat Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E32><U+0E14><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+755,228,"THA","Thailand",64,"Songkhla",755,"Khlong Hoi Kong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E2B><U+0E2D><U+0E22><U+0E42><U+0E02><U+0E48><U+0E07>",NA
+756,228,"THA","Thailand",64,"Songkhla",756,"Khuan Niang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E27><U+0E19><U+0E40><U+0E19><U+0E35><U+0E22><U+0E07>",NA
+757,228,"THA","Thailand",64,"Songkhla",757,"Krasae Sinthu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E23><U+0E30><U+0E41><U+0E2A><U+0E2A><U+0E34><U+0E19><U+0E18><U+0E38><U+0E4C>","Krasae Sin"
+758,228,"THA","Thailand",64,"Songkhla",758,"Muang Songkhla","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E07><U+0E02><U+0E25><U+0E32>",NA
+759,228,"THA","Thailand",64,"Songkhla",759,"Na Mom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E2B><U+0E21><U+0E48><U+0E2D><U+0E21>",NA
+760,228,"THA","Thailand",64,"Songkhla",760,"Na Thawi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E17><U+0E27><U+0E35>",NA
+761,228,"THA","Thailand",64,"Songkhla",761,"Ranot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E30><U+0E42><U+0E19><U+0E14>",NA
+762,228,"THA","Thailand",64,"Songkhla",762,"Rattaphum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E31><U+0E15><U+0E20><U+0E39><U+0E21><U+0E34>",NA
+763,228,"THA","Thailand",64,"Songkhla",763,"Saba Yoi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E30><U+0E1A><U+0E49><U+0E32><U+0E22><U+0E49><U+0E2D><U+0E22>",NA
+764,228,"THA","Thailand",64,"Songkhla",764,"Sadao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E30><U+0E40><U+0E14><U+0E32>",NA
+765,228,"THA","Thailand",64,"Songkhla",765,"Sathing Phra","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E17><U+0E34><U+0E07><U+0E1E><U+0E23><U+0E30>",NA
+766,228,"THA","Thailand",64,"Songkhla",766,"Singha Nakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E19><U+0E04><U+0E23>",NA
+767,228,"THA","Thailand",64,"Songkhla",767,"Songkhla Lake","Water body","Water body",NA,NA
+768,228,"THA","Thailand",64,"Songkhla",768,"Thepha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E17><U+0E1E><U+0E32>",NA
+769,228,"THA","Thailand",65,"Sukhothai",769,"Ban Dan Lan Hoi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E14><U+0E48><U+0E32><U+0E19><U+0E25><U+0E32><U+0E19><U+0E2B><U+0E2D><U+0E22>",NA
+770,228,"THA","Thailand",65,"Sukhothai",770,"Khiri Mat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E35><U+0E23><U+0E35><U+0E21><U+0E32><U+0E28>",NA
+771,228,"THA","Thailand",65,"Sukhothai",771,"Kong Krailat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E07><U+0E44><U+0E01><U+0E23><U+0E25><U+0E32><U+0E28>",NA
+772,228,"THA","Thailand",65,"Sukhothai",772,"Muang Sukhothai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E38><U+0E42><U+0E02><U+0E17><U+0E31><U+0E22>",NA
+773,228,"THA","Thailand",65,"Sukhothai",773,"Sawankhalok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E27><U+0E23><U+0E23><U+0E04><U+0E42><U+0E25><U+0E01>",NA
+774,228,"THA","Thailand",65,"Sukhothai",774,"Si Nakhon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E19><U+0E04><U+0E23>",NA
+775,228,"THA","Thailand",65,"Sukhothai",775,"Si Sam Rong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E33><U+0E42><U+0E23><U+0E07>",NA
+776,228,"THA","Thailand",65,"Sukhothai",776,"Si Satchanalai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E31><U+0E0A><U+0E19><U+0E32><U+0E25><U+0E31><U+0E22>",NA
+777,228,"THA","Thailand",65,"Sukhothai",777,"Thung Saliam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E40><U+0E2A><U+0E25><U+0E35><U+0E48><U+0E22><U+0E21>",NA
+778,228,"THA","Thailand",66,"Suphan Buri",778,"Bang Pla Ma","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E32><U+0E07><U+0E1B><U+0E25><U+0E32><U+0E21><U+0E49><U+0E32>",NA
+779,228,"THA","Thailand",66,"Suphan Buri",779,"Dan Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E48><U+0E32><U+0E19><U+0E0A><U+0E49><U+0E32><U+0E07>",NA
+780,228,"THA","Thailand",66,"Suphan Buri",780,"Doembang Nangbua","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E14><U+0E34><U+0E21><U+0E1A><U+0E32><U+0E07><U+0E19><U+0E32><U+0E07><U+0E1A><U+0E27><U+0E0A>","Doembang Nangbuat"
+781,228,"THA","Thailand",66,"Suphan Buri",781,"Don Chedi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E40><U+0E08><U+0E14><U+0E35><U+0E22><U+0E4C>",NA
+782,228,"THA","Thailand",66,"Suphan Buri",782,"Muang Suphanburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E38><U+0E1E><U+0E23><U+0E23><U+0E13><U+0E1A><U+0E38><U+0E23><U+0E35>","Suphanburi"
+783,228,"THA","Thailand",66,"Suphan Buri",783,"Nong Ya Sai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2B><U+0E0D><U+0E49><U+0E32><U+0E44><U+0E0B>",NA
+784,228,"THA","Thailand",66,"Suphan Buri",784,"Sam Chuk","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E0A><U+0E38><U+0E01>",NA
+785,228,"THA","Thailand",66,"Suphan Buri",785,"Si Prachan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E1B><U+0E23><U+0E30><U+0E08><U+0E31><U+0E19><U+0E15><U+0E4C>",NA
+786,228,"THA","Thailand",66,"Suphan Buri",786,"Song Phi Nong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E2D><U+0E07><U+0E1E><U+0E35><U+0E48><U+0E19><U+0E49><U+0E2D><U+0E07>",NA
+787,228,"THA","Thailand",66,"Suphan Buri",787,"U Thong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E39><U+0E48><U+0E17><U+0E2D><U+0E07>",NA
+788,228,"THA","Thailand",67,"Surat Thani",788,"Ban Na Doem","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E19><U+0E32><U+0E40><U+0E14><U+0E34><U+0E21>",NA
+789,228,"THA","Thailand",67,"Surat Thani",789,"Ban Na San","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E19><U+0E32><U+0E2A><U+0E32><U+0E23>",NA
+790,228,"THA","Thailand",67,"Surat Thani",790,"Ban Ta Khun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E15><U+0E32><U+0E02><U+0E38><U+0E19>",NA
+791,228,"THA","Thailand",67,"Surat Thani",791,"Chaiburi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E31><U+0E22><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+792,228,"THA","Thailand",67,"Surat Thani",792,"Chaiya","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E0A><U+0E22><U+0E32>",NA
+793,228,"THA","Thailand",67,"Surat Thani",793,"Don Sak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E2A><U+0E31><U+0E01>",NA
+794,228,"THA","Thailand",67,"Surat Thani",794,"K. Wipawadi","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E34><U+0E20><U+0E32><U+0E27><U+0E14><U+0E35>","Wipawadi|Vibhavadi"
+795,228,"THA","Thailand",67,"Surat Thani",795,"Kanchanadit","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E32><U+0E0D><U+0E08><U+0E19><U+0E14><U+0E34><U+0E29><U+0E10><U+0E4C>",NA
+796,228,"THA","Thailand",67,"Surat Thani",796,"Khian Sa","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E04><U+0E35><U+0E22><U+0E19><U+0E0B><U+0E32>",NA
+797,228,"THA","Thailand",67,"Surat Thani",797,"Khiri Ratthanikhom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E35><U+0E23><U+0E35><U+0E23><U+0E31><U+0E10><U+0E19><U+0E34><U+0E04><U+0E21>","Khiri Rat Nikhom"
+798,228,"THA","Thailand",67,"Surat Thani",798,"Ko Phangan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E1E><U+0E07><U+0E31><U+0E19>",NA
+799,228,"THA","Thailand",67,"Surat Thani",799,"Ko Samui","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E2A><U+0E21><U+0E38><U+0E22>",NA
+800,228,"THA","Thailand",67,"Surat Thani",800,"Muang Surat Thani","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E38><U+0E23><U+0E32><U+0E29><U+0E0E><U+0E23><U+0E4C><U+0E18><U+0E32><U+0E19><U+0E35>","Surat Thani"
+801,228,"THA","Thailand",67,"Surat Thani",801,"Phanom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E21>",NA
+802,228,"THA","Thailand",67,"Surat Thani",802,"Phunphin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E38><U+0E19><U+0E1E><U+0E34><U+0E19>",NA
+803,228,"THA","Thailand",67,"Surat Thani",803,"Prasaeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E23><U+0E30><U+0E41><U+0E2A><U+0E07>","Phraseang"
+804,228,"THA","Thailand",67,"Surat Thani",804,"Tha Chana","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E0A><U+0E19><U+0E30>",NA
+805,228,"THA","Thailand",67,"Surat Thani",805,"Tha Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E09><U+0E32><U+0E07>",NA
+806,228,"THA","Thailand",67,"Surat Thani",806,"Wiang Sa","Amphoe","District","<U+0E40><U+0E27><U+0E35><U+0E22><U+0E07><U+0E2A><U+0E23><U+0E30>",NA
+807,228,"THA","Thailand",68,"Surin",807,"Bua Chet","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E31><U+0E27><U+0E40><U+0E0A><U+0E14>",NA
+808,228,"THA","Thailand",68,"Surin",808,"Chom Phra","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E08><U+0E2D><U+0E21><U+0E1E><U+0E23><U+0E30>",NA
+809,228,"THA","Thailand",68,"Surin",809,"Chumphon Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E25><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+810,228,"THA","Thailand",68,"Surin",810,"K. Kwao Si Narin","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E27><U+0E32><U+0E2A><U+0E34><U+0E19><U+0E23><U+0E34><U+0E19><U+0E17><U+0E23><U+0E4C>","Kwao Si Narin|Khwao Sinarin"
+811,228,"THA","Thailand",68,"Surin",811,"K. Non Narai","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E19><U+0E32><U+0E23><U+0E32><U+0E22><U+0E13><U+0E4C>",NA
+812,228,"THA","Thailand",68,"Surin",812,"K. Phanom Dong Rak","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E19><U+0E21><U+0E14><U+0E07><U+0E23><U+0E31><U+0E01>","Phanom Dong Rak"
+813,228,"THA","Thailand",68,"Surin",813,"K. Sri Narong","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E13><U+0E23><U+0E07><U+0E04><U+0E4C>","Sri Narong|Si Narong"
+814,228,"THA","Thailand",68,"Surin",814,"Kap Choeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E32><U+0E1A><U+0E40><U+0E0A><U+0E34><U+0E07>",NA
+815,228,"THA","Thailand",68,"Surin",815,"Lamduan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E33><U+0E14><U+0E27><U+0E19>",NA
+816,228,"THA","Thailand",68,"Surin",816,"Muang Surin","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2A><U+0E38><U+0E23><U+0E34><U+0E19><U+0E17><U+0E23><U+0E4C>",NA
+817,228,"THA","Thailand",68,"Surin",817,"Phrasat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E32><U+0E2A><U+0E32><U+0E17>",NA
+818,228,"THA","Thailand",68,"Surin",818,"Rattana Buri","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E31><U+0E15><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>",NA
+819,228,"THA","Thailand",68,"Surin",819,"Samrong Thap","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E33><U+0E42><U+0E23><U+0E07><U+0E17><U+0E32><U+0E1A>",NA
+820,228,"THA","Thailand",68,"Surin",820,"Sangkha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E31><U+0E07><U+0E02><U+0E30>",NA
+821,228,"THA","Thailand",68,"Surin",821,"Sanom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E19><U+0E21>",NA
+822,228,"THA","Thailand",68,"Surin",822,"Sikhoraphum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E35><U+0E02><U+0E23><U+0E20><U+0E39><U+0E21><U+0E34>",NA
+823,228,"THA","Thailand",68,"Surin",823,"Tha Tum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E15><U+0E39><U+0E21>",NA
+824,228,"THA","Thailand",69,"Tak",824,"Ban Tak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E15><U+0E32><U+0E01>",NA
+825,228,"THA","Thailand",69,"Tak",825,"K. Wang Chao","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E40><U+0E08><U+0E49><U+0E32>",NA
+826,228,"THA","Thailand",69,"Tak",826,"Mae Ramat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E23><U+0E30><U+0E21><U+0E32><U+0E14>",NA
+827,228,"THA","Thailand",69,"Tak",827,"Mae Sot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E21><U+0E48><U+0E2A><U+0E2D><U+0E14>",NA
+828,228,"THA","Thailand",69,"Tak",828,"Muang Tak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E15><U+0E32><U+0E01>",NA
+829,228,"THA","Thailand",69,"Tak",829,"Phop Phra","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E1A><U+0E1E><U+0E23><U+0E30>",NA
+830,228,"THA","Thailand",69,"Tak",830,"Sam Ngao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E32><U+0E21><U+0E40><U+0E07><U+0E32>",NA
+831,228,"THA","Thailand",69,"Tak",831,"Tha Song Yang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E2A><U+0E2D><U+0E07><U+0E22><U+0E32><U+0E07>",NA
+832,228,"THA","Thailand",69,"Tak",832,"Umphang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2D><U+0E38><U+0E49><U+0E21><U+0E1C><U+0E32><U+0E07>",NA
+833,228,"THA","Thailand",70,"Trang",833,"Huai Yot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E22><U+0E2D><U+0E14>",NA
+834,228,"THA","Thailand",70,"Trang",834,"K. Hat Samran","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E32><U+0E14><U+0E2A><U+0E33><U+0E23><U+0E32><U+0E0D>",NA
+835,228,"THA","Thailand",70,"Trang",835,"Kantrang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E31><U+0E19><U+0E15><U+0E31><U+0E07>",NA
+836,228,"THA","Thailand",70,"Trang",836,"Muang Trang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E15><U+0E23><U+0E31><U+0E07>",NA
+837,228,"THA","Thailand",70,"Trang",837,"Na Yong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E42><U+0E22><U+0E07>",NA
+838,228,"THA","Thailand",70,"Trang",838,"Palian","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E30><U+0E40><U+0E2B><U+0E25><U+0E35><U+0E22><U+0E19>",NA
+839,228,"THA","Thailand",70,"Trang",839,"Rasada","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E31><U+0E29><U+0E0E><U+0E32>","Ratsada"
+840,228,"THA","Thailand",70,"Trang",840,"Sikao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E34><U+0E40><U+0E01><U+0E32>",NA
+841,228,"THA","Thailand",70,"Trang",841,"Wang Wiset","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E27><U+0E34><U+0E40><U+0E28><U+0E29>",NA
+842,228,"THA","Thailand",70,"Trang",842,"Yan Ta Khao","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E48><U+0E32><U+0E19><U+0E15><U+0E32><U+0E02><U+0E32><U+0E27>",NA
+843,228,"THA","Thailand",71,"Trat",843,"Bo Rai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E48><U+0E2D><U+0E44><U+0E23><U+0E48>",NA
+844,228,"THA","Thailand",71,"Trat",844,"K. Ko Chang","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E0A><U+0E49><U+0E32><U+0E07>",NA
+845,228,"THA","Thailand",71,"Trat",845,"K. Ko Kut","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E01><U+0E32><U+0E30><U+0E01><U+0E39><U+0E14>",NA
+846,228,"THA","Thailand",71,"Trat",846,"Khao Saming","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E32><U+0E2A><U+0E21><U+0E34><U+0E07>",NA
+847,228,"THA","Thailand",71,"Trat",847,"Khlong Yai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E25><U+0E2D><U+0E07><U+0E43><U+0E2B><U+0E0D><U+0E48>",NA
+848,228,"THA","Thailand",71,"Trat",848,"Laem Ngop","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E41><U+0E2B><U+0E25><U+0E21><U+0E07><U+0E2D><U+0E1A>",NA
+849,228,"THA","Thailand",71,"Trat",849,"Muang Trat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E15><U+0E23><U+0E32><U+0E14>",NA
+850,228,"THA","Thailand",72,"Ubon Ratchathani",850,"Buntharik","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E38><U+0E13><U+0E11><U+0E23><U+0E34><U+0E01>",NA
+851,228,"THA","Thailand",72,"Ubon Ratchathani",851,"Det Udom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E14><U+0E0A><U+0E2D><U+0E38><U+0E14><U+0E21>",NA
+852,228,"THA","Thailand",72,"Ubon Ratchathani",852,"Donmotdaeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E14><U+0E2D><U+0E19><U+0E21><U+0E14><U+0E41><U+0E14><U+0E07>",NA
+853,228,"THA","Thailand",72,"Ubon Ratchathani",853,"K. Lao Sua Kok","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E2B><U+0E25><U+0E48><U+0E32><U+0E40><U+0E2A><U+0E37><U+0E2D><U+0E42><U+0E01><U+0E49><U+0E01>","Lao Sua Kok|Lao Suea Kok"
+854,228,"THA","Thailand",72,"Ubon Ratchathani",854,"K. Na Tan","King Amphoe","Minor district","<U+0E19><U+0E32><U+0E15><U+0E32><U+0E25>",NA
+855,228,"THA","Thailand",72,"Ubon Ratchathani",855,"K. Na Yia","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E15><U+0E32><U+0E25>",NA
+856,228,"THA","Thailand",72,"Ubon Ratchathani",856,"K. Nam Khun","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E02><U+0E38><U+0E48><U+0E19>",NA
+857,228,"THA","Thailand",72,"Ubon Ratchathani",857,"K. Sawang Weeraw","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E27><U+0E48><U+0E32><U+0E07><U+0E27><U+0E35><U+0E23><U+0E30><U+0E27><U+0E07><U+0E28><U+0E4C>","K. Sawang Weerawong"
+858,228,"THA","Thailand",72,"Ubon Ratchathani",858,"Khemarat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E21><U+0E23><U+0E32><U+0E10>",NA
+859,228,"THA","Thailand",72,"Ubon Ratchathani",859,"Khong Chiam","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E02><U+0E07><U+0E40><U+0E08><U+0E35><U+0E22><U+0E21>",NA
+860,228,"THA","Thailand",72,"Ubon Ratchathani",860,"Khuang Nai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E02><U+0E37><U+0E48><U+0E2D><U+0E07><U+0E43><U+0E19>",NA
+861,228,"THA","Thailand",72,"Ubon Ratchathani",861,"Kut Khao Pun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E14><U+0E02><U+0E49><U+0E32><U+0E27><U+0E1B><U+0E38><U+0E49><U+0E19>",NA
+862,228,"THA","Thailand",72,"Ubon Ratchathani",862,"Muang Samsip","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E48><U+0E27><U+0E07><U+0E2A><U+0E32><U+0E21><U+0E2A><U+0E34><U+0E1A>","Samsip"
+863,228,"THA","Thailand",72,"Ubon Ratchathani",863,"Muang Ubon Ratchatani","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2D><U+0E38><U+0E1A><U+0E25><U+0E23><U+0E32><U+0E0A><U+0E18><U+0E32><U+0E19><U+0E35>","Muang Ubon Ratchathani"
+864,228,"THA","Thailand",72,"Ubon Ratchathani",864,"Na Chaluai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E08><U+0E30><U+0E2B><U+0E25><U+0E27><U+0E22>",NA
+865,228,"THA","Thailand",72,"Ubon Ratchathani",865,"Nam Yun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E22><U+0E37><U+0E19>","Nam Yuen"
+866,228,"THA","Thailand",72,"Ubon Ratchathani",866,"Phibun Mangsahan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E34><U+0E1A><U+0E39><U+0E25><U+0E21><U+0E31><U+0E07><U+0E2A><U+0E32><U+0E2B><U+0E32><U+0E23>",NA
+867,228,"THA","Thailand",72,"Ubon Ratchathani",867,"Pho Si","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E1E><U+0E18><U+0E34><U+0E4C><U+0E44><U+0E17><U+0E23>",NA
+868,228,"THA","Thailand",72,"Ubon Ratchathani",868,"Samrong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E33><U+0E42><U+0E23><U+0E07>",NA
+869,228,"THA","Thailand",72,"Ubon Ratchathani",869,"Si Muang Mai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>",NA
+870,228,"THA","Thailand",72,"Ubon Ratchathani",870,"Si Rin Ton","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E34><U+0E23><U+0E34><U+0E19><U+0E18><U+0E23>",NA
+871,228,"THA","Thailand",72,"Ubon Ratchathani",871,"Tan Sum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E32><U+0E25><U+0E2A><U+0E38><U+0E21>",NA
+872,228,"THA","Thailand",72,"Ubon Ratchathani",872,"Thung Si Udom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E28><U+0E23><U+0E35><U+0E2D><U+0E38><U+0E14><U+0E21>",NA
+873,228,"THA","Thailand",72,"Ubon Ratchathani",873,"Trakan Phutphon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E23><U+0E30><U+0E01><U+0E32><U+0E23><U+0E1E><U+0E37><U+0E0A><U+0E1C><U+0E25>","Trakan Phuet Phon"
+874,228,"THA","Thailand",72,"Ubon Ratchathani",874,"Warin Chamrap","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E32><U+0E23><U+0E34><U+0E19><U+0E0A><U+0E33><U+0E23><U+0E32><U+0E1A>",NA
+875,228,"THA","Thailand",73,"Udon Thani",875,"Ban Dung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E14><U+0E38><U+0E07>",NA
+876,228,"THA","Thailand",73,"Udon Thani",876,"Ban Phu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E1C><U+0E37><U+0E2D>",NA
+877,228,"THA","Thailand",73,"Udon Thani",877,"Chai Wan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E0A><U+0E22><U+0E27><U+0E32><U+0E19>",NA
+878,228,"THA","Thailand",73,"Udon Thani",878,"K. Ku Kaeo","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E39><U+0E48><U+0E41><U+0E01><U+0E49><U+0E27>",NA
+879,228,"THA","Thailand",73,"Udon Thani",879,"K. Prachak Silapakhom","King Amphoe","Minor district","<U+0E01><U+0E34><U+0E48><U+0E07><U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E23><U+0E30><U+0E08><U+0E31><U+0E01><U+0E29><U+0E4C><U+0E28><U+0E34><U+0E25><U+0E1B><U+0E32><U+0E04><U+0E21>","Prachaksinlapakhom"
+880,228,"THA","Thailand",73,"Udon Thani",880,"Kumphawapi","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E21><U+0E20><U+0E27><U+0E32><U+0E1B><U+0E35>",NA
+881,228,"THA","Thailand",73,"Udon Thani",881,"Kut Chap","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E14><U+0E08><U+0E31><U+0E1A>",NA
+882,228,"THA","Thailand",73,"Udon Thani",882,"Muang Udon Thani","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2D><U+0E38><U+0E14><U+0E23><U+0E18><U+0E32><U+0E19><U+0E35>",NA
+883,228,"THA","Thailand",73,"Udon Thani",883,"Na Yung","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E32><U+0E22><U+0E39><U+0E07>",NA
+884,228,"THA","Thailand",73,"Udon Thani",884,"Nam Som","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E42><U+0E2A><U+0E21>",NA
+885,228,"THA","Thailand",73,"Udon Thani",885,"Non Sa-at","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E42><U+0E19><U+0E19><U+0E2A><U+0E30><U+0E2D><U+0E32><U+0E14>",NA
+886,228,"THA","Thailand",73,"Udon Thani",886,"Nong Han","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E2B><U+0E32><U+0E19>",NA
+887,228,"THA","Thailand",73,"Udon Thani",887,"Nong Saeng","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E41><U+0E2A><U+0E07>",NA
+888,228,"THA","Thailand",73,"Udon Thani",888,"Nong Wua So","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E27><U+0E31><U+0E27><U+0E0B><U+0E2D>",NA
+889,228,"THA","Thailand",73,"Udon Thani",889,"Phen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E1E><U+0E47><U+0E0D>",NA
+890,228,"THA","Thailand",73,"Udon Thani",890,"Phibun Rak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E34><U+0E1A><U+0E39><U+0E25><U+0E23><U+0E31><U+0E01><U+0E29><U+0E4C>",NA
+891,228,"THA","Thailand",73,"Udon Thani",891,"Sang Khom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E23><U+0E49><U+0E32><U+0E07><U+0E04><U+0E2D><U+0E21>",NA
+892,228,"THA","Thailand",73,"Udon Thani",892,"Si That","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E28><U+0E23><U+0E35><U+0E18><U+0E32><U+0E15><U+0E38>",NA
+893,228,"THA","Thailand",73,"Udon Thani",893,"Thung Fon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E38><U+0E48><U+0E07><U+0E1D><U+0E19>",NA
+894,228,"THA","Thailand",73,"Udon Thani",894,"Wang Sam Mo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E27><U+0E31><U+0E07><U+0E2A><U+0E32><U+0E21><U+0E2B><U+0E21><U+0E2D>",NA
+895,228,"THA","Thailand",74,"Uthai Thani",895,"Ban Rai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E44><U+0E23><U+0E48>",NA
+896,228,"THA","Thailand",74,"Uthai Thani",896,"Huai Khot","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E49><U+0E27><U+0E22><U+0E04><U+0E15>",NA
+897,228,"THA","Thailand",74,"Uthai Thani",897,"Lan Sak","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E32><U+0E19><U+0E2A><U+0E31><U+0E01>",NA
+898,228,"THA","Thailand",74,"Uthai Thani",898,"Muang Uthai Thani","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2D><U+0E38><U+0E17><U+0E31><U+0E22><U+0E18><U+0E32><U+0E19><U+0E35>","Uthai Than|Muang Uthai Than"
+899,228,"THA","Thailand",74,"Uthai Thani",899,"Nong Chang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E09><U+0E32><U+0E07>",NA
+900,228,"THA","Thailand",74,"Uthai Thani",900,"Nong Khayang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E02><U+0E32><U+0E2B><U+0E22><U+0E48><U+0E32><U+0E07>",NA
+901,228,"THA","Thailand",74,"Uthai Thani",901,"Sawang Arom","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E2A><U+0E27><U+0E48><U+0E32><U+0E07><U+0E2D><U+0E32><U+0E23><U+0E21><U+0E13><U+0E4C>",NA
+902,228,"THA","Thailand",74,"Uthai Thani",902,"Thap Than","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E31><U+0E1E><U+0E17><U+0E31><U+0E19>",NA
+903,228,"THA","Thailand",75,"Uttaradit",903,"Ban Khok","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E49><U+0E32><U+0E19><U+0E42><U+0E04><U+0E01>",NA
+904,228,"THA","Thailand",75,"Uttaradit",904,"Fak Tha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1F><U+0E32><U+0E01><U+0E17><U+0E48><U+0E32>",NA
+905,228,"THA","Thailand",75,"Uttaradit",905,"Laplae","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E25><U+0E31><U+0E1A><U+0E41><U+0E25>",NA
+906,228,"THA","Thailand",75,"Uttaradit",906,"Muang Uttaradit","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E2D><U+0E38><U+0E15><U+0E23><U+0E14><U+0E34><U+0E15><U+0E16><U+0E4C>",NA
+907,228,"THA","Thailand",75,"Uttaradit",907,"Nam Pat","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E19><U+0E49><U+0E33><U+0E1B><U+0E32><U+0E14>",NA
+908,228,"THA","Thailand",75,"Uttaradit",908,"Phichai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1E><U+0E34><U+0E0A><U+0E31><U+0E22>",NA
+909,228,"THA","Thailand",75,"Uttaradit",909,"Tha Pla","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E48><U+0E32><U+0E1B><U+0E25><U+0E32>",NA
+910,228,"THA","Thailand",75,"Uttaradit",910,"Thong Saen Khan","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E2D><U+0E07><U+0E41><U+0E2A><U+0E19><U+0E02><U+0E31><U+0E19>",NA
+911,228,"THA","Thailand",75,"Uttaradit",911,"Tron","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E15><U+0E23><U+0E2D><U+0E19>",NA
+912,228,"THA","Thailand",76,"Yala",912,"Bannang Star","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1A><U+0E31><U+0E19><U+0E19><U+0E31><U+0E07><U+0E2A><U+0E15><U+0E32>","Bannang Sata"
+913,228,"THA","Thailand",76,"Yala",913,"Batong","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E1A><U+0E15><U+0E07>","Betong"
+914,228,"THA","Thailand",76,"Yala",914,"K. Krong Pi Nung","King Amphoe","Minor district","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E23><U+0E07><U+0E1B><U+0E34><U+0E19><U+0E31><U+0E07>","Krong Pi Nung|Krong Pinang"
+915,228,"THA","Thailand",76,"Yala",915,"Ka Bang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E32><U+0E1A><U+0E31><U+0E07>",NA
+916,228,"THA","Thailand",76,"Yala",916,"Muang Yala","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E22><U+0E30><U+0E25><U+0E32>",NA
+917,228,"THA","Thailand",76,"Yala",917,"Raman","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E23><U+0E32><U+0E21><U+0E31><U+0E19>",NA
+918,228,"THA","Thailand",76,"Yala",918,"Than To","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E18><U+0E32><U+0E23><U+0E42><U+0E15>",NA
+919,228,"THA","Thailand",76,"Yala",919,"Yaha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E22><U+0E30><U+0E2B><U+0E32>",NA
+920,228,"THA","Thailand",77,"Yasothon",920,"Amphoe Muang Yasothon","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E22><U+0E42><U+0E2A><U+0E18><U+0E23>","Ampohe Muang YaSothon"
+921,228,"THA","Thailand",77,"Yasothon",921,"Amphoe Sai Mun","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E17><U+0E23><U+0E32><U+0E22><U+0E21><U+0E39><U+0E25>","Sai Mun"
+922,228,"THA","Thailand",77,"Yasothon",922,"Kham Khuan Kaeo","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E33><U+0E40><U+0E02><U+0E37><U+0E48><U+0E2D><U+0E19><U+0E41><U+0E01><U+0E49><U+0E27>","Kham Khuean Kaeo"
+923,228,"THA","Thailand",77,"Yasothon",923,"Kho Wang","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E04><U+0E49><U+0E2D><U+0E27><U+0E31><U+0E07>",NA
+924,228,"THA","Thailand",77,"Yasothon",924,"Kut Chum","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E01><U+0E38><U+0E14><U+0E0A><U+0E38><U+0E21>",NA
+925,228,"THA","Thailand",77,"Yasothon",925,"Loeng Nok Tha","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E25><U+0E34><U+0E07><U+0E19><U+0E01><U+0E17><U+0E32>",NA
+926,228,"THA","Thailand",77,"Yasothon",926,"Maha Chana Chai","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E21><U+0E2B><U+0E32><U+0E0A><U+0E19><U+0E30><U+0E0A><U+0E31><U+0E22>",NA
+927,228,"THA","Thailand",77,"Yasothon",927,"Pa Tiu","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E1B><U+0E48><U+0E32><U+0E15><U+0E34><U+0E49><U+0E27>","Pa Tio"
+928,228,"THA","Thailand",77,"Yasothon",928,"Thai Charoen","Amphoe","District","<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E44><U+0E17><U+0E22><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>",NA
