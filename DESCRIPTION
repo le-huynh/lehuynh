@@ -1,15 +1,14 @@
 Package: LeRpackage
-Title: What the Package Does (One Line, Title Case)
+Title: Lehuynh Personal Rpackage
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Truc-Ly",
+           family = "Le-Huynh",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "trucly.lehuynh@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-5227-2185"))
+Description: Personal R codes that are useful to me.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
