@@ -1,0 +1,30 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# LeRpackage
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This package includes personal R codes that are useful to me.
+
+## Installation
+
+You can install LeRpackage from GitHub with:
+
+``` r
+devtools::install_github("le-huynh/LeRpackage")
+```
+
