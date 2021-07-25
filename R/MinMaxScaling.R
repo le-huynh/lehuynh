@@ -15,7 +15,7 @@
 #' @export
 #'
 #' @examples
-#' dat1 = seq(from = 5, to = 30, lenght.out = 6)
+#' dat1 = seq(from = 5, to = 30, length.out = 6)
 #'
 #' MinMaxScaling(dat1)
 #'
