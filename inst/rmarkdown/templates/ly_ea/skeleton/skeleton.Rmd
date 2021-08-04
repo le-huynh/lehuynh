@@ -1,0 +1,230 @@
+---
+title: "Data_Name Exploratory Analysis"
+author: "Your Name"
+date: "The Date"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Required package  
+```{r}
+library(here)
+library(dplyr)
+library(psych)
+library(car)
+```
+
+## Import data set
+```{r data}
+dat = read.csv(here("Data_folder","file_name.csv"))
+View(dat)
+```
+
+## Checking data
+```{r check}
+# Check the packaging 
+dim(dat)
+
+# Look at Data (top + bottom)
+head(dat)
+tail(dat)
+
+```
+
+```{r}
+# Run str()
+str(dat)
+```
+
+Check column data type (e.g. numeric, character,...).
+Are data and column classes correctly specified?  
+If not, convert column class into the correct one.  
+
+```{r}
+?as.character
+?as.numeric
+?as.factor
+
+dat$col_name = as.factor(dat$col_name)
+```
+
+```{r summary}
+summary(dat)
+```
+
+* Check Min, Max values.
+Are they in a reasonable range?  
+* How many NAs are there in each variable?  
+* Is there anything "weird"?  
+
+If column class is character, check:  
+```{r}
+dat %>% count(col_name)
+```
+
+Validating data with external information --> Check "weird stuff"  
+```{r}
+# Check: if TN >= (NO2 + NO3 + NH4)
+# Check: if TP >= PO4
+# Check: if PC >= mcyB 
+
+dat_check = dat %>% mutate(N_check = (TN >= (NO2 + NO3 + NH4)),
+                           P_check = (TP >= PO4),
+                           gene_check = (PC >= mcyB))
+
+dat_check %>% 
+          select(ID, TN, NO2, NO3, NH4, N_check) %>% 
+          filter(N_check == FALSE)
+
+dat_check %>% 
+          select(ID, TP, PO4, P_check) %>% 
+          filter(P_check == FALSE)
+
+dat_check %>% 
+          select(ID, PC, mcyB, gene_check) %>% 
+          filter(gene_check == FALSE)
+
+```
+
+## Zurr's protocol 
+
+### Zero-inflated Y
+> *zero-inflated* data: response variable contains more zeros than expected, 
+based on Poisson or negative binomial distribution.  
+
+```{r observed0, warning=FALSE}
+
+#proportion of 0's in the data
+dat.tab <- table(dat$col_name == 0)
+dat.tab/sum(dat.tab)
+
+```
+
+```{r expected0, warning=FALSE}
+
+#proportion of 0's expected from a Poisson distribution
+mu <- mean(dat$col_name)
+cnts <- rpois(1000, mu)
+dat.tab <- table(cnts == 0)
+dat.tab/sum(dat.tab)
+
+```
+
+Note:  
+* value under FALSE: proportion of non-zero values in data   
+* value under TRUE: proportion of zeros in data  
+
+The proportion of zeros observed (`TRUE_observed` %) far exceeds the proportion 
+would have been expected (`TRUE_expected` %).   
+=> `col_name` data is **zero-inflated**  
+
+### Collinearity X
+> *Collinearity*: existence of correlation between covariates.  
+--> the information that a covariate provides about the response is redundant 
+in the presence of the other covariates.  
+**Solution**: remove concerned variables  
+
+#### Use pairwise scatterplots + correlation coefficients
+```{r matrix_correlation}
+
+# matrix plot of correlations
+select(dat, var_1:var_n) %>%
+          psych::pairs.panels(ellipses = FALSE, scale = TRUE)
+
+```
+
+Possible collinearity:  
+e.g. TP ~ PO4,  
+e.g. TN ~ NO3,  
+
+#### Use VIF values
+> **VIF**: variance inflation factor.  
+Smallest possible value of VIF = 1 = absence of collinearity.  
+**Strategy**:   
+* sequentially drop the covariate with highest VIF  
+* recalculate VIFs  
+* repeat process until all VIFs are smaller than a pre-selected threshold (3)  
+
+```{r test_vif, error=FALSE, message=FALSE, warning=FALSE}
+
+dat_vif = select(dat, var_1:var_n)
+
+ml(var_y ~ ., data = dat_vif) %>% 
+          car::vif()
+```          
+
+VIFs of `var_1`, `var_2`, `etc.` are bigger than 3.  
+--> multicollinearity between above explanatory variables.  
+Remove `var_1` (highest VIF) and recalculate VIF.  
+
+```{r}
+
+lm(var_y ~ .-var_1, data = dat_vif) %>%
+          vif()
+
+```
+
+There are changes in VIFs after removing `var_1`, especially VIF of `var_2` 
+(`x1` to `x2`).  
+Remove `var_3` (highest VIF) and recalculate VIF.  
+
+```{r}
+
+lm(var_y ~ .-var1-var3, data = dat_vif) %>%
+          vif()
+
+```
+
+There are changes in VIFs after removing `var_3`, especially `var_4` 
+(`x1` to `x2`) and `var_5` (`x1` to `x2`).  
+
+All VIFs are smaller than 3 --> remaining explanatory variables can be used in 
+next steps.  
+
+After detect and deal with multicollinearity, **possible explanatory variables: var_4, var_5, var_6, etc.**  
+
+
+### Relationships Y ~ X
+Plot response variable vs each covariate (remaining after dealing with collinearity).  
+
+```{r, fig.cap="Y vs. each covariate"}
+
+select(dat, var_y, var4, var5, var6) %>%
+          pairs.panels(ellipses = FALSE, scale = TRUE)
+```
+
+### Overdispersion?
+> *Overdispersion*: the variance is larger than the mean  
+
+Check in/after model fitting  
+=> result: Overdispersion (?)   
+
+### Interactions
+> *Interaction*: effect of one explanatory variable on the response depends on the value of another explanatory variable  
+
+Check in/after model fitting  
+=> result: No interaction (?)  
+
+### Possible outliers Y & X
+Use boxplot or Cleverland dotplot  
+```{r}
+dotchart()
+```
+
+After fitting models by ...  
+=> Outliers: obs.X1 and obs.X2  
+=> remove  
+
+### Homogeneity Y
+conditional boxplot  
+
+### Normality Y
+Use `hist()` or `qqplot()`  
+
+### Independence Y
+
