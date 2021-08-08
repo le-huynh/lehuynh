@@ -1,0 +1,159 @@
+---
+title: "Data_Name Bayesian Data Analysis via `brms`"
+author: "Your Name"
+date: "The Date"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Required packages
+```{r}
+library(here)
+library(brms)
+library(coda)
+library(ggplot2)
+library(ggpubr)
+```
+
+## Import data set
+dataframe `Data_Name`: `r nrow(dat)` obs. of `r ncol(dat)` variables
+
+```{r data}
+dat = read.csv(here("Data_folder","file_name.csv"))
+# View(dat)
+# Data preparation and transformation here
+
+head(dat)
+```
+
+## Bayesian Model_Name
+### Fitting the model
+Fit the model by `STAN` via `brms` package then saving fitted model object in the external `mod.rds` file via the `saveRDS()` function.  
+
+```{r mod, results='hide', message=FALSE, warning=FALSE}
+chains = X
+iter   = X
+warmup = X
+thin   = X
+
+form = Y ~ X1 + X2
+
+mod <- brm(formula = form, 
+           data = dat, 
+           family = family_name(),
+           chains = chains,
+           iter = iter,
+           warmup = warmup,
+           thin = thin,
+           cores = chains,
+           seed = X, # optional, for reproducible purpose, final model
+           file = "mod"
+           )
+```
+
+Update and re-fit the model (to reduce fitting time)
+```{r}
+mod_ud = update(mod,
+                formula. = new_form,
+                new_dat,
+                file = "mod_up")
+```
+
+Reload `mod` object without re-fitting the model.  
+Choose file `mod.rds`  
+
+```{r}
+mod = readRDS(file.choose())
+```
+
+### Stan code
+
+```{r}
+
+brms::stancode(mod)
+
+# the data brm() passes to Stan
+brms::standata(mod) %>% 
+          lapply(head)  # truncate the output to save some space
+```
+
+### Model Diagnostics = Examine chains
+
+```{r}
+
+# MCMC diagnostic
+mod_stan = CalvinBayes::stanfit(mod)
+
+# traceplot + density plot --> all
+mcmc_combo(as.mcmc.list(mod_stan)) 
+```
+
+
+```{r}
+
+autocorr.diag(as.mcmc.list(mod_stan)) # autocorrelation
+```
+
+```{r}
+# BDDA diagnostic plots
+diag_mcmc(as.mcmc.list(mod_stan), parName = "b_Intercept") 
+```
+
+```{r}
+# BDDA diagnostic plots
+diag_mcmc(as.mcmc.list(mod_stan), parName = "b_variable") 
+```
+
+### Posterior predictive check
+```{r}
+brms::pp_check(mod, nsamples = 100)
+
+brms::pp_check(mod, type = "intervals")
+
+```
+
+```{r}
+# Fitted value ~ observed value
+LeRpackage::ppc_brms(mod)
+```
+
+### Model interpretation
+#### Summary
+```{r}
+summary(mod)
+```
+
+#### Posterior distribution
+```{r}
+# Name of parameters
+dimnames(as.array(mod))
+
+mod_map <- mcmc_areas(mod,
+                      pars = c("b_Intercept", "b_varname"),
+                      prob = 0.8, # 80% intervals
+                      prob_outer = 0.99, # 99%
+                      point_est = "mean"
+                      ) 
+mod_map
+```
+
+#### Conditional effects
+```{r}
+conditional_effects(mod)
+
+fig = conditional_effects(mod,
+                          effects = "var1:var2")
+
+plot(fig, points = TRUE, plot = FALSE)[[1]] +
+          labs(x = xtitle,
+               y = ytitle)
+```
+
+
+
+

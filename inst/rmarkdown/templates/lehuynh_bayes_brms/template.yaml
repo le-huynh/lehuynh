@@ -1,0 +1,4 @@
+name: lehuynh_Bayes_brms
+description: >
+   Basic steps to fit, check and interpret a Bayesian model via `brms` package
+create_dir: FALSE
