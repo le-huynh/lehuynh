@@ -17,7 +17,9 @@ library(here)
 library(brms)
 library(coda)
 library(ggplot2)
-library(ggpubr)
+library(bayesplot)
+library(CalvinBayes)
+library(LeRpackage)
 ```
 
 ## Import data set
