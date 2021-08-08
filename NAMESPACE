@@ -2,3 +2,6 @@
 
 export(MinMaxScaling)
 export(lehuynh_theme)
+export(ppc_brms)
+importFrom(stats,lm)
+importFrom(stats,predict)

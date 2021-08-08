@@ -1,9 +1,9 @@
 Package: LeRpackage
 Title: Lehuynh Personal Rpackage
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
-    person(given = "Truc-Ly",
-           family = "Le-Huynh",
+    person(family = "Le-Huynh",
+           given = "Truc-Ly",
            role = c("aut", "cre"),
            email = "trucly.lehuynh@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0002-5227-2185"))
@@ -17,4 +17,6 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: 
+    brms,
+    stats,
     ggplot2
