@@ -9,7 +9,7 @@
 #' @param ytitle The text for the y-axis title
 #' @param dy     Distance from plot to y-axis
 #' @param dx     Distance from plot to x-axis
-#' @param ...    Passed to [LeRpackage::lehuynh_theme()]
+#' @param ...    Passed to [lehuynh::lehuynh_theme()]
 #'
 #' @return A plot
 #' @export
@@ -59,6 +59,6 @@ fig <- ggplot2::ggplot(myDat, ggplot2::aes(y_obs, h)) +
                         y = ytitle) +
   ggplot2::scale_x_continuous(expand = ggplot2::expansion(mult = dy)) +
   ggplot2::scale_y_continuous(expand = ggplot2::expansion(mult = dx)) +
-          LeRpackage::lehuynh_theme(...)
+          lehuynh::lehuynh_theme(...)
 fig
 }

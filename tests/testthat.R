@@ -1,4 +1,4 @@
 library(testthat)
-library(LeRpackage)
+library(lehuynh)
 
-test_check("LeRpackage")
+test_check("lehuynh")

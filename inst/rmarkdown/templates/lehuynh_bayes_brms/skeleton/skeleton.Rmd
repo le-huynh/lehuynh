@@ -19,7 +19,7 @@ library(coda)
 library(ggplot2)
 library(bayesplot)
 library(CalvinBayes)
-library(LeRpackage)
+library(lehuynh)
 ```
 
 ## Import data set
@@ -121,7 +121,7 @@ brms::pp_check(mod, type = "intervals")
 
 ```{r}
 # Fitted value ~ observed value
-LeRpackage::ppc_brms(mod)
+lehuynh::ppc_brms(mod)
 ```
 
 ### Model interpretation
