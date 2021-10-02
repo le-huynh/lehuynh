@@ -1,0 +1,4 @@
+---
+title: template of my manuscript
+output: html_document
+---
