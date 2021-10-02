@@ -19,4 +19,6 @@ Config/testthat/edition: 3
 Imports: 
     brms,
     stats,
-    ggplot2
+    ggplot2,
+    here,
+    usethis

@@ -1,3 +1,31 @@
+#' Create a new project
+#'
+#' Create a project for reproducible purposes.
+#'
+#' @return
+#' @export
+#'
+#' @details
+#' The project includes:
+#' * __README.md__: the top level description of content in the project
+#' * __Makefile__
+#' * different folders to hold all _data_, _code_, _results_ of data analysis,
+#' and _documents_ related to the project
+#' * templates: __manuscript.Rmd__, __code.R__, etc.
+#'
+#' @note
+#' Recommended workflow:
+#' 1. Create a GitHub repository for the new project.
+#' At _Initialize this repository with a README_, choose NO.
+#' 1. Create a new RStudio Project via git clone.
+#' 1. Use function `new_project()` to generate folders and file templates.
+#'
+#' @references
+#' [Reproducibile Research Tutorial Series](https://riffomonas.org/reproducible_research/)
+#' by Pat Schloss.
+#'
+
+
 new_project = function()
 {
           here::here()
@@ -21,11 +49,11 @@ new_project = function()
           sapply(dir_sub, dir.create)
 
           usethis::use_template(template = "README.md",
-                                save_as = "data/README.md",
+                                save_as = "README.md",
                                 package = "lehuynh")
 
           usethis::use_template(template = "Makefile",
-                                save_as = "data/Makefile",
+                                save_as = "Makefile",
                                 package = "lehuynh")
 
           usethis::use_template(template = "data_description.md",
@@ -39,5 +67,4 @@ new_project = function()
           usethis::use_template(template = "manuscript.Rmd",
                                 save_as = "submission/manuscript.Rmd",
                                 package = "lehuynh")
-
 }
