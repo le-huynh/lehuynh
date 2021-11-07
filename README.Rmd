@@ -22,7 +22,7 @@ This package includes personal R codes that are useful to me.
 
 ## Installation
 
-You can install `lehuynh` R package from GitHub with:
+`lehuynh` R package can be installed from GitHub with:
 
 ``` r
 devtools::install_github("le-huynh/lehuynh")
