@@ -23,6 +23,7 @@
 #' @seealso [ggplot2::ggsave()]
 #'
 #' @examples
+#' \dontrun{
 #' library(ggplot2)
 #'
 #' mtcars$cyl <- factor(mtcars$cyl)
@@ -31,6 +32,7 @@
 #'            geom_point()
 #'
 #' ggsave_elsevier("fig.pdf", plot = fig, width = "full_page", height = 200)
+#' }
 
 ggsave_elsevier <- function(filename,
                             plot,

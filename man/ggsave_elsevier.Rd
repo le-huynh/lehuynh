@@ -43,6 +43,7 @@ Instruction of Elsevier about \href{https://www.elsevier.com/authors/policies-an
 }
 }
 \examples{
+\dontrun{
 library(ggplot2)
 
 mtcars$cyl <- factor(mtcars$cyl)
@@ -51,6 +52,7 @@ fig <- ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
            geom_point()
 
 ggsave_elsevier("fig.pdf", plot = fig, width = "full_page", height = 200)
+}
 }
 \seealso{
 \code{\link[ggplot2:ggsave]{ggplot2::ggsave()}}

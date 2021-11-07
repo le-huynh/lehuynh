@@ -35,6 +35,7 @@ Plot fitted versus observed values, including confidence interval
 prediction interval (dashed line).
 }
 \examples{
+\dontrun{
 library(ggplot2)
 library(brms)
 
@@ -44,5 +45,5 @@ mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),
 
 ppc_brms(mod)
 ppc_brms(mod, dy = c(0.02, 0.1), dx = c(0.005, 0.1))
-
+}
 }
