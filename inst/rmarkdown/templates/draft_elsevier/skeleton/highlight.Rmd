@@ -1,0 +1,10 @@
+---
+output: bookdown::word_document2: default  # for cross-references
+---
+
+# Highlights {#highlight .unnumbered}
+
+Short collection of bullet points: novel results + new methods  
+- submitted: separate editable file -> online submission system.  
+- file name: 'Highlights'  
+- 3 to 5 bullet points (maximum 85 characters, including spaces, per bullet point)  

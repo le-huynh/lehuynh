@@ -1,0 +1,7 @@
+---
+output: bookdown::word_document2: default  # for cross-references
+---
+# Acknowledgements {#thanks .unnumbered}
+
+This work was supported by ...
+

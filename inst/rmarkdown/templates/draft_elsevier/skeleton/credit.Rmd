@@ -1,0 +1,11 @@
+---
+output: bookdown::word_document2: default  # for cross-references
+---
+
+# CRediT authorship contribution statement {#credit .unnumbered}
+
+__Author One:__ Conceptualization, Methodology, Investigation, Data curation, Formal analysis, Visualization, Writing - Original Draft, Writing - review & editing. 
+__Author Two:__ Supervision, Project administration, Funding acquisition, Conceptualization, Resources, Writing - Review & Editing. 
+__Author Three, Author Four:__ Investigation.  
+
+Further information [here](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement).

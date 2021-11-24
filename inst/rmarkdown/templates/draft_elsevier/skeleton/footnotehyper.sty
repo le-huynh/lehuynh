@@ -1,0 +1,377 @@
+%%
+%% This is file `footnotehyper.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% footnotehyper.dtx  (with options: `package')
+%% 
+%% IMPORTANT NOTICE:
+%% 
+%% For the copyright see the source file.
+%% 
+%% Any modified versions of this file must be renamed
+%% with new filenames distinct from footnotehyper.sty.
+%% 
+%% For distribution of the original source see the terms
+%% for copying and modification in the file footnotehyper.dtx.
+%% 
+%% This generated file may be distributed as long as the
+%% original source files, as listed above, are part of the
+%% same distribution. (The sources need not necessarily be
+%% in the same archive or directory.)
+%%
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{footnotehyper}%
+ [2021/08/13 v1.1e hyperref aware footnote.sty (JFB)]
+%%
+%% Package: footnotehyper
+%% Version: 1.1e (2021/08/13)
+%% License: LPPL 1.3c
+%% Copyright (C) 2016-2021 Jean-Francois Burnol <jfbu at free dot fr>.
+%%
+\newif\iffootnotehyperparse\footnotehyperparsetrue
+\newif\iffootnotehyperwarn \footnotehyperwarntrue
+\def\FNH@msgbk{^^J(footnotehyper)\@spaces}% make room for message lines
+\DeclareOption*%
+    {\PackageWarning{footnotehyper}{Option `\CurrentOption' is unknown}}%
+\ProcessOptions\relax
+\@ifclassloaded{beamer}
+    {\PackageWarningNoLine{footnotehyper}{This package is
+        incompatible with the beamer class. Aborting input..}%
+     \endinput}
+    {}%
+\newbox\FNH@notes
+\newdimen\FNH@width
+\newtoks\FNH@toks % 1.1c
+\let\FNH@colwidth\columnwidth
+\newif\ifFNH@savingnotes
+\AtBeginDocument {%
+    \let\FNH@latex@footnote    \footnote
+    \let\FNH@latex@footnotetext\footnotetext
+    \let\FNH@H@@footnotetext   \@footnotetext
+    \let\FNH@H@@mpfootnotetext \@mpfootnotetext
+    \newenvironment{savenotes}
+        {\FNH@savenotes\ignorespaces}{\FNH@spewnotes\ignorespacesafterend}%
+    \let\spewnotes      \FNH@spewnotes
+    \let\footnote       \FNH@footnote
+    \let\footnotetext   \FNH@footnotetext
+    \let\endfootnote    \FNH@endfntext
+    \let\endfootnotetext\FNH@endfntext
+    \@ifpackageloaded{hyperref}
+     {\ifHy@hyperfootnotes
+         \let\FNH@H@@footnotetext\H@@footnotetext
+         \let\FNH@H@@mpfootnotetext\H@@mpfootnotetext
+      \else
+         \let\FNH@hyper@fntext\FNH@nohyp@fntext
+      \fi}%
+     {\let\FNH@hyper@fntext\FNH@nohyp@fntext}%
+}%
+\def\FNH@hyper@fntext{\FNH@fntext\FNH@hyper@fntext@i}%
+\def\FNH@nohyp@fntext{\FNH@fntext\FNH@nohyp@fntext@i}%
+\def\FNH@fntext #1{\ifx\ifmeasuring@\@undefined
+    \expandafter\@secondoftwo\else\expandafter\@firstofone\fi
+    {\ifmeasuring@\expandafter\@gobbletwo\fi}#1%
+}%
+\long\def\FNH@hyper@fntext@i#1{%
+  \global\setbox\FNH@notes\vbox
+  {\unvbox\FNH@notes
+   \FNH@startnote
+   \@makefntext
+    {\rule\z@\footnotesep\ignorespaces
+     \ifHy@nesting\expandafter\ltx@firstoftwo
+             \else\expandafter\ltx@secondoftwo
+     \fi
+     {\expandafter\hyper@@anchor\expandafter{\Hy@footnote@currentHref}{#1}}%
+     {\Hy@raisedlink
+       {\expandafter\hyper@@anchor\expandafter{\Hy@footnote@currentHref}%
+       {\relax}}%
+      \let\@currentHref\Hy@footnote@currentHref
+      \let\@currentlabelname\@empty
+      #1}%
+     \@finalstrut\strutbox
+    }%
+   \FNH@endnote
+  }%
+}%
+\long\def\FNH@nohyp@fntext@i#1{%
+  \global\setbox\FNH@notes\vbox
+  {\unvbox\FNH@notes
+   \FNH@startnote
+   \@makefntext{\rule\z@\footnotesep\ignorespaces#1\@finalstrut\strutbox}%
+   \FNH@endnote
+  }%
+}%
+\def\FNH@startnote{%
+  \hsize\FNH@colwidth
+  \interlinepenalty\interfootnotelinepenalty
+  \reset@font\footnotesize
+  \floatingpenalty\@MM% Is this right???
+  \@parboxrestore
+  \protected@edef\@currentlabel{\csname p@\@mpfn\endcsname\@thefnmark}%
+  \color@begingroup
+}%
+\def\FNH@endnote{\color@endgroup}%
+\def\FNH@savenotes{%
+  \begingroup
+  \ifFNH@savingnotes\else
+    \FNH@savingnotestrue
+    \let\@footnotetext    \FNH@hyper@fntext
+    \let\@mpfootnotetext  \FNH@hyper@fntext
+    \let\H@@mpfootnotetext\FNH@nohyp@fntext % fool hyperref's \@xfootnotenext
+    \FNH@width\columnwidth
+    \let\FNH@colwidth\FNH@width
+    \global\setbox\FNH@notes\box\voidb@x
+    \let\FNH@thempfn\thempfn
+    \let\FNH@mpfn\@mpfn
+    \ifx\@minipagerestore\relax\let\@minipagerestore\@empty\fi
+    \expandafter\def\expandafter\@minipagerestore\expandafter{%
+      \@minipagerestore
+      \let\thempfn\FNH@thempfn
+      \let\@mpfn\FNH@mpfn
+    }%
+  \fi
+}%
+\def\FNH@spewnotes {%
+  \if@endpe\ifx\par\@@par\FNH@toks{}\else
+     \FNH@toks\expandafter{\expandafter
+              \def\expandafter\par\expandafter{\par}\@endpetrue}%
+     \expandafter\expandafter\expandafter
+     \FNH@toks
+     \expandafter\expandafter\expandafter
+     {\expandafter\the\expandafter\FNH@toks
+      \expandafter\def\expandafter\@par\expandafter{\@par}}%
+     \expandafter\expandafter\expandafter
+     \FNH@toks
+     \expandafter\expandafter\expandafter
+     {\expandafter\the\expandafter\FNH@toks
+      \expandafter\everypar\expandafter{\the\everypar}}\fi
+  \else\FNH@toks{}\fi
+  \expandafter
+  \endgroup\the\FNH@toks
+  \ifFNH@savingnotes\else
+   \ifvoid\FNH@notes\else
+    \begingroup
+     \let\@makefntext\@empty
+     \let\@finalstrut\@gobble
+     \let\rule\@gobbletwo
+     \ifx\@footnotetext\@mpfootnotetext
+        \expandafter\FNH@H@@mpfootnotetext
+     \else
+        \expandafter\FNH@H@@footnotetext
+     \fi{\unvbox\FNH@notes}%
+    \endgroup
+   \fi
+  \fi
+}%
+\def\FNH@footnote@envname    {footnote}%
+\def\FNH@footnotetext@envname{footnotetext}%
+\def\FNH@footnote{%
+    \ifx\@currenvir\FNH@footnote@envname
+        \expandafter\FNH@footnoteenv
+    \else
+        \expandafter\FNH@latex@footnote
+    \fi
+}%
+\def\FNH@footnoteenv{%
+    \@ifnextchar[%
+      \FNH@footnoteenv@i %]
+      {\stepcounter\@mpfn
+       \protected@xdef\@thefnmark{\thempfn}%
+       \@footnotemark
+       \def\FNH@endfntext@fntext{\@footnotetext}%
+       \FNH@startfntext}%
+}%
+\def\FNH@footnoteenv@i[#1]{%
+    \begingroup
+     \csname c@\@mpfn\endcsname #1\relax
+     \unrestored@protected@xdef\@thefnmark{\thempfn}%
+    \endgroup
+    \@footnotemark
+    \def\FNH@endfntext@fntext{\@footnotetext}%
+    \FNH@startfntext
+}%
+\def\FNH@footnotetext{%
+    \ifx\@currenvir\FNH@footnotetext@envname
+        \expandafter\FNH@footnotetextenv
+    \else
+        \expandafter\FNH@latex@footnotetext
+    \fi
+}%
+\def\FNH@footnotetextenv{%
+    \@ifnextchar[%
+      \FNH@footnotetextenv@i %]
+      {\protected@xdef\@thefnmark{\thempfn}%
+       \def\FNH@endfntext@fntext{\@footnotetext}%
+       \FNH@startfntext}%
+}%
+\def\FNH@footnotetextenv@i[#1]{%
+    \begingroup
+     \csname c@\@mpfn\endcsname #1\relax
+     \unrestored@protected@xdef\@thefnmark{\thempfn}%
+    \endgroup
+    \ifFNH@savingnotes
+      \def\FNH@endfntext@fntext{\FNH@nohyp@fntext}%
+    \else
+      \def\FNH@endfntext@fntext{\FNH@H@@footnotetext}%
+    \fi
+    \FNH@startfntext
+}%
+\def\FNH@startfntext{%
+  \setbox\z@\vbox\bgroup
+    \FNH@startnote
+    \FNH@prefntext
+    \rule\z@\footnotesep\ignorespaces
+}%
+\def\FNH@endfntext {%
+    \@finalstrut\strutbox
+    \FNH@postfntext
+    \FNH@endnote
+    \egroup
+  \begingroup
+    \let\@makefntext\@empty\let\@finalstrut\@gobble\let\rule\@gobbletwo
+    \FNH@endfntext@fntext {\unvbox\z@}%
+  \endgroup
+}%
+\let\FNH@prefntext\@empty
+\let\FNH@postfntext\@empty
+\AtBeginDocument{\iffootnotehyperparse\expandafter\FNH@check\fi}%
+\def\FNH@safeif#1{%
+   \iftrue\csname if#1\endcsname\csname fi\endcsname\expandafter\@firstoftwo
+   \else\csname fi\endcsname\expandafter\@secondoftwo
+   \fi
+}%
+\def\FNH@check{%
+   \ifx\@makefntextFB\@undefined\expandafter\FNH@check@
+                           \else\expandafter\FNH@frenchb@
+   \fi
+}%
+\def\FNH@frenchb@{%
+   \def\FNH@prefntext{%
+     \localleftbox{}%
+     \let\FBeverypar@save\FBeverypar@quote
+     \let\FBeverypar@quote\relax
+     \FNH@safeif{FB@koma}%
+       {\FNH@safeif{FBFrenchFootnotes}%
+          {\ifx\footnote\thanks
+             \let\@@makefnmark\@@makefnmarkTH
+             \@makefntextTH{} % space as in french.ldf
+           \else
+             \let\@@makefnmark\@@makefnmarkFB
+             \@makefntextFB{} % space as in french.ldf
+             \fi
+          }{\let\@@makefnmark\@@makefnmarkORI
+             \@makefntextORI{}% no space as in french.ldf
+          }%
+       }%
+       {\FNH@safeif{FBFrenchFootnotes}%
+          {\@makefntextFB{}}%
+          {\@makefntextORI{}}%
+       }%
+   }%
+   \def\FNH@postfntext{%
+     \let\FBeverypar@quote\FBeverypar@save
+     \localleftbox{\FBeveryline@quote}%
+   }%
+   \iffootnotehyperwarn
+    \PackageInfo{footnotehyper}%
+      {babel-french compatibility patch activated.\FNH@msgbk
+       It may not work with all combinations of classes/packages.\FNH@msgbk
+       In case of problems with the `footnote' or `footnotetext'\FNH@msgbk
+       environments, you may try sending to the author a small\FNH@msgbk
+       file demonstrating the problem.\FNH@msgbk
+       To turn off this message, add \string\footnotehyperwarnfalse\FNH@msgbk
+       to the preamble\@gobble}%
+   \fi
+}%
+\def\FNH@check@{%
+    \expandafter\FNH@check@a\@makefntext{1.2!3?4,}%
+                \FNH@@@1.2!3?4,\FNH@@@\relax
+}%
+\long\def\FNH@check@a #11.2!3?4,#2\FNH@@@#3{%
+    \ifx\relax#3\expandafter\FNH@checkagain@
+    \else
+      \def\FNH@prefntext{#1}\def\FNH@postfntext{#2}%
+      \expandafter\FNH@check@b
+    \fi
+}%
+\def\FNH@checkagain@{%
+    \expandafter\FNH@checkagain@a
+    \detokenize\expandafter{\@makefntext{1.2!3?4,}}\relax\FNH@@@
+}%
+\edef\FNH@temp{\noexpand\FNH@checkagain@a ##1\string{1.2!3?4,\string}}%
+\expandafter\def\FNH@temp#2#3\FNH@@@{%
+    \ifx\relax#2%
+      \def\FNH@prefntext{\@makefntext{}}%
+      \iffootnotehyperwarn
+        \PackageInfo{footnotehyper}%
+        {Using the \string\@makefntext{} approach (see doc).\FNH@msgbk
+         In case of dysfunctional footnote environments, you can\FNH@msgbk
+         try sending the author a small illustrative document.\FNH@msgbk
+         To turn off this message, add \string\footnotehyperwarnfalse\FNH@msgbk
+         to the preamble\@gobble}% "noline"
+      \fi
+    \else\FNH@bad@makefntext@alert
+    \fi
+}%
+\def\FNH@check@b #1\relax{%
+    \expandafter\expandafter\expandafter\FNH@check@c
+    \expandafter\meaning\expandafter\FNH@prefntext
+    \meaning\FNH@postfntext1.2!3?4,\FNH@check@c\relax
+}%
+\def\FNH@check@c #11.2!3?4,#2#3\relax{%
+    \ifx\FNH@check@c#2\else\FNH@bad@makefntext@alert\fi
+}%
+\def\FNH@bad@makefntext@alert{%
+    \iffootnotehyperwarn
+    \PackageWarningNoLine{footnotehyper}%
+      {\FNH@msgbk
+       Failed to analyse \string\@makefntext\space into something usable.\FNH@msgbk
+       Using as fall-back the article class code.\FNH@msgbk
+       You may try to email the author this problematic meaning:\FNH@msgbk
+       \meaning\@makefntext\FNH@msgbk
+       together with the document preamble (in particular if\FNH@msgbk
+       footnote numbers do not show at bottom of page)}%
+    \fi
+    \let\FNH@prefntext \FNH@prefntext@fallback
+    \let\FNH@postfntext\FNH@postfntext@fallback
+}%
+\def\FNH@prefntext@fallback{% from article class code with \@nameuse added
+    \parindent 1em\noindent
+    \hb@xt@1.8em{\hss\@textsuperscript{\normalfont\@nameuse{@thefnmark}}}%
+}%
+\let\FNH@postfntext@fallback\@empty
+\def\makesavenoteenv{\@ifnextchar[\FNH@msne@ii\FNH@msne@i}%]
+\def\FNH@msne@i #1{%
+  \expandafter\let\csname FNH$#1\expandafter\endcsname %$
+                  \csname #1\endcsname
+  \expandafter\let\csname endFNH$#1\expandafter\endcsname %$
+                  \csname end#1\endcsname
+  \FNH@msne@ii[#1]{FNH$#1}%$
+}%
+\def\FNH@msne@ii[#1]#2{%
+  \expandafter\edef\csname#1\endcsname{%
+    \noexpand\savenotes
+    \expandafter\noexpand\csname#2\endcsname
+  }%
+  \expandafter\edef\csname end#1\endcsname{%
+    \expandafter\noexpand\csname end#2\endcsname
+    \noexpand\expandafter
+    \noexpand\spewnotes
+    \noexpand\if@endpe\noexpand\@endpetrue\noexpand\fi
+  }%
+}%
+\@ifl@t@r\fmtversion{2020/10/01}{%
+    \def\FNH@msne@i#1{%
+        \AddToHook{env/#1/before}{\savenotes}%
+        \AddToHook{env/#1/after}{\spewnotes}%
+    }%
+    \def\FNH@msne@ii[#1]#2{%
+        \newenvironment{#1}{\begin{savenotes}\begin{#2}}%
+                           {\end{#2}\end{savenotes}}%
+    }%
+  }%
+  {}%
+\endinput
+%%
+%% End of file `footnotehyper.sty'.

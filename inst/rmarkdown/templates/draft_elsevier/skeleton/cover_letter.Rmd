@@ -1,0 +1,44 @@
+---
+output: 
+  pdf_document: default
+  bookdown::word_document2: default  # for cross-references
+---
+
+# New submission
+Month Day, Year  
+
+Dear Dr. AAA,  
+
+I am happy to submit my manuscript, **article_name**, for your consideration at *journal_name*. 
+This work *do sth interesting*. 
+The main conclusion is that *sth cool*.  
+
+All of the authors have read and approved the paper and it has not been published previously nor is it being considered by any other peer-reviewed journal.  
+
+The manuscript has also been submitted to bioRxiv as a preprint.  
+
+Sincerely,  
+
+
+Author_name, PhD  
+Professor  
+
+# Resubmissions
+Month Day, Year  
+
+Dear Dr. BBB,  
+
+I am happy to resubmit my manuscript, **article_name**, for your reconsideration at *journal_name*. 
+I am grateful to you and the reviewers who were very encouraging about the content of the manuscript. 
+I apologize for taking so long to resubmit. 
+Too many things got in the way over the past few months.  
+
+All of the authors have read and approved the paper and it has not been published previously nor is it being considered by any other peer-reviewed journal.  
+
+The manuscript was previously submitted to bioRxiv as a preprint.  
+
+Sincerely,  
+
+
+Author_name, PhD
+Professor

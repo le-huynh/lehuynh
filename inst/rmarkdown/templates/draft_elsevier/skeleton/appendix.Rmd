@@ -1,0 +1,12 @@
+---
+output: 
+  bookdown::pdf_book: default
+  bookdown::word_document2: default  # for cross-references
+---
+\renewcommand{\thefigure}{S\arabic{figure}}
+\setcounter{figure}{0}
+\renewcommand{\thetable}{S\arabic{table}}
+\setcounter{table}{0}
+\renewcommand{\theequation}{S\arabic{equation}}
+\setcounter{equation}{0}
+

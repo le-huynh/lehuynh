@@ -1,0 +1,120 @@
+---
+title: Article Name
+author:
+  - name: Author One
+    email: one@example.com
+    affiliation: a,1
+  - name: Author Two
+    email: two@example.com
+    affiliation: a,b
+    footnote: 1
+  - name: Author Three
+    email: three@example.com
+    affiliation: c
+    footnote: 2
+  - name: Author Four
+    email: four@example.com
+    affiliation: a
+    footnote: 2
+address:
+  - code: a
+    address: Graduate School of Engineering, Nagasaki University, 1-14 Bunkyo-machi, Nagasaki 852-8521, Japan
+  - code: b
+    address: Department, University, Street, City, State, Zip
+  - code: c
+    address: Department, University, Street, City, State, Zip
+footnote:
+  - code: 1
+    text: "Corresponding Author"
+  - code: 2
+    text: "Equal contribution"
+  - text: "^1^Present address: Department, University, Street, City, State, Zip"
+abstract: |
+  This is the abstract.  
+  1. what is the study about?  
+  2. what problem does it address?  
+  3. how did you conduct the research?  
+  4. what were the main findings?  
+  5. why is it important?  
+
+keywords: "keywordA, keywordB"
+journal: "An awesome journal"
+date: "`r Sys.Date()`"
+bibliography: bibliography.bib
+#linenumbers: true
+numbersections: true
+layout: review      #review=doublespace, preprint=single, 5p=2column
+csl: harmful-algae.csl        #download .csl at www.zotero.org/styles
+output:
+  bookdown::pdf_book:
+    base_format: rticles::elsevier_article
+    includes:  
+      in_header: my_header.tex
+  bookdown::word_document2: default  # for cross-references
+linkcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(here)
+library(tidyverse)
+library(kableExtra)
+```
+
+\newpage
+
+# Introduction {#intro}
+See [here](https://github.com/le-huynh/writing_journal_article_in_rmarkdown) for more information about writing journal article in rmarkdown  
+
+# Materials and methods {#method}
+
+
+# Results {#result}
+
+
+# Discussion {#discussion}
+
+
+# Conclusions {#conclusion}
+
+
+
+\newpage
+
+```{r, child="interest.Rmd"}
+
+```
+
+```{r, child="credit.Rmd"}
+
+```
+
+```{r, child="thanks.Rmd"}
+
+```
+
+\newpage
+# References {#references .unnumbered}
+<div id="refs"></div>
+
+\newpage
+```{r, child="appendix.Rmd"}
+
+```
+
+\newpage
+```{r, child="highlight.Rmd"}
+
+```
+
+# Graphical abstract {#graphic .unnumbered}
+Delete `eval=FALSE` before run the code chunk  
+
+```{r, out.width="50%", fig.align='center', eval=FALSE}
+knitr::include_graphics(here("results", "figures", "graphical_abstract.pdf"))
+```
+
+
+
+

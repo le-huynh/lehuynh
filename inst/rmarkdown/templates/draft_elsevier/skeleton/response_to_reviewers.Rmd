@@ -1,0 +1,19 @@
+---
+output: 
+  bookdown::pdf_book: default
+  bookdown::word_document2: default  # for cross-references
+header-includes:
+    - \usepackage{setspace}\doublespacing
+---
+### Reviewer #1 (Comments for the Author):
+**copy the comment of the reviewer here**
+
+> We have revised the sentence to the following: "sth you revised"
+
+
+### Reviewer #2 (Comments for the Author):
+**copy the comment of the reviewer here**
+
+> Your response here
+
+A great example [here](https://github.com/SchlossLab/Tomkovich_PEG3350_mSphere_2021/blob/master/submission/response_to_reviewers.md).  
