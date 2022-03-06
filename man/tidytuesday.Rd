@@ -4,10 +4,12 @@
 \alias{tidytuesday}
 \title{Create a new folder for \emph{#tidytuesday} challenge}
 \usage{
-tidytuesday(dir_name)
+tidytuesday(year, week)
 }
 \arguments{
-\item{dir_name}{name of the folder, a character string}
+\item{year}{numeric entry for year}
+
+\item{week}{the week of interest}
 }
 \value{
 
@@ -20,6 +22,6 @@ The folder includes:
 \itemize{
 \item \strong{README.md}: plots for \emph{#tidytuesday} challenge
 \item different folders to hold all \emph{data}, \emph{code}, \emph{plots} of data analysis
-\item templates: \strong{code.R}
+\item templates
 }
 }
