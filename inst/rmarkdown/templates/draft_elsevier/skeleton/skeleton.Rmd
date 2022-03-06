@@ -74,7 +74,10 @@ See [here](https://github.com/le-huynh/writing_journal_article_in_rmarkdown) for
 
 
 # Discussion {#discussion}
-
+- restate key findings (what it is/ what it means)
+- how they relate to previous research (agree/ disagree)
+- implications/ achievement/ contribution
+- limitations/ future work/ applications
 
 # Conclusions {#conclusion}
 
