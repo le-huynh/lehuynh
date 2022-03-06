@@ -48,23 +48,23 @@ new_project = function()
           sapply(dir_main, dir.create)
           sapply(dir_sub, dir.create)
 
-          usethis::use_template(template = "README.md",
+          usethis::use_template(template = "new_project/README.md",
                                 save_as = "README.md",
                                 package = "lehuynh")
 
-          usethis::use_template(template = "Makefile",
+          usethis::use_template(template = "new_project/Makefile",
                                 save_as = "Makefile",
                                 package = "lehuynh")
 
-          usethis::use_template(template = "data_description.md",
+          usethis::use_template(template = "new_project/data_description.md",
                                 save_as = "data/process/README.md",
                                 package = "lehuynh")
 
-          usethis::use_template(template = "code.R",
+          usethis::use_template(template = "new_project/code.R",
                                 save_as = "code/code.R",
                                 package = "lehuynh")
 
-          usethis::use_template(template = "manuscript.Rmd",
+          usethis::use_template(template = "new_project/manuscript.Rmd",
                                 save_as = "submission/manuscript.Rmd",
                                 package = "lehuynh")
 }
