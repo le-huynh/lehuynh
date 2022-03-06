@@ -15,15 +15,15 @@
 
 # install.packages("tidytuesdayR")
 library(tidytuesdayR)
-library(tidyverse)
 
 # load and save the data
 year <- YY
 week <- WW
 dir_name <- paste0(year, "/", year, "_week_", week, "/")
-file_name <- "str"
 
 tt_output <- tt_load_gh(year, week)
+tt_output
+file_name <- "str"
 
 tt_data <- tt_download(tt_output, files = paste0(file_name, ".csv"))
 write.csv(tt_data[[1]],
