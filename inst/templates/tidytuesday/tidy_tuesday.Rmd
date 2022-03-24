@@ -1,0 +1,95 @@
+---
+title: "year_week_no: Data name"
+date: "`r Sys.Date()`"
+output: html_notebook
+---
+
+# TidyTuesday
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(here)
+
+```
+
+# Load the weekly Data
+
+Load the weekly data into the `tt` object.
+
+```{r Load}
+year <- YY
+week <- WW
+dir_name <- paste0(year, "/", year, "_week_", week, "/")
+file_name <- "str"
+
+tt <- read_csv(here(paste0(dir_name, "data/", file_name, ".csv")))
+
+```
+
+# Glimpse Data
+
+Take an initial look at the format of the data available.
+
+```{r Glimpse}
+# Look at Data (top + bottom)
+head(tt)
+tail(tt)
+```
+
+
+```{r}
+str(tt)
+```
+
+Check column data type (e.g. numeric, character,...).
+Are data and column classes correctly specified?  
+If not, convert column class into the correct one.  
+
+```{r}
+summary(tt)
+```
+
+* Check Min, Max values.
+Are they in a reasonable range?  
+* How many NAs are there in each variable?  
+* Is there anything "weird"?  
+
+If column class is character, check:  
+```{r}
+tt %>% count(col_name)
+```
+
+Validating data with external information --> Check "weird stuff"  
+
+# Wrangle
+
+```{r Wrangle}
+
+
+
+```
+
+# Questions
+My questions are ...
+- q1
+- q2
+
+# Visualize
+
+```{r Visualize}
+
+
+  
+```
+
+# Save Image
+Save image (.png), then share on twitter (maybe) using hashtag `#TidyTuesday`.
+
+```{r}
+ggsave("fig_name.png",
+       fig_name)
+
+```

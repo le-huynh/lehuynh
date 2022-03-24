@@ -37,4 +37,9 @@ tidytuesday = function(year, week)
 
           usethis::use_template(template = "tidytuesday/get_data.R",
                                 save_as = paste0(dir_name, "code/get_data.R"),
-                                package = "lehuynh")}
+                                package = "lehuynh")
+
+          usethis::use_template(template = "tidytuesday/tidy_tuesday.Rmd",
+                                save_as = paste0(dir_name, "dataset.Rmd"),
+                                package = "lehuynh")
+}

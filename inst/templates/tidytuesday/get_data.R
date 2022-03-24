@@ -30,6 +30,3 @@ write.csv(tt_data[[1]],
           file = paste0(dir_name, "data/", file_name, ".csv"),
           row.names = FALSE)
 
-# Use the tidytemplate Rmd
-use_tidytemplate(name = paste0(dir_name, file_name, ".Rmd"))
-
