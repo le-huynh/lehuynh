@@ -41,7 +41,7 @@ tail(tt)
 
 
 ```{r}
-str(tt)
+tibble::glimpse(tt)
 ```
 
 Check column data type (e.g. numeric, character,...).
