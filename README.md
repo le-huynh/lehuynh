@@ -24,6 +24,6 @@ devtools::install_github("le-huynh/lehuynh")
 - `tsi( )`: Calculate TSI (Trophic state index) [(Carlson, 1977)](https://doi.org/10.4319/lo.1977.22.2.0361)
 
 ### Templates
-- `draft_elsevier`: creating an Rmarkdown manuscript for Elsevier journals [(example)](https://github.com/le-huynh/writing_journal_article_in_rmarkdown)
+- `draft_elsevier`: creating an Rmarkdown manuscript for Elsevier journals [(example)](https://github.com/le-huynh/writing_journal_article_in_rmarkdown/tree/master/elsevier)
 - `lehuynh_Bayes_brms`: Basic steps to fit, check, and interpret a Bayesian model via `brms` package
 - `lehuynh_EA`: Basic steps to do Exploratory Analysis
