@@ -10,6 +10,12 @@ ppc_brms(
   ytitle = "Fitted value",
   dy = c(0.1, 0.1),
   dx = c(0.1, 0.1),
+  cor = FALSE,
+  equation = FALSE,
+  xcor = NULL,
+  ycor = NULL,
+  xequ = NULL,
+  yequ = NULL,
   ...
 )
 }
@@ -24,6 +30,16 @@ ppc_brms(
 
 \item{dx}{Distance from plot to x-axis}
 
+\item{cor}{If TRUE, add correlation coefficients with p-values and R}
+
+\item{equation}{If TRUE, add regression line equation}
+
+\item{xcor, ycor}{\code{numeric} Coordinates (in data units) to be used for
+absolute positioning of the correlation coefficients}
+
+\item{xequ, yequ}{\code{numeric} Coordinates (in data units) to be used for
+absolute positioning of the regression line equation}
+
 \item{...}{Passed to \code{\link[=lehuynh_theme]{lehuynh_theme()}}}
 }
 \value{
@@ -36,7 +52,6 @@ prediction interval (dashed line).
 }
 \examples{
 \dontrun{
-library(ggplot2)
 library(brms)
 
 mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),
@@ -45,5 +60,6 @@ mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),
 
 ppc_brms(mod)
 ppc_brms(mod, dy = c(0.02, 0.1), dx = c(0.005, 0.1))
+ppc_brms(mod, cor = TRUE, equation = TRUE, yequ = 100)
 }
 }
