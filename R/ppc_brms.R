@@ -75,8 +75,12 @@ fig <- ggplot2::ggplot(myDat, ggplot2::aes(y_obs, h)) +
   ggplot2::scale_y_continuous(expand = ggplot2::expansion(mult = dx)) +
           lehuynh::lehuynh_theme(...)
 
-if (cor == TRUE) fig <- fig + ggpubr::stat_cor(label.x = xcor,
-                                               label.y = ycor)
+if (cor == TRUE) fig <- fig +
+          ggpubr::stat_cor(ggplot2::aes(label = paste(..rr.label..,
+                                                      ..p.label..,
+                                                      sep = "~`,`~")),
+                           label.x = xcor,
+                           label.y = ycor)
 
 if (equation == TRUE) fig <- fig +
           ggpubr::stat_regline_equation(label.x = xequ,
