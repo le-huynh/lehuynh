@@ -2,6 +2,7 @@
 
 export(MinMaxScaling)
 export(ggsave_elsevier)
+export(import_data)
 export(lehuynh_theme)
 export(new_project)
 export(ppc_brms)
