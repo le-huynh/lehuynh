@@ -25,4 +25,5 @@ Imports:
     ggpubr,
     purrr,
     readr,
-    stringr
+    stringr,
+    magrittr
