@@ -4,7 +4,7 @@
 
 <!-- badges: start -->
 <!-- badges: end -->
-This package includes personal R codes that are useful to me.
+This package includes R codes that are useful to me.
 
 ## Installation
 
