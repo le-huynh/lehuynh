@@ -19,7 +19,6 @@ devtools::install_github("le-huynh/lehuynh")
 - `import_data( )`: Import multiple .csv or .rds objects. The output is a *named* list of imported objects or separate objects in the .GlobalEnv.
 - `import_excel( )`: Import excel file with multiple sheets. The output is a *named* list of imported sheets or separate dataframes in the .GlobalEnv. 
 - `lehuynh_theme( )`: Personal ggplot2 theme: white background, black axis, black text
-- `lehuynh_theme( )`: Personal ggplot2 theme: white background, black axis, black text
 - `MinMaxScaling( )`: min-max normalization (min = 0, max = 1)
 - `new_project( )`: Create a [project](https://github.com/SchlossLab/new_project) for reproducible purpose
 - `ppc_brms( )`
