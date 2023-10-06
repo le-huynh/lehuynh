@@ -34,9 +34,9 @@ import_excel <- function(file_path,
           sheet_name = readxl::excel_sheets(file_path)
 
           output_list = purrr::map(.x = sheet_name,
-                                   ~ readxl:read_excel(path = file_path,
+                                   ~ readxl::read_excel(path = file_path,
                                                        sheet = .x)) %>%
-                    readxl::set_names(sheet_name)
+                    purrr::set_names(sheet_name)
 
           if (output == "list") return(output_list)
 
