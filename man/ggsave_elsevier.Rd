@@ -23,9 +23,6 @@ ggsave_elsevier(
 
 \item{...}{Passed to \code{\link[ggplot2:ggsave]{ggplot2::ggsave()}}}
 }
-\value{
-
-}
 \description{
 Save a plot using \code{\link[ggplot2:ggsave]{ggplot2::ggsave()}}.
 Plot size follows instructions of Elsevier journals.

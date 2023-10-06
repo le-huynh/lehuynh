@@ -12,9 +12,6 @@ tsi(x, type = c("chla", "TP", "TN", "SD"))
 \item{type}{type of variable used to calculate TSI.
 See \strong{Details} for more information.}
 }
-\value{
-
-}
 \description{
 Calculate TSI.
 TSI range: 0 - 100.

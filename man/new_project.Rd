@@ -6,9 +6,6 @@
 \usage{
 new_project()
 }
-\value{
-
-}
 \description{
 Create a project for reproducible purposes.
 }

@@ -11,9 +11,6 @@ tidytuesday(year, week)
 
 \item{week}{the week of interest}
 }
-\value{
-
-}
 \description{
 \emph{\href{https://github.com/rfordatascience/tidytuesday}{#tidytuesday}} challenge
 }
