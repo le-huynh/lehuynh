@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![DOI](https://zenodo.org/badge/389311777.svg)](https://zenodo.org/doi/10.5281/zenodo.10421410)
+[![R-CMD-check](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 [Le-Huynh Truc-Ly](https://lehuynh.rbind.io/)
