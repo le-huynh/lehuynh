@@ -9,7 +9,7 @@
 #' @param height Plot height in "mm".
 #' @param ... Passed to [ggplot2::ggsave()]
 #'
-#' @return
+#' @return An image file containing the saved plot.
 #' @export
 #'
 #' @details

@@ -2,7 +2,7 @@
 #'
 #' Create a project for reproducible purposes.
 #'
-#' @return
+#' @return A project containing folders and files for reproducible purposes.
 #' @export
 #'
 #' @details

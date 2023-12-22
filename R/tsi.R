@@ -7,7 +7,7 @@
 #' @param type type of variable used to calculate TSI.
 #'             See __Details__ for more information.
 #'
-#' @return
+#' @return a numeric value.
 #' @export
 #'
 #' @details

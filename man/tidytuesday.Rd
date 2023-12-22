@@ -11,6 +11,9 @@ tidytuesday(year, week)
 
 \item{week}{the week of interest}
 }
+\value{
+A folder containing folders and files for \emph{#tidytuesday} challenge.
+}
 \description{
 \emph{\href{https://github.com/rfordatascience/tidytuesday}{#tidytuesday}} challenge
 }

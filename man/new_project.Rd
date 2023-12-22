@@ -6,6 +6,9 @@
 \usage{
 new_project()
 }
+\value{
+A project containing folders and files for reproducible purposes.
+}
 \description{
 Create a project for reproducible purposes.
 }

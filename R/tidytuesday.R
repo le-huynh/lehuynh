@@ -6,7 +6,7 @@
 #' @param year numeric entry for year
 #' @param week the week of interest
 #'
-#' @return
+#' @return A folder containing folders and files for _#tidytuesday_ challenge.
 #' @export
 #'
 #' @details
