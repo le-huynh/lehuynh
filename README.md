@@ -11,7 +11,8 @@
 [Le-Huynh Truc-Ly](https://lehuynh.rbind.io/)
 
 **R/lehuynh** is an R package comprising a collection of miscellaneous R
-functions and templates that are useful to me. This package includes:  
+functions and templates that I find particularly useful. This package
+includes:  
 - Functions pertaining to graphics, data importation, data
 transformation, and general utilities.  
 - Templates designed for Exploratory Analysis, Bayesian modeling, and
@@ -22,6 +23,9 @@ crafting scientific manuscripts.
 `lehuynh` R package can be installed from GitHub with:
 
 ``` r
+if(!requireNamespace("devtools", quietly = TRUE)) {
+ install.packages("devtools")
+}
 devtools::install_github("le-huynh/lehuynh")
 ```
 
