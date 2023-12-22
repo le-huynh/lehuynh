@@ -18,7 +18,7 @@ author:
     footnote: 2
 address:
   - code: a
-    address: Graduate School of Engineering, Nagasaki University, 1-14 Bunkyo-machi, Nagasaki 852-8521, Japan
+    address: Department, University, Street, City, State, Zip
   - code: b
     address: Department, University, Street, City, State, Zip
   - code: c
@@ -57,15 +57,13 @@ linkcolor: blue
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
-library(here)
 library(tidyverse)
-library(kableExtra)
 ```
 
 \newpage
 
 # Introduction {#intro}
-See [here](https://github.com/le-huynh/writing_journal_article_in_rmarkdown) for more information about writing journal article in rmarkdown  
+See [here](https://github.com/le-huynh/writing_journal_article_in_rmarkdown) for more information about writing journal article in rmarkdown.  
 
 # Materials and methods {#method}
 
