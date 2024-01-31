@@ -9,7 +9,7 @@ tidytuesday(year, week)
 \arguments{
 \item{year}{numeric entry for year}
 
-\item{week}{the week of interest}
+\item{week}{numeric entry for the week of interest, from 1 to 52}
 }
 \value{
 A folder containing folders and files for \emph{#tidytuesday} challenge.
@@ -23,5 +23,10 @@ The folder includes:
 \item \strong{README.md}: plots for \emph{#tidytuesday} challenge
 \item different folders to hold all \emph{data}, \emph{code}, \emph{plots} of data analysis
 \item templates
+}
+}
+\examples{
+\dontrun{
+tidytuesday(2023, 42)
 }
 }
