@@ -7,8 +7,8 @@ Authors@R:
            role = c("aut", "cre", "cph"),
            email = "trucly.lehuynh@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0002-5227-2185"))
-Author: Le-Huynh Truc-Ly [aut, cre, cph] (<https://orcid.org/0000-0002-5227-2185>)
-Maintainer: Le-Huynh Truc-Ly <trucly.lehuynh@gmail.com>
+Author: Truc-Ly Le-Huynh [aut, cre, cph] (<https://orcid.org/0000-0002-5227-2185>)
+Maintainer: Truc-Ly Le-Huynh <trucly.lehuynh@gmail.com>
 Description: Miscellaneous R functions (for graphics, data import, 
     data transformation, and general utilities) and templates (for exploratory 
     analysis, Bayesian modeling, and crafting scientific manuscripts). 

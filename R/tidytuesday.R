@@ -1,4 +1,3 @@
-
 #' Create a new folder for _#tidytuesday_ challenge
 #'
 #' _[#tidytuesday](https://github.com/rfordatascience/tidytuesday)_ challenge
@@ -15,10 +14,8 @@
 #' * different folders to hold all _data_, _code_, _plots_ of data analysis
 #' * templates
 #'
-#' @examples
-#' \dontrun{
+#' @examplesIf FALSE
 #' tidytuesday(2023, 42)
-#'}
 
 
 tidytuesday = function(year, week){

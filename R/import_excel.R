@@ -14,8 +14,7 @@
 
 #' @export
 #'
-#' @examples
-#' \dontrun{
+#' @examplesIf FALSE
 #' path <- here::here("data/data.xlsx")
 #'
 #' mydata <- import_excel(file_path = path,
@@ -23,7 +22,6 @@
 #'
 #' import_excel(file_path = path,
 #'              output = "dataframe")
-#'}
 
 
 import_excel <- function(file_path,

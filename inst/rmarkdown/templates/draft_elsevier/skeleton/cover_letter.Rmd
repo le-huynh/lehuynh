@@ -4,13 +4,13 @@ output:
   bookdown::word_document2: default  # for cross-references
 ---
 
-# New submission
+### New submission - short version
 Month Day, Year  
 
 Dear Dr. AAA,  
 
 I am happy to submit my manuscript, **article_name**, for your consideration at *journal_name*. 
-This work *do sth interesting*. 
+This work *did sth interesting*. 
 The main conclusion is that *sth cool*.  
 
 All of the authors have read and approved the paper and it has not been published previously nor is it being considered by any other peer-reviewed journal.  
@@ -22,6 +22,43 @@ Sincerely,
 
 Author_name, PhD  
 Professor  
+
+
+
+### New submission - long version
+Journal editor's name  
+Title  
+*Journal Name*  
+
+Month Day, Year  
+
+Dear Dr.[last_name],  
+
+I would like to submit the manuscript entitled [**article_name**] by [author names] for consideration as [paper type: an original article / a brief communication / a case report / etc.] in [*Journal Name*].  
+
+[Summarize the research problem/gap, your main research findings, and the implications of your findings]. 
+We believe these findings will be of interest to the readers of your journal.  
+
+[[Revise or delete any of the following standard statements used in cover letter]]  
+We declare that this manuscript is original, has not been published before, and is not currently under consideration for publication elsewhere.  
+
+We are unaware of any conflicts of interest associated with this publication, and there has been no significant financial support for this work that could have influenced its outcome. 
+As the Corresponding Author, I confirm that the manuscript has been read and approved for submission by all the named authors.  
+
+[[Add any other statements/information required by the journal here]]  
+
+We hope you find our manuscript suitable for publication and look forward to your response.  
+
+Sincerely,  
+
+
+[Corresponding Author's Name], PhD  
+Department Name, Institution Name  
+Postal Address  
+Tel./Fax: xxxxxx  
+Email: xxxxxx  
+
+
 
 # Resubmissions
 Month Day, Year  

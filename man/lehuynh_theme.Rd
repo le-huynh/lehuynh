@@ -20,12 +20,12 @@ An object as returned by \code{\link[ggplot2:theme]{ggplot2::theme()}}
 Le's ggplot2 theme: white background, black axis, black text
 }
 \examples{
-\dontrun{
+\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
 library(ggplot2)
 mtcars$cyl <- factor(mtcars$cyl)
 ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
     geom_point() + lehuynh_theme()
-}
+\dontshow{\}) # examplesIf}
 }
 \seealso{
 \code{\link[ggplot2:theme]{ggplot2::theme()}}, \code{\link[ggplot2:ggtheme]{ggplot2::theme_bw()}}

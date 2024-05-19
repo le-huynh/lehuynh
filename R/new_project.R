@@ -24,6 +24,8 @@
 #' [Reproducibile Research Tutorial Series](https://riffomonas.org/reproducible_research/)
 #' by Pat Schloss.
 #'
+#' @examplesIf FALSE
+#' new_project()
 
 
 new_project = function()

@@ -36,7 +36,7 @@ This function imports multiple \code{.csv} or \code{.rds} objects
 from a given folder.
 }
 \examples{
-\dontrun{
+\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
 path <- here::here("data/raw")
 
 mydata <- import_data(file_path = path,
@@ -50,5 +50,5 @@ import_data(file_path = path,
             output = "object",
             input_pattern = "pc_gene",
             remove_pattern = "gene")
-}
+\dontshow{\}) # examplesIf}
 }

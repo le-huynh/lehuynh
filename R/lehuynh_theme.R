@@ -11,13 +11,11 @@
 #'
 #' @seealso [ggplot2::theme()], [ggplot2::theme_bw()]
 #'
-#' @examples
-#' \dontrun{
+#' @examplesIf FALSE
 #' library(ggplot2)
 #' mtcars$cyl <- factor(mtcars$cyl)
 #' ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
 #'     geom_point() + lehuynh_theme()
-#'}
 
 lehuynh_theme <- function(base_size = 11,
                           base_family = "",

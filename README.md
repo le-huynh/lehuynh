@@ -7,6 +7,10 @@
 
 [![R-CMD-check](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml)
 [![DOI](https://zenodo.org/badge/389311777.svg)](https://zenodo.org/doi/10.5281/zenodo.10421410)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![Codecov test
+coverage](https://codecov.io/gh/le-huynh/lehuynh/branch/master/graph/badge.svg)](https://app.codecov.io/gh/le-huynh/lehuynh?branch=master)
 <!-- badges: end -->
 
 [Le-Huynh Truc-Ly](https://lehuynh.rbind.io/)
@@ -53,8 +57,7 @@ This package is also accessible for download via Zenodo with the DOI
 - `tidytuesday( )`: Create a new folder for
   [\#tidytuesday](https://github.com/rfordatascience/tidytuesday)
   challenge.
-- `tsi( )`: Calculate TSI (Trophic state index) [(Carlson,
-  1977)](https://doi.org/10.4319/lo.1977.22.2.0361).
+- `tsi( )`: Calculate TSI (Trophic state index) (Carlson, 1977).
 
 ### Templates
 

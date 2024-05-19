@@ -31,6 +31,11 @@ At \emph{Initialize this repository with a README}, choose NO.
 \item Use function \code{new_project()} to generate folders and file templates.
 }
 }
+\examples{
+\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+new_project()
+\dontshow{\}) # examplesIf}
+}
 \references{
 \href{https://riffomonas.org/reproducible_research/}{Reproducibile Research Tutorial Series}
 by Pat Schloss.

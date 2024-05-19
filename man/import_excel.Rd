@@ -23,7 +23,7 @@ a \emph{named} \code{list} of imported sheets or multiple data frames in the
 .GlobalEnv. The data frames are named after the sheet names.
 }
 \examples{
-\dontrun{
+\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
 path <- here::here("data/data.xlsx")
 
 mydata <- import_excel(file_path = path,
@@ -31,5 +31,5 @@ mydata <- import_excel(file_path = path,
 
 import_excel(file_path = path,
              output = "dataframe")
-}
+\dontshow{\}) # examplesIf}
 }

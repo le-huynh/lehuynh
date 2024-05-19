@@ -17,4 +17,7 @@ The result of calling \code{rhs(lhs)}.
 \description{
 See \code{magrittr::\link[magrittr:pipe]{\%>\%}} for details.
 }
+\examples{
+c(1, 2, 3) \%>\% mean()
+}
 \keyword{internal}

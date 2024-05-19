@@ -31,7 +31,7 @@ Save a plot using \code{\link[ggplot2:ggsave]{ggplot2::ggsave()}}.
 Plot size follows instructions of Elsevier journals.
 }
 \details{
-Instruction of Elsevier about \href{https://www.elsevier.com/authors/policies-and-guidelines/artwork-and-media-instructions/artwork-sizing}{sizing of artwork}.
+Instruction of Elsevier about \href{https://www.elsevier.com/about/policies-and-standards/author/artwork-and-media-instructions/artwork-sizing}{sizing of artwork}.
 \itemize{
 \item Image width:
 \itemize{
@@ -43,7 +43,7 @@ Instruction of Elsevier about \href{https://www.elsevier.com/authors/policies-an
 }
 }
 \examples{
-\dontrun{
+\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
 library(ggplot2)
 
 mtcars$cyl <- factor(mtcars$cyl)
@@ -52,7 +52,7 @@ fig <- ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
            geom_point()
 
 ggsave_elsevier("fig.pdf", plot = fig, width = "full_page", height = 200)
-}
+\dontshow{\}) # examplesIf}
 }
 \seealso{
 \code{\link[ggplot2:ggsave]{ggplot2::ggsave()}}

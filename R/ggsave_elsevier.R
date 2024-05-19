@@ -13,7 +13,7 @@
 #' @export
 #'
 #' @details
-#' Instruction of Elsevier about [sizing of artwork](https://www.elsevier.com/authors/policies-and-guidelines/artwork-and-media-instructions/artwork-sizing).
+#' Instruction of Elsevier about [sizing of artwork](https://www.elsevier.com/about/policies-and-standards/author/artwork-and-media-instructions/artwork-sizing).
 #' * Image width:
 #'   + single column: 90 mm (255 pt)
 #'   + 1.5 column: 140 mm (397 pt)
@@ -22,8 +22,7 @@
 #'
 #' @seealso [ggplot2::ggsave()]
 #'
-#' @examples
-#' \dontrun{
+#' @examplesIf FALSE
 #' library(ggplot2)
 #'
 #' mtcars$cyl <- factor(mtcars$cyl)
@@ -32,7 +31,6 @@
 #'            geom_point()
 #'
 #' ggsave_elsevier("fig.pdf", plot = fig, width = "full_page", height = 200)
-#' }
 
 ggsave_elsevier <- function(filename,
                             plot,

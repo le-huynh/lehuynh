@@ -1,4 +1,3 @@
-
 #' Import .csv or .rds objects
 #'
 #' This function imports multiple \code{.csv} or \code{.rds} objects
@@ -18,8 +17,7 @@
 #'
 #' @export
 #'
-#' @examples
-#' \dontrun{
+#' @examplesIf FALSE
 #' path <- here::here("data/raw")
 #'
 #' mydata <- import_data(file_path = path,
@@ -33,7 +31,6 @@
 #'             output = "object",
 #'             input_pattern = "pc_gene",
 #'             remove_pattern = "gene")
-#'}
 
 
 import_data <- function(file_path,

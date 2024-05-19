@@ -26,7 +26,7 @@ The folder includes:
 }
 }
 \examples{
-\dontrun{
+\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
 tidytuesday(2023, 42)
-}
+\dontshow{\}) # examplesIf}
 }

@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml) 
 [![DOI](https://zenodo.org/badge/389311777.svg)](https://zenodo.org/doi/10.5281/zenodo.10421410)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![Codecov test coverage](https://codecov.io/gh/le-huynh/lehuynh/branch/master/graph/badge.svg)](https://app.codecov.io/gh/le-huynh/lehuynh?branch=master)
 <!-- badges: end -->
 
 
@@ -50,7 +52,7 @@ This package is also accessible for download via Zenodo with the DOI [10.5281/ze
 - `new_project( )`: Create a [project](https://github.com/SchlossLab/new_project) for reproducible purpose.
 - `ppc_brms( )`
 - `tidytuesday( )`: Create a new folder for [#tidytuesday](https://github.com/rfordatascience/tidytuesday) challenge.
-- `tsi( )`: Calculate TSI (Trophic state index) [(Carlson, 1977)](https://doi.org/10.4319/lo.1977.22.2.0361).
+- `tsi( )`: Calculate TSI (Trophic state index) (Carlson, 1977).
 
 ### Templates
 - `draft_elsevier`: Creating an Rmarkdown manuscript for Elsevier journals [(example)](https://github.com/le-huynh/writing_journal_article_in_rmarkdown/tree/master/elsevier).

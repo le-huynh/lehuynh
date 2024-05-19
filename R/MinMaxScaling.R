@@ -1,5 +1,3 @@
-
-
 #' Min-Max Standardization
 #'
 #' Normalize / Standardize / Scale the data to the fixed range from 0 to 1.
