@@ -18,10 +18,10 @@ coverage](https://codecov.io/gh/le-huynh/lehuynh/branch/master/graph/badge.svg)]
 **R/lehuynh** is an R package comprising a collection of miscellaneous R
 functions and templates that I find particularly useful. This package
 includes:  
-- Functions pertaining to graphics, data importation, data
-transformation, and general utilities.  
-- Templates designed for Exploratory Analysis, Bayesian modeling, and
-crafting scientific manuscripts.
+- Functions for graphics, data importation, data transformation, and
+general utilities.  
+- Templates for Exploratory Analysis, Bayesian modeling, and crafting
+scientific manuscripts.
 
 ## Installation
 
