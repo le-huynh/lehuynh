@@ -9,8 +9,6 @@
 [![DOI](https://zenodo.org/badge/389311777.svg)](https://zenodo.org/doi/10.5281/zenodo.10421410)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![Codecov test
-coverage](https://codecov.io/gh/le-huynh/lehuynh/branch/master/graph/badge.svg)](https://app.codecov.io/gh/le-huynh/lehuynh?branch=master)
 <!-- badges: end -->
 
 [Le-Huynh Truc-Ly](https://lehuynh.rbind.io/)
