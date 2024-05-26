@@ -5,3 +5,7 @@
 ^\.github$
 ^cran-comments\.md$
 ^codecov\.yml$
+^CRAN-SUBMISSION$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

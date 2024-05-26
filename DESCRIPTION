@@ -13,7 +13,7 @@ Description: Miscellaneous R functions (for graphics, data import,
     data transformation, and general utilities) and templates (for exploratory 
     analysis, Bayesian modeling, and crafting scientific manuscripts). 
 License: MIT + file LICENSE
-URL: https://github.com/le-huynh/lehuynh
+URL: https://github.com/le-huynh/lehuynh, https://le-huynh.github.io/lehuynh/
 BugReports: https://github.com/le-huynh/lehuynh/issues
 Encoding: UTF-8
 LazyData: true
