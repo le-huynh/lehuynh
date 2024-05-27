@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# R/lehuynh
+# lehuynh
 
 <!-- badges: start -->
 
@@ -11,11 +11,12 @@ stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://
 [![DOI](https://zenodo.org/badge/389311777.svg)](https://zenodo.org/doi/10.5281/zenodo.10421410)
 <!-- badges: end -->
 
-[Le-Huynh Truc-Ly](https://lehuynh.rbind.io/)
+[Le-Huynh Truc-Ly’s](https://lehuynh.rbind.io/) R Code and Templates
 
-**R/lehuynh** is an R package comprising a collection of miscellaneous R
-functions and templates that I find particularly useful. This package
-includes:  
+`lehuynh` is an R package comprising a collection of miscellaneous R
+functions and templates that I find particularly useful.
+
+This package includes:  
 - Functions for graphics, data importation, data transformation, and
 general utilities.  
 - Templates for Exploratory Analysis, Bayesian modeling, and crafting
@@ -51,7 +52,8 @@ This package is also accessible for download via Zenodo with the DOI
 - `new_project( )`: Create a
   [project](https://github.com/SchlossLab/new_project) for reproducible
   purpose.
-- `ppc_brms( )`
+- `ppc_brms( )`: Plot fitted versus observed values for *brmsfit*
+  Objects.
 - `tidytuesday( )`: Create a new folder for
   [\#tidytuesday](https://github.com/rfordatascience/tidytuesday)
   challenge.
