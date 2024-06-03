@@ -2,53 +2,45 @@
 % Please edit documentation in R/import_data.R
 \name{import_data}
 \alias{import_data}
-\title{Import .csv or .rds objects}
+\title{Import multiple files of the same format}
 \usage{
-import_data(
-  file_path,
-  data_type = c("csv", "rds"),
-  output = c("list", "object"),
-  input_pattern = NULL,
-  remove_pattern = "NULL"
-)
+import_data(path, file_format, pattern = NULL, ...)
 }
 \arguments{
-\item{file_path}{a character vector of full path names.}
+\item{path}{A character string specifying the directory path
+where the data files are located.}
 
-\item{data_type}{type of imported objects, \code{csv} or \code{rds}.}
+\item{file_format}{A character string specifying the type of files to import,
+using a glob pattern (e.g., "*.csv" for CSV files).}
 
-\item{output}{type of output, \code{list} or \code{object}.}
+\item{pattern}{An optional character string specifying a regex pattern
+to filter filenames. Default is NULL.}
 
-\item{input_pattern}{an optional regular expression. Only file names
-which match the regular expression will be returned.}
-
-\item{remove_pattern}{an optional regular expression.
-Remove the matching regular expression in file names.}
+\item{...}{Additional arguments passed to the \code{\link[rio:import]{rio::import()}} function.}
 }
 \value{
-\itemize{
-\item \code{output = "list"}, a \emph{named} \code{list} of imported objects
-\item \code{output = "object"}, multiple objects in the .GlobalEnv
-}
+A named list where each element is the imported data from a file,
+with names corresponding to the filenames without the path and file extension.
 }
 \description{
-This function imports multiple \code{.csv} or \code{.rds} objects
-from a given folder.
+This function imports multiple data files of the same format from
+a specified directory, optionally filtered by a pattern in the filenames.
 }
 \examples{
-\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
-path <- here::here("data/raw")
 
-mydata <- import_data(file_path = path,
-                      data_type = "csv",
-                      output = "list",
-                      input_pattern = "pc_gene",
-                      remove_pattern = "gene")
+## For demo, temp. file paths is created with the file extension .csv
+csv_file1 <- tempfile(pattern = "test", fileext = ".csv")
+csv_file2 <- tempfile(pattern = "file", fileext = ".csv")
+csv_file3 <- tempfile(pattern = "test", fileext = ".csv")
 
-import_data(file_path = path,
-            data_type = "csv",
-            output = "object",
-            input_pattern = "pc_gene",
-            remove_pattern = "gene")
-\dontshow{\}) # examplesIf}
+## create CSV files to import
+write.csv(head(cars), csv_file1)
+write.csv(head(mtcars), csv_file2)
+write.csv(head(iris), csv_file3)
+
+## Import all CSV files in the directory
+data_list <- import_data(path = tempdir(), file_format = "*.csv")
+
+## Import all CSV files with names containing "test"
+data_list <- import_data(path = tempdir(), file_format = "*.csv", pattern = "test")
 }

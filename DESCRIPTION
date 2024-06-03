@@ -20,17 +20,20 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Suggests: 
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    writexl
 Config/testthat/edition: 3
 Imports: 
     brms,
     stats,
     ggplot2,
-    here,
     usethis,
     ggpubr,
     purrr,
-    readr,
     stringr,
     magrittr,
-    readxl
+    readxl,
+    dplyr,
+    fs,
+    rio,
+    tibble

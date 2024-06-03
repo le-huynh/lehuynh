@@ -7,12 +7,15 @@
 MinMaxScaling(x, y = x)
 }
 \arguments{
-\item{x}{numeric object}
+\item{x}{A numeric vector to be scaled.}
 
-\item{y}{numeric object, default: y = x}
+\item{y}{An optional numeric vector used to determine the scaling range.
+If not provided, the scaling range is determined by the values in \code{x}.
+Default: \code{y} = \code{x}.}
 }
 \value{
-numeric object
+A numeric vector of the same length as \code{x},
+with values scaled to the range from 0 to 1.
 }
 \description{
 Normalize / Standardize / Scale the data to the fixed range from 0 to 1.
@@ -20,11 +23,19 @@ The minimum value of data gets transformed into 0.
 The maximum value gets transformed into 1.
 Other values get transformed into decimals between 0 and 1.
 }
+\details{
+Min-max scaling is a normalization technique that transforms
+the values in a vector to a standardized range.
+The scaling is performed using the formula:
+\deqn{scaled_x = \frac{x - \min(y)}{\max(y) - \min(y)}}
+}
 \examples{
+
 dat1 = seq(from = 5, to = 30, length.out = 6)
 
 MinMaxScaling(dat1)
 
 dat2 = c(7, 13, 22)
+
 MinMaxScaling(x = dat2, y = dat1)
 }

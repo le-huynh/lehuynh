@@ -2,7 +2,7 @@
 % Please edit documentation in R/lehuynh_theme.R
 \name{lehuynh_theme}
 \alias{lehuynh_theme}
-\title{Le's ggplot2 theme}
+\title{Le-Huynh's ggplot2 theme}
 \usage{
 lehuynh_theme(base_size = 11, base_family = "", ...)
 }
@@ -17,15 +17,18 @@ lehuynh_theme(base_size = 11, base_family = "", ...)
 An object as returned by \code{\link[ggplot2:theme]{ggplot2::theme()}}
 }
 \description{
-Le's ggplot2 theme: white background, black axis, black text
+Le-Huynh's ggplot2 theme: white background, black axis, black text
 }
 \examples{
-\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+
 library(ggplot2)
-mtcars$cyl <- factor(mtcars$cyl)
-ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
-    geom_point() + lehuynh_theme()
-\dontshow{\}) # examplesIf}
+
+fig <- ggplot(mtcars, aes(y = mpg, x = disp)) +
+    geom_point(aes(colour = factor(cyl)))
+
+fig
+
+fig + lehuynh_theme()
 }
 \seealso{
 \code{\link[ggplot2:theme]{ggplot2::theme()}}, \code{\link[ggplot2:ggtheme]{ggplot2::theme_bw()}}

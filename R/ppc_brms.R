@@ -21,7 +21,8 @@
 #' @export
 #' @importFrom stats lm predict
 #'
-#' @examplesIf FALSE
+#' @examples
+#' \donttest{
 #' library(brms)
 #'
 #' mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),
@@ -31,6 +32,7 @@
 #' ppc_brms(mod)
 #' ppc_brms(mod, dy = c(0.02, 0.1), dx = c(0.005, 0.1))
 #' ppc_brms(mod, cor = TRUE, equation = TRUE, yequ = 100)
+#' }
 
 ppc_brms = function(object,
                     xtitle = "Observed value",

@@ -1,82 +1,65 @@
-#' Import .csv or .rds objects
+#' Import multiple files of the same format
 #'
-#' This function imports multiple \code{.csv} or \code{.rds} objects
-#' from a given folder.
+#' This function imports multiple data files of the same format from
+#' a specified directory, optionally filtered by a pattern in the filenames.
 #'
-#' @param file_path a character vector of full path names.
-#' @param data_type type of imported objects, \code{csv} or \code{rds}.
-#' @param output    type of output, \code{list} or \code{object}.
-#' @param input_pattern an optional regular expression. Only file names
-#'                      which match the regular expression will be returned.
-#' @param remove_pattern an optional regular expression.
-#'                       Remove the matching regular expression in file names.
+#' @param path A character string specifying the directory path
+#'        where the data files are located.
+#' @param file_format A character string specifying the type of files to import,
+#'        using a glob pattern (e.g., "*.csv" for CSV files).
+#' @param pattern An optional character string specifying a regex pattern
+#'        to filter filenames. Default is NULL.
+#' @param ... Additional arguments passed to the [rio::import()] function.
 #'
-#' @return
-#' * \code{output = "list"}, a _named_ \code{list} of imported objects
-#' * \code{output = "object"}, multiple objects in the .GlobalEnv
+#' @return A named list where each element is the imported data from a file,
+#'        with names corresponding to the filenames without the path and file extension.
 #'
 #' @export
 #'
-#' @examplesIf FALSE
-#' path <- here::here("data/raw")
+#' @examples
 #'
-#' mydata <- import_data(file_path = path,
-#'                       data_type = "csv",
-#'                       output = "list",
-#'                       input_pattern = "pc_gene",
-#'                       remove_pattern = "gene")
+#' ## For demo, temp. file paths is created with the file extension .csv
+#' csv_file1 <- tempfile(pattern = "test", fileext = ".csv")
+#' csv_file2 <- tempfile(pattern = "file", fileext = ".csv")
+#' csv_file3 <- tempfile(pattern = "test", fileext = ".csv")
 #'
-#' import_data(file_path = path,
-#'             data_type = "csv",
-#'             output = "object",
-#'             input_pattern = "pc_gene",
-#'             remove_pattern = "gene")
+#' ## create CSV files to import
+#' write.csv(head(cars), csv_file1)
+#' write.csv(head(mtcars), csv_file2)
+#' write.csv(head(iris), csv_file3)
+#'
+#' ## Import all CSV files in the directory
+#' data_list <- import_data(path = tempdir(), file_format = "*.csv")
+#'
+#' ## Import all CSV files with names containing "test"
+#' data_list <- import_data(path = tempdir(), file_format = "*.csv", pattern = "test")
 
 
-import_data <- function(file_path,
-                        data_type = c("csv", "rds"),
-                        output = c("list", "object"),
-                        input_pattern = NULL,
-                        remove_pattern = "NULL"
-)
-{
+import_data <- function(path,
+                        file_format,
+                        pattern = NULL,
+                        ...){
 
-          data_type = match.arg(data_type)
-          output = match.arg(output)
-
-          if (data_type == "csv") {
-                    if (is.null(input_pattern)) pattern <- "\\.csv$"
-                    else pattern <- input_pattern
-                    loading_function = readr::read_csv
+          if (is.null(pattern)) {
+                file_list <- fs::dir_ls(path = path,
+                                        glob = file_format)
+          } else {
+                file_list <- fs::dir_ls(path = path,
+                                        glob = file_format) %>%
+                      tibble::as_tibble() %>%
+                      dplyr::filter(stringr::str_detect(value, pattern)) %>%
+                      dplyr::pull()
           }
 
-          if (data_type == "rds") {
-                    if (is.null(input_pattern)) pattern <- "\\.rds$"
-                    else pattern <- input_pattern
-                    loading_function = readr::read_rds
-          }
-
-          file_list = list.files(path = file_path,
-                                 recursive = TRUE,
-                                 pattern = pattern,
-                                 full.names = TRUE)
-
-          file_name = file_list %>%
-                    stringr::str_remove(file_path) %>%
+          file_extension <- stringr::str_remove(file_format, "\\*")
+          file_name <- file_list %>%
+                    stringr::str_remove(fs::path_expand(path)) %>%
                     stringr::str_remove("/") %>%
-                    stringr::str_remove(remove_pattern)
+                    stringr::str_remove(file_extension)
 
-          if (output == "list") {
-                    output_list <- purrr::map(file_list, loading_function) %>%
-                              purrr::set_names(file_name)
-                    return(output_list)
-          }
+          output_list <- purrr::map(file_list, rio::import, ...) %>%
+                    purrr::set_names(file_name)
 
-          if (output == "object") {
-                    purrr::map(file_list, loading_function) %>%
-                              purrr::set_names(file_name) %>%
-                              list2env(envir = .GlobalEnv)
-          }
+          return(output_list)
 }
-
 

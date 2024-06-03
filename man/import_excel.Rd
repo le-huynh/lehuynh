@@ -2,34 +2,28 @@
 % Please edit documentation in R/import_excel.R
 \name{import_excel}
 \alias{import_excel}
-\title{Import excel file with multiple sheets}
+\title{Import Excel file with multiple sheets}
 \usage{
-import_excel(file_path, output = c("list", "dataframe"))
+import_excel(file_path)
 }
 \arguments{
-\item{file_path}{path to the xls/xlsx file.}
-
-\item{output}{type of output, \code{list} or \code{data-frame}.}
+\item{file_path}{A character string specifying the path to the Excel file.}
 }
 \value{
-\itemize{
-\item \code{output = "list"}, a \emph{named} \code{list} of imported sheets
-\item \code{output = "dataframe"}, multiple data frames in the .GlobalEnv
-}
+A named list where each element is the imported sheet from the Excel file,
+with names corresponding to the sheet names.
 }
 \description{
-This function imports an excel file with multiple sheets and returns
-a \emph{named} \code{list} of imported sheets or multiple data frames in the
-.GlobalEnv. The data frames are named after the sheet names.
+This function imports an Excel file with multiple sheets and returns
+a \emph{named} \code{list} of imported sheets.
 }
 \examples{
-\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
-path <- here::here("data/data.xlsx")
+## For demo, a temp. file path is created with the file extension .xlsx
+excel_file <- tempfile(fileext = ".xlsx")
 
-mydata <- import_excel(file_path = path,
-                      output = "list")
+## create Excel file with multiple sheets to import
+writexl::write_xlsx(list(cars = head(cars), mtcars = head(mtcars)),
+                    excel_file)
 
-import_excel(file_path = path,
-             output = "dataframe")
-\dontshow{\}) # examplesIf}
+import_excel(file_path = excel_file)
 }

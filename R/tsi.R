@@ -41,6 +41,8 @@
 #' chla <- c(0.12, 0.34, 0.94, 6.4)
 #'
 #' tsi(chla, type = "chla")
+#'
+#' tsi(chla, type = "TP")
 
 
 tsi <- function(x,

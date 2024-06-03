@@ -43,16 +43,16 @@ Instruction of Elsevier about \href{https://www.elsevier.com/about/policies-and-
 }
 }
 \examples{
-\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+
 library(ggplot2)
 
-mtcars$cyl <- factor(mtcars$cyl)
+fig <- ggplot(mtcars, aes(y = mpg, x = disp)) +
+    geom_point(aes(colour = factor(cyl)))
 
-fig <- ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
-           geom_point()
+## For demo, a temp. file path is created with the file extension .png
+png_file <- tempfile(fileext = ".png")
 
-ggsave_elsevier("fig.pdf", plot = fig, width = "full_page", height = 200)
-\dontshow{\}) # examplesIf}
+ggsave_elsevier(png_file, plot = fig, width = "full_page", height = 120)
 }
 \seealso{
 \code{\link[ggplot2:ggsave]{ggplot2::ggsave()}}

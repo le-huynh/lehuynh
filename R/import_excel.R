@@ -1,49 +1,36 @@
-
-#' Import excel file with multiple sheets
+#' Import Excel file with multiple sheets
 #'
-#' This function imports an excel file with multiple sheets and returns
-#' a _named_ \code{list} of imported sheets or multiple data frames in the
-#' .GlobalEnv. The data frames are named after the sheet names.
+#' This function imports an Excel file with multiple sheets and returns
+#' a _named_ \code{list} of imported sheets.
 #'
-#' @param file_path path to the xls/xlsx file.
-#' @param output type of output, \code{list} or \code{data-frame}.
+#' @param file_path A character string specifying the path to the Excel file.
 #'
-#' @return
-#' * \code{output = "list"}, a _named_ \code{list} of imported sheets
-#' * \code{output = "dataframe"}, multiple data frames in the .GlobalEnv
-
+#' @return A named list where each element is the imported sheet from the Excel file,
+#'        with names corresponding to the sheet names.
+#'
 #' @export
 #'
-#' @examplesIf FALSE
-#' path <- here::here("data/data.xlsx")
+#' @examples
+#' ## For demo, a temp. file path is created with the file extension .xlsx
+#' excel_file <- tempfile(fileext = ".xlsx")
 #'
-#' mydata <- import_excel(file_path = path,
-#'                       output = "list")
+#' ## create Excel file with multiple sheets to import
+#' writexl::write_xlsx(list(cars = head(cars), mtcars = head(mtcars)),
+#'                     excel_file)
 #'
-#' import_excel(file_path = path,
-#'              output = "dataframe")
+#' import_excel(file_path = excel_file)
 
 
-import_excel <- function(file_path,
-                         output = c("list", "dataframe")){
+import_excel <- function(file_path){
 
-          output = match.arg(output)
+          sheet_name <- readxl::excel_sheets(file_path)
 
-          sheet_name = readxl::excel_sheets(file_path)
-
-          output_list = purrr::map(.x = sheet_name,
+          output_list <- purrr::map(.x = sheet_name,
                                    ~ readxl::read_excel(path = file_path,
-                                                       sheet = .x)) %>%
+                                                        sheet = .x)) %>%
                     purrr::set_names(sheet_name)
 
-          if (output == "list") return(output_list)
-
-          if (output == "dataframe"){
-                    output_df = output_list %>%
-                              list2env(envir = .GlobalEnv)
-
-                    return(output_df)
-          }
+          return(output_list)
 }
 
 

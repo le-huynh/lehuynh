@@ -1,6 +1,6 @@
-#' Le's ggplot2 theme
+#' Le-Huynh's ggplot2 theme
 #'
-#' Le's ggplot2 theme: white background, black axis, black text
+#' Le-Huynh's ggplot2 theme: white background, black axis, black text
 #'
 #' @param base_size Base font size
 #' @param base_family Base font family
@@ -11,11 +11,17 @@
 #'
 #' @seealso [ggplot2::theme()], [ggplot2::theme_bw()]
 #'
-#' @examplesIf FALSE
+#' @examples
+#'
 #' library(ggplot2)
-#' mtcars$cyl <- factor(mtcars$cyl)
-#' ggplot(mtcars, aes(y = mpg, x = disp, color = cyl)) +
-#'     geom_point() + lehuynh_theme()
+#'
+#' fig <- ggplot(mtcars, aes(y = mpg, x = disp)) +
+#'     geom_point(aes(colour = factor(cyl)))
+#'
+#' fig
+#'
+#' fig + lehuynh_theme()
+
 
 lehuynh_theme <- function(base_size = 11,
                           base_family = "",

@@ -44,6 +44,8 @@ USEPA (2000): TSI-TN
 chla <- c(0.12, 0.34, 0.94, 6.4)
 
 tsi(chla, type = "chla")
+
+tsi(chla, type = "TP")
 }
 \references{
 Carlson, R. E. (1977). A trophic state index for lakes. Limnology and
