@@ -17,12 +17,13 @@
 #'        absolute positioning of the regression line equation
 #' @param ...    Passed to [lehuynh::lehuynh_theme()]
 #'
-#' @return A plot
+#' @return A ggplot object
 #' @export
 #' @importFrom stats lm predict
 #'
 #' @examples
 #' \dontrun{
+#'
 #' library(brms)
 #'
 #' mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),

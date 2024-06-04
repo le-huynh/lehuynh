@@ -43,7 +43,7 @@ absolute positioning of the regression line equation}
 \item{...}{Passed to \code{\link[=lehuynh_theme]{lehuynh_theme()}}}
 }
 \value{
-A plot
+A ggplot object
 }
 \description{
 Plot fitted versus observed values, including confidence interval
@@ -52,6 +52,7 @@ prediction interval (dashed line).
 }
 \examples{
 \dontrun{
+
 library(brms)
 
 mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),
