@@ -1,6 +1,6 @@
 Package: lehuynh
 Title: Le-Huynh Truc-Ly's R Code and Templates
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(family = "Le-Huynh",
            given = "Truc-Ly",
