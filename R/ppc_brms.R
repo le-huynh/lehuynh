@@ -22,7 +22,7 @@
 #' @importFrom stats lm predict
 #'
 #' @examples
-#' \donttest{
+#' \dontrun{
 #' library(brms)
 #'
 #' mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),

@@ -7,15 +7,20 @@
 tidytuesday(year, week)
 }
 \arguments{
-\item{year}{numeric entry for year}
+\item{year}{An integer representing the year of the \emph{#tidytuesday} challenge}
 
-\item{week}{numeric entry for the week of interest, from 1 to 52}
+\item{week}{An integer representing the week of interest, from 1 to 52}
 }
 \value{
 A folder containing folders and files for \emph{#tidytuesday} challenge.
 }
 \description{
+This function sets up a new folder for
 \emph{\href{https://github.com/rfordatascience/tidytuesday}{#tidytuesday}} challenge
+within an \strong{active project}.
+It creates a directory for the specified year and week,
+along with sub-directories for data, code, and plots.
+Template files are also added.
 }
 \details{
 The folder includes:
@@ -25,8 +30,14 @@ The folder includes:
 \item templates
 }
 }
+\note{
+Ensure that this function is called within an \strong{active project}.
+}
 \examples{
-\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
-tidytuesday(2023, 42)
-\dontshow{\}) # examplesIf}
+\donttest{
+
+if(interactive()){
+  tidytuesday(year = 2021, week = 25)
+}
+}
 }

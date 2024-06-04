@@ -10,7 +10,8 @@ new_project()
 A project containing folders and files for reproducible purposes.
 }
 \description{
-Create a project for reproducible purposes.
+This function sets up a new project within an \strong{active R project}
+for reproducible purposes.
 }
 \details{
 The project includes:
@@ -23,18 +24,23 @@ and \emph{documents} related to the project
 }
 }
 \note{
+The function should be executed within an \strong{active project}.
+
 Recommended workflow:
 \enumerate{
 \item Create a GitHub repository for the new project.
 At \emph{Initialize this repository with a README}, choose NO.
-\item Create a new RStudio Project via git clone.
+\item Create a new RStudio Project via \verb{git clone}.
 \item Use function \code{new_project()} to generate folders and file templates.
 }
 }
 \examples{
-\dontshow{if (FALSE) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
-new_project()
-\dontshow{\}) # examplesIf}
+\donttest{
+
+if(interactive()){
+  new_project()
+}
+}
 }
 \references{
 \href{https://riffomonas.org/reproducible_research/}{Reproducibile Research Tutorial Series}

@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# lehuynh
+# lehuynh <img src="man/figures/logo.png" width = "175" height = "200" align="right" />
 
 <!-- badges: start -->
 
@@ -40,12 +40,11 @@ This package is also accessible for download via Zenodo with the DOI
 
 - `ggsave_elsevier( )`: Save a plot using `ggplot2::ggsave( )`. Plot
   size follows instructions of Elsevier journals.
-- `import_data( )`: Import multiple .csv or .rds objects. The output is
-  a *named* list of imported objects or separate objects in the
-  .GlobalEnv.
-- `import_excel( )`: Import excel file with multiple sheets. The output
-  is a *named* list of imported sheets or separate dataframes in the
-  .GlobalEnv.
+- `import_data( )`: Imports multiple data files of the same format from
+  a specified directory. The output is a *named* list of imported
+  objects.
+- `import_excel( )`: Imports an Excel file with multiple sheets and
+  returns a named list of imported sheets.
 - `lehuynh_theme( )`: Personal ggplot2 theme (white background, black
   axis, black text, etc.).
 - `MinMaxScaling( )`: Min-max normalization (min = 0, max = 1).

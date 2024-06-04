@@ -1,8 +1,10 @@
 #' Create a new project
 #'
-#' Create a project for reproducible purposes.
+#' This function sets up a new project within an **active R project**
+#' for reproducible purposes.
 #'
 #' @return A project containing folders and files for reproducible purposes.
+#'
 #' @export
 #'
 #' @details
@@ -14,29 +16,32 @@
 #' * templates: __manuscript.Rmd__, __code.R__, etc.
 #'
 #' @note
+#' The function should be executed within an **active project**.
+#'
 #' Recommended workflow:
 #' 1. Create a GitHub repository for the new project.
 #' At _Initialize this repository with a README_, choose NO.
-#' 1. Create a new RStudio Project via git clone.
+#' 1. Create a new RStudio Project via `git clone`.
 #' 1. Use function `new_project()` to generate folders and file templates.
 #'
 #' @references
 #' [Reproducibile Research Tutorial Series](https://riffomonas.org/reproducible_research/)
-#' by Pat Schloss.
+#'        by Pat Schloss.
 #'
-#' @examplesIf FALSE
-#' new_project()
+#' @examples
+#' \donttest{
+#'
+#' if(interactive()){
+#'   new_project()
+#' }
+#' }
 
 
-new_project = function()
-{
-          here::here()
+new_project <- function(){
 
-          dir_main <- c("data",
-                        "code",
-                        "results",
-                        "exploratory",
-                        "submission")
+          usethis::proj_get()
+
+          dir_main <- c("data", "code", "results", "exploratory", "submission")
 
           dir_sub <- c("data/raw",
                        "data/process",
@@ -47,8 +52,8 @@ new_project = function()
                        "exploratory/text",
                        "exploratory/scratch")
 
-          sapply(dir_main, dir.create)
-          sapply(dir_sub, dir.create)
+          sapply(dir_main, fs::dir_create)
+          sapply(dir_sub, fs::dir_create)
 
           usethis::use_template(template = "new_project/README.md",
                                 save_as = "README.md",
@@ -69,4 +74,6 @@ new_project = function()
           usethis::use_template(template = "new_project/manuscript.Rmd",
                                 save_as = "submission/manuscript.Rmd",
                                 package = "lehuynh")
+
 }
+

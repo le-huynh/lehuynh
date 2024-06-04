@@ -51,7 +51,7 @@ Plot fitted versus observed values, including confidence interval
 prediction interval (dashed line).
 }
 \examples{
-\donttest{
+\dontrun{
 library(brms)
 
 mod <- brm(count ~ zAge + zBase * Trt + (1|patient) + (1|obs),
