@@ -5,10 +5,12 @@
 
 <!-- badges: start -->
 
+[![CRAN
+status](https://www.r-pkg.org/badges/version/lehuynh)](https://CRAN.R-project.org/package=lehuynh)
 [![R-CMD-check](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![DOI](https://zenodo.org/badge/389311777.svg)](https://zenodo.org/doi/10.5281/zenodo.10421410)
+[![DOI](https://zenodo.org/badge/389311777.svg)](https://doi.org/10.5281/zenodo.11522849)
 <!-- badges: end -->
 
 [Le-Huynh Truc-Ly’s](https://lehuynh.rbind.io/) R Code and Templates
@@ -24,7 +26,14 @@ scientific manuscripts.
 
 ## Installation
 
-`lehuynh` R package can be installed from GitHub with:
+`lehuynh` R package is available on CRAN via:
+
+``` r
+install.packages("lehuynh")
+```
+
+To get the latest in-development features, install the development
+version from GitHub:
 
 ``` r
 if(!requireNamespace("devtools", quietly = TRUE)) {
@@ -34,15 +43,14 @@ devtools::install_github("le-huynh/lehuynh")
 ```
 
 This package is also accessible for download via Zenodo with the DOI
-[10.5281/zenodo.10421410](https://zenodo.org/doi/10.5281/zenodo.10421410).
+[10.5281/zenodo.11522849](https://doi.org/10.5281/zenodo.11522849).
 
 ### Functions
 
 - `ggsave_elsevier( )`: Save a plot using `ggplot2::ggsave( )`. Plot
   size follows instructions of Elsevier journals.
 - `import_data( )`: Imports multiple data files of the same format from
-  a specified directory. The output is a *named* list of imported
-  objects.
+  a specified directory. The output is a named list of imported objects.
 - `import_excel( )`: Imports an Excel file with multiple sheets and
   returns a named list of imported sheets.
 - `lehuynh_theme( )`: Personal ggplot2 theme (white background, black
