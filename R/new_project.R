@@ -29,11 +29,9 @@
 #'        by Pat Schloss.
 #'
 #' @examples
-#' \donttest{
 #'
 #' if(interactive()){
 #'   new_project()
-#' }
 #' }
 
 

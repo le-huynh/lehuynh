@@ -23,11 +23,9 @@
 #' @note Ensure that this function is called within an **active project**.
 #'
 #' @examples
-#' \donttest{
 #'
 #' if(interactive()){
 #'   tidytuesday(year = 2021, week = 25)
-#' }
 #' }
 
 

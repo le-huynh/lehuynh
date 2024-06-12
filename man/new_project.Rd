@@ -35,11 +35,9 @@ At \emph{Initialize this repository with a README}, choose NO.
 }
 }
 \examples{
-\donttest{
 
 if(interactive()){
   new_project()
-}
 }
 }
 \references{
