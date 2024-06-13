@@ -59,6 +59,8 @@ This package is also accessible for download via Zenodo with the DOI
 - `new_project( )`: Create a
   [project](https://github.com/SchlossLab/new_project) for reproducible
   purpose.
+- `ngrams_filter()`: Filter and generate N-Grams from text data.
+- `plot_networkD3()`: Plot network using NetworkD3.
 - `ppc_brms( )`: Plot fitted versus observed values for *brmsfit*
   Objects.
 - `tidytuesday( )`: Create a new folder for
