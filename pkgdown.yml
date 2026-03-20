@@ -1,9 +1,8 @@
 pandoc: 3.1.11
-pkgdown: 2.0.9
+pkgdown: 2.2.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-06-13T09:53Z
+last_built: 2026-03-20T04:36Z
 urls:
   reference: https://le-huynh.github.io/lehuynh/reference
   article: https://le-huynh.github.io/lehuynh/articles
-
