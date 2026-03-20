@@ -59,23 +59,20 @@ cal_tn <- function(data,
                                         names_to = "wavelength",
                                         values_to = "sample") %>%
                     tidyr::nest(.by = No.) %>%
-                    dplyr::mutate(blank = list(df_blank),
-                                  NO3ud = list(df_no3ud),
-                                  model = purrr::pmap(list(data = data,
-                                                    blank = blank,
-                                                    NO3ud = NO3ud),
-                                        \(data, blank, NO3ud) {
-                                                  df <- dplyr::left_join(data, blank,
+                    dplyr::mutate(model = purrr::map(data,
+                                                     \(data) {
+                                                  df <- dplyr::left_join(data, df_blank,
                                                                          by = dplyr::join_by(wavelength)) %>%
-                                                            dplyr::left_join(NO3ud,
-                                                                      by = dplyr::join_by(wavelength))
+                                                            dplyr::left_join(df_no3ud,
+                                                                             by = dplyr::join_by(wavelength))
 
                                                   res <- lm(sample ~ NO3ud + blank, data = df)
 
                                                   return(res)
                                         }),
-                           coef = purrr::map(model,
-                                      \(model) stats::coef(model) %>% tibble::as_tibble_row())) %>%
+                                  coef = purrr::map(model,
+                                                    \(model) stats::coef(model) %>%
+                                                              tibble::as_tibble_row())) %>%
                     dplyr::select(No., coef) %>%
                     tidyr::unnest(coef) %>%
                     dplyr::mutate(concentration = NO3ud * dilution_rate)
