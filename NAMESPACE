@@ -2,6 +2,7 @@
 
 export("%>%")
 export(MinMaxScaling)
+export(cal_tn)
 export(ggsave_elsevier)
 export(import_data)
 export(import_excel)

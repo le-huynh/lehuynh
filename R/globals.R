@@ -3,4 +3,5 @@ utils::globalVariables(c("y_obs", "h", "lwr", "upr",
                          "..rr.label..", "..p.label..",
                          "value",
                          "ngrams_word",
-                         "n", "word1", "word2"))
+                         "n", "word1", "word2",
+                         "No.", "wavelength", "blank", "NO3ud", "model", "coef"))
