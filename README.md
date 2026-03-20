@@ -47,6 +47,8 @@ This package is also accessible for download via Zenodo with the DOI
 
 ### Functions
 
+- `cal_tn()`: Calculate Total Nitrogen (TN) concentration for samples
+  using spectrophotometric data
 - `ggsave_elsevier( )`: Save a plot using `ggplot2::ggsave( )`. Plot
   size follows instructions of Elsevier journals.
 - `import_data( )`: Imports multiple data files of the same format from
