@@ -34,6 +34,9 @@ This package is also accessible for download via Zenodo with the DOI
 
 ### Functions
 
+- [`cal_tn()`](https://le-huynh.github.io/lehuynh/reference/cal_tn.md):
+  Calculate Total Nitrogen (TN) concentration for samples using
+  spectrophotometric data
 - [`ggsave_elsevier( )`](https://le-huynh.github.io/lehuynh/reference/ggsave_elsevier.md):
   Save a plot using
   [`ggplot2::ggsave( )`](https://ggplot2.tidyverse.org/reference/ggsave.html).

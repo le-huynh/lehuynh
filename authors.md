@@ -2,7 +2,8 @@
 
 ## Authors
 
-- **Truc-Ly Le-Huynh**. Author, maintainer, copyright holder.
+- **[Truc-Ly Le-Huynh](https://github.com/le-huynh)**. Author,
+  maintainer, copyright holder.
   [](https://orcid.org/https://orcid.org/0000-0002-5227-2185)
 
 ## Citation
