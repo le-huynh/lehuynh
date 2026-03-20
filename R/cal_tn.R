@@ -70,9 +70,8 @@ cal_tn <- function(data,
 
                                                   return(res)
                                         }),
-                                  coef = purrr::map(model,
-                                                    \(model) stats::coef(model) %>%
-                                                              tibble::as_tibble_row())) %>%
+                                  coef = purrr::map_df(model,
+                                                     \(model) stats::coef(model))) %>%
                     dplyr::select(No., coef) %>%
                     tidyr::unnest(coef) %>%
                     dplyr::mutate(concentration = NO3ud * dilution_rate)
